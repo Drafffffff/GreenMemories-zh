@@ -1,0 +1,15 @@
+{
+  "sha256": "b075d31ae8a97aed096dd7d2859648e83da4e420d90831fbc52837a6b006bfe5",
+  "checks": "Blank SRAM boot, Chinese language selection, title menu, new game, 65 opening confirmations, eight weather tutorial pages, controls, actual camp scene, status, inventory weapons category, A/B navigation, all six Start menu pages and menu return.",
+  "limits": "Not a full playthrough or hardware validation.",
+  "manual_review": {
+    "status": "Chinese header, stats, accessories, currency, return label; correct rendering",
+    "inventory": "Chinese header/category and Bottle/Pistol/Machete names; original game groups Bottle under weapons",
+    "map": "Chinese header; unavailable area/map notice",
+    "mission": "Chinese title and multi-line task description fit",
+    "files": "Chinese header and not-yet-opened notice",
+    "system": "Chinese save/controls/tutorial/title items plus confirm/return labels",
+    "return_game": "Actual colorful camp scene with Chinese camp sign; menu closed",
+    "weather_tutorial": "8 pages and controls diagram viewed"
+  }
+}

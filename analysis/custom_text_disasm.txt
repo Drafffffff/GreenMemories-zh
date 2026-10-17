@@ -1,0 +1,369 @@
+
+GREEN_MEMORIES/original/Green-Memories-v1.5.0.gba:     file format binary
+
+
+Disassembly of section .data:
+
+08023d00 <.data+0x23d00>:
+ 8023d00:	ab08      	add	r3, sp, #32
+ 8023d02:	9301      	str	r3, [sp, #4]
+ 8023d04:	4ba3      	ldr	r3, [pc, #652]	@ (0x8023f94)
+ 8023d06:	9300      	str	r3, [sp, #0]
+ 8023d08:	23de      	movs	r3, #222	@ 0xde
+ 8023d0a:	f7e0 feef 	bl	0x8004aec
+ 8023d0e:	2200      	movs	r2, #0
+ 8023d10:	e785      	b.n	0x8023c1e
+ 8023d12:	6833      	ldr	r3, [r6, #0]
+ 8023d14:	689a      	ldr	r2, [r3, #8]
+ 8023d16:	42a2      	cmp	r2, r4
+ 8023d18:	dc8c      	bgt.n	0x8023c34
+ 8023d1a:	691a      	ldr	r2, [r3, #16]
+ 8023d1c:	42a2      	cmp	r2, r4
+ 8023d1e:	db89      	blt.n	0x8023c34
+ 8023d20:	781b      	ldrb	r3, [r3, #0]
+ 8023d22:	2b72      	cmp	r3, #114	@ 0x72
+ 8023d24:	d100      	bne.n	0x8023d28
+ 8023d26:	e10e      	b.n	0x8023f46
+ 8023d28:	2b67      	cmp	r3, #103	@ 0x67
+ 8023d2a:	d100      	bne.n	0x8023d2e
+ 8023d2c:	e110      	b.n	0x8023f50
+ 8023d2e:	2b62      	cmp	r3, #98	@ 0x62
+ 8023d30:	d100      	bne.n	0x8023d34
+ 8023d32:	e11b      	b.n	0x8023f6c
+ 8023d34:	2b79      	cmp	r3, #121	@ 0x79
+ 8023d36:	d000      	beq.n	0x8023d3a
+ 8023d38:	e77c      	b.n	0x8023c34
+ 8023d3a:	4997      	ldr	r1, [pc, #604]	@ (0x8023f98)
+ 8023d3c:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023d3e:	f060 f935 	bl	0x8083fac
+ 8023d42:	e77c      	b.n	0x8023c3e
+ 8023d44:	b00d      	add	sp, #52	@ 0x34
+ 8023d46:	bcf0      	pop	{r4, r5, r6, r7}
+ 8023d48:	46bb      	mov	fp, r7
+ 8023d4a:	46b2      	mov	sl, r6
+ 8023d4c:	46a9      	mov	r9, r5
+ 8023d4e:	46a0      	mov	r8, r4
+ 8023d50:	bcf0      	pop	{r4, r5, r6, r7}
+ 8023d52:	bc01      	pop	{r0}
+ 8023d54:	4700      	bx	r0
+ 8023d56:	190a      	adds	r2, r1, r4
+ 8023d58:	3a01      	subs	r2, #1
+ 8023d5a:	7812      	ldrb	r2, [r2, #0]
+ 8023d5c:	2a3c      	cmp	r2, #60	@ 0x3c
+ 8023d5e:	d000      	beq.n	0x8023d62
+ 8023d60:	e762      	b.n	0x8023c28
+ 8023d62:	1c62      	adds	r2, r4, #1
+ 8023d64:	9208      	str	r2, [sp, #32]
+ 8023d66:	4293      	cmp	r3, r2
+ 8023d68:	ddc2      	ble.n	0x8023cf0
+ 8023d6a:	5c8b      	ldrb	r3, [r1, r2]
+ 8023d6c:	2b3e      	cmp	r3, #62	@ 0x3e
+ 8023d6e:	d000      	beq.n	0x8023d72
+ 8023d70:	e75a      	b.n	0x8023c28
+ 8023d72:	0014      	movs	r4, r2
+ 8023d74:	e7b4      	b.n	0x8023ce0
+ 8023d76:	2200      	movs	r2, #0
+ 8023d78:	ab07      	add	r3, sp, #28
+ 8023d7a:	801a      	strh	r2, [r3, #0]
+ 8023d7c:	780a      	ldrb	r2, [r1, #0]
+ 8023d7e:	e783      	b.n	0x8023c88
+ 8023d80:	4657      	mov	r7, sl
+ 8023d82:	970a      	str	r7, [sp, #40]	@ 0x28
+ 8023d84:	e7b5      	b.n	0x8023cf2
+ 8023d86:	1a5b      	subs	r3, r3, r1
+ 8023d88:	e7b2      	b.n	0x8023cf0
+ 8023d8a:	3a02      	subs	r2, #2
+ 8023d8c:	2100      	movs	r1, #0
+ 8023d8e:	a808      	add	r0, sp, #32
+ 8023d90:	f06e fd92 	bl	0x80928b8
+ 8023d94:	9b05      	ldr	r3, [sp, #20]
+ 8023d96:	781a      	ldrb	r2, [r3, #0]
+ 8023d98:	ab02      	add	r3, sp, #8
+ 8023d9a:	761a      	strb	r2, [r3, #24]
+ 8023d9c:	1c63      	adds	r3, r4, #1
+ 8023d9e:	9307      	str	r3, [sp, #28]
+ 8023da0:	4553      	cmp	r3, sl
+ 8023da2:	da77      	bge.n	0x8023e94
+ 8023da4:	5cfb      	ldrb	r3, [r7, r3]
+ 8023da6:	a902      	add	r1, sp, #8
+ 8023da8:	764b      	strb	r3, [r1, #25]
+ 8023daa:	1ca3      	adds	r3, r4, #2
+ 8023dac:	9307      	str	r3, [sp, #28]
+ 8023dae:	4553      	cmp	r3, sl
+ 8023db0:	da70      	bge.n	0x8023e94
+ 8023db2:	5cfb      	ldrb	r3, [r7, r3]
+ 8023db4:	a902      	add	r1, sp, #8
+ 8023db6:	768b      	strb	r3, [r1, #26]
+ 8023db8:	1ce3      	adds	r3, r4, #3
+ 8023dba:	9307      	str	r3, [sp, #28]
+ 8023dbc:	459a      	cmp	sl, r3
+ 8023dbe:	dd69      	ble.n	0x8023e94
+ 8023dc0:	5cfb      	ldrb	r3, [r7, r3]
+ 8023dc2:	a902      	add	r1, sp, #8
+ 8023dc4:	76cb      	strb	r3, [r1, #27]
+ 8023dc6:	9b1a      	ldr	r3, [sp, #104]	@ 0x68
+ 8023dc8:	0319      	lsls	r1, r3, #12
+ 8023dca:	ab08      	add	r3, sp, #32
+ 8023dcc:	930a      	str	r3, [sp, #40]	@ 0x28
+ 8023dce:	af0a      	add	r7, sp, #40	@ 0x28
+ 8023dd0:	2a00      	cmp	r2, #0
+ 8023dd2:	d100      	bne.n	0x8023dd6
+ 8023dd4:	e0d1      	b.n	0x8023f7a
+ 8023dd6:	785a      	ldrb	r2, [r3, #1]
+ 8023dd8:	3301      	adds	r3, #1
+ 8023dda:	2a00      	cmp	r2, #0
+ 8023ddc:	d1fb      	bne.n	0x8023dd6
+ 8023dde:	607b      	str	r3, [r7, #4]
+ 8023de0:	9b17      	ldr	r3, [sp, #92]	@ 0x5c
+ 8023de2:	681a      	ldr	r2, [r3, #0]
+ 8023de4:	9b16      	ldr	r3, [sp, #88]	@ 0x58
+ 8023de6:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023de8:	9300      	str	r3, [sp, #0]
+ 8023dea:	003b      	movs	r3, r7
+ 8023dec:	f061 fd2e 	bl	0x808584c
+ 8023df0:	6829      	ldr	r1, [r5, #0]
+ 8023df2:	686b      	ldr	r3, [r5, #4]
+ 8023df4:	9407      	str	r4, [sp, #28]
+ 8023df6:	1a5b      	subs	r3, r3, r1
+ 8023df8:	42a3      	cmp	r3, r4
+ 8023dfa:	dc00      	bgt.n	0x8023dfe
+ 8023dfc:	e0ad      	b.n	0x8023f5a
+ 8023dfe:	1909      	adds	r1, r1, r4
+ 8023e00:	0038      	movs	r0, r7
+ 8023e02:	f7fa fa71 	bl	0x801e2e8
+ 8023e06:	0038      	movs	r0, r7
+ 8023e08:	f7f2 fc0e 	bl	0x8016628
+ 8023e0c:	9b1a      	ldr	r3, [sp, #104]	@ 0x68
+ 8023e0e:	469c      	mov	ip, r3
+ 8023e10:	4484      	add	ip, r0
+ 8023e12:	4663      	mov	r3, ip
+ 8023e14:	931a      	str	r3, [sp, #104]	@ 0x68
+ 8023e16:	465b      	mov	r3, fp
+ 8023e18:	3404      	adds	r4, #4
+ 8023e1a:	6818      	ldr	r0, [r3, #0]
+ 8023e1c:	e760      	b.n	0x8023ce0
+ 8023e1e:	3abd      	subs	r2, #189	@ 0xbd
+ 8023e20:	2100      	movs	r1, #0
+ 8023e22:	a807      	add	r0, sp, #28
+ 8023e24:	f06e fd48 	bl	0x80928b8
+ 8023e28:	9b05      	ldr	r3, [sp, #20]
+ 8023e2a:	781a      	ldrb	r2, [r3, #0]
+ 8023e2c:	ab02      	add	r3, sp, #8
+ 8023e2e:	751a      	strb	r2, [r3, #20]
+ 8023e30:	1c63      	adds	r3, r4, #1
+ 8023e32:	9308      	str	r3, [sp, #32]
+ 8023e34:	4553      	cmp	r3, sl
+ 8023e36:	daa3      	bge.n	0x8023d80
+ 8023e38:	5cfb      	ldrb	r3, [r7, r3]
+ 8023e3a:	a902      	add	r1, sp, #8
+ 8023e3c:	754b      	strb	r3, [r1, #21]
+ 8023e3e:	9b1a      	ldr	r3, [sp, #104]	@ 0x68
+ 8023e40:	0319      	lsls	r1, r3, #12
+ 8023e42:	ab07      	add	r3, sp, #28
+ 8023e44:	930a      	str	r3, [sp, #40]	@ 0x28
+ 8023e46:	af0a      	add	r7, sp, #40	@ 0x28
+ 8023e48:	2a00      	cmp	r2, #0
+ 8023e4a:	d100      	bne.n	0x8023e4e
+ 8023e4c:	e093      	b.n	0x8023f76
+ 8023e4e:	785a      	ldrb	r2, [r3, #1]
+ 8023e50:	3301      	adds	r3, #1
+ 8023e52:	2a00      	cmp	r2, #0
+ 8023e54:	d1fb      	bne.n	0x8023e4e
+ 8023e56:	607b      	str	r3, [r7, #4]
+ 8023e58:	9b17      	ldr	r3, [sp, #92]	@ 0x5c
+ 8023e5a:	681a      	ldr	r2, [r3, #0]
+ 8023e5c:	9b16      	ldr	r3, [sp, #88]	@ 0x58
+ 8023e5e:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023e60:	9300      	str	r3, [sp, #0]
+ 8023e62:	003b      	movs	r3, r7
+ 8023e64:	f061 fcf2 	bl	0x808584c
+ 8023e68:	6829      	ldr	r1, [r5, #0]
+ 8023e6a:	686b      	ldr	r3, [r5, #4]
+ 8023e6c:	9408      	str	r4, [sp, #32]
+ 8023e6e:	1a5b      	subs	r3, r3, r1
+ 8023e70:	42a3      	cmp	r3, r4
+ 8023e72:	dd62      	ble.n	0x8023f3a
+ 8023e74:	1909      	adds	r1, r1, r4
+ 8023e76:	0038      	movs	r0, r7
+ 8023e78:	f7fa fa36 	bl	0x801e2e8
+ 8023e7c:	0038      	movs	r0, r7
+ 8023e7e:	f7f2 fbd3 	bl	0x8016628
+ 8023e82:	9b1a      	ldr	r3, [sp, #104]	@ 0x68
+ 8023e84:	469c      	mov	ip, r3
+ 8023e86:	4484      	add	ip, r0
+ 8023e88:	4663      	mov	r3, ip
+ 8023e8a:	931a      	str	r3, [sp, #104]	@ 0x68
+ 8023e8c:	465b      	mov	r3, fp
+ 8023e8e:	3402      	adds	r4, #2
+ 8023e90:	6818      	ldr	r0, [r3, #0]
+ 8023e92:	e725      	b.n	0x8023ce0
+ 8023e94:	4657      	mov	r7, sl
+ 8023e96:	ab0a      	add	r3, sp, #40	@ 0x28
+ 8023e98:	9303      	str	r3, [sp, #12]
+ 8023e9a:	4b3d      	ldr	r3, [pc, #244]	@ (0x8023f90)
+ 8023e9c:	970a      	str	r7, [sp, #40]	@ 0x28
+ 8023e9e:	9302      	str	r3, [sp, #8]
+ 8023ea0:	4a38      	ldr	r2, [pc, #224]	@ (0x8023f84)
+ 8023ea2:	4939      	ldr	r1, [pc, #228]	@ (0x8023f88)
+ 8023ea4:	4839      	ldr	r0, [pc, #228]	@ (0x8023f8c)
+ 8023ea6:	ab07      	add	r3, sp, #28
+ 8023ea8:	e72b      	b.n	0x8023d02
+ 8023eaa:	2200      	movs	r2, #0
+ 8023eac:	9207      	str	r2, [sp, #28]
+ 8023eae:	9a05      	ldr	r2, [sp, #20]
+ 8023eb0:	7810      	ldrb	r0, [r2, #0]
+ 8023eb2:	ab07      	add	r3, sp, #28
+ 8023eb4:	1c62      	adds	r2, r4, #1
+ 8023eb6:	7018      	strb	r0, [r3, #0]
+ 8023eb8:	9208      	str	r2, [sp, #32]
+ 8023eba:	4552      	cmp	r2, sl
+ 8023ebc:	db00      	blt.n	0x8023ec0
+ 8023ebe:	e75f      	b.n	0x8023d80
+ 8023ec0:	5cba      	ldrb	r2, [r7, r2]
+ 8023ec2:	705a      	strb	r2, [r3, #1]
+ 8023ec4:	1ca2      	adds	r2, r4, #2
+ 8023ec6:	9208      	str	r2, [sp, #32]
+ 8023ec8:	4552      	cmp	r2, sl
+ 8023eca:	db00      	blt.n	0x8023ece
+ 8023ecc:	e758      	b.n	0x8023d80
+ 8023ece:	5cba      	ldrb	r2, [r7, r2]
+ 8023ed0:	709a      	strb	r2, [r3, #2]
+ 8023ed2:	9a1a      	ldr	r2, [sp, #104]	@ 0x68
+ 8023ed4:	930a      	str	r3, [sp, #40]	@ 0x28
+ 8023ed6:	0311      	lsls	r1, r2, #12
+ 8023ed8:	af0a      	add	r7, sp, #40	@ 0x28
+ 8023eda:	2800      	cmp	r0, #0
+ 8023edc:	d003      	beq.n	0x8023ee6
+ 8023ede:	785a      	ldrb	r2, [r3, #1]
+ 8023ee0:	3301      	adds	r3, #1
+ 8023ee2:	2a00      	cmp	r2, #0
+ 8023ee4:	d1fb      	bne.n	0x8023ede
+ 8023ee6:	607b      	str	r3, [r7, #4]
+ 8023ee8:	9b17      	ldr	r3, [sp, #92]	@ 0x5c
+ 8023eea:	681a      	ldr	r2, [r3, #0]
+ 8023eec:	9b16      	ldr	r3, [sp, #88]	@ 0x58
+ 8023eee:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023ef0:	9300      	str	r3, [sp, #0]
+ 8023ef2:	003b      	movs	r3, r7
+ 8023ef4:	f061 fcaa 	bl	0x808584c
+ 8023ef8:	6829      	ldr	r1, [r5, #0]
+ 8023efa:	686b      	ldr	r3, [r5, #4]
+ 8023efc:	9408      	str	r4, [sp, #32]
+ 8023efe:	1a5b      	subs	r3, r3, r1
+ 8023f00:	42a3      	cmp	r3, r4
+ 8023f02:	dd1a      	ble.n	0x8023f3a
+ 8023f04:	1909      	adds	r1, r1, r4
+ 8023f06:	0038      	movs	r0, r7
+ 8023f08:	f7fa f9ee 	bl	0x801e2e8
+ 8023f0c:	0038      	movs	r0, r7
+ 8023f0e:	f7f2 fb8b 	bl	0x8016628
+ 8023f12:	9b1a      	ldr	r3, [sp, #104]	@ 0x68
+ 8023f14:	469c      	mov	ip, r3
+ 8023f16:	4484      	add	ip, r0
+ 8023f18:	4663      	mov	r3, ip
+ 8023f1a:	931a      	str	r3, [sp, #104]	@ 0x68
+ 8023f1c:	465b      	mov	r3, fp
+ 8023f1e:	3403      	adds	r4, #3
+ 8023f20:	6818      	ldr	r0, [r3, #0]
+ 8023f22:	e6dd      	b.n	0x8023ce0
+ 8023f24:	ab0a      	add	r3, sp, #40	@ 0x28
+ 8023f26:	9301      	str	r3, [sp, #4]
+ 8023f28:	4b1c      	ldr	r3, [pc, #112]	@ (0x8023f9c)
+ 8023f2a:	9300      	str	r3, [sp, #0]
+ 8023f2c:	239b      	movs	r3, #155	@ 0x9b
+ 8023f2e:	4a1c      	ldr	r2, [pc, #112]	@ (0x8023fa0)
+ 8023f30:	491c      	ldr	r1, [pc, #112]	@ (0x8023fa4)
+ 8023f32:	481d      	ldr	r0, [pc, #116]	@ (0x8023fa8)
+ 8023f34:	005b      	lsls	r3, r3, #1
+ 8023f36:	f7de f82b 	bl	0x8001f90
+ 8023f3a:	930a      	str	r3, [sp, #40]	@ 0x28
+ 8023f3c:	4a11      	ldr	r2, [pc, #68]	@ (0x8023f84)
+ 8023f3e:	003b      	movs	r3, r7
+ 8023f40:	4911      	ldr	r1, [pc, #68]	@ (0x8023f88)
+ 8023f42:	4812      	ldr	r0, [pc, #72]	@ (0x8023f8c)
+ 8023f44:	e6d9      	b.n	0x8023cfa
+ 8023f46:	4919      	ldr	r1, [pc, #100]	@ (0x8023fac)
+ 8023f48:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023f4a:	f060 f82f 	bl	0x8083fac
+ 8023f4e:	e676      	b.n	0x8023c3e
+ 8023f50:	4917      	ldr	r1, [pc, #92]	@ (0x8023fb0)
+ 8023f52:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023f54:	f060 f82a 	bl	0x8083fac
+ 8023f58:	e671      	b.n	0x8023c3e
+ 8023f5a:	930a      	str	r3, [sp, #40]	@ 0x28
+ 8023f5c:	4b0c      	ldr	r3, [pc, #48]	@ (0x8023f90)
+ 8023f5e:	4a09      	ldr	r2, [pc, #36]	@ (0x8023f84)
+ 8023f60:	9302      	str	r3, [sp, #8]
+ 8023f62:	4909      	ldr	r1, [pc, #36]	@ (0x8023f88)
+ 8023f64:	4809      	ldr	r0, [pc, #36]	@ (0x8023f8c)
+ 8023f66:	9703      	str	r7, [sp, #12]
+ 8023f68:	ab07      	add	r3, sp, #28
+ 8023f6a:	e6ca      	b.n	0x8023d02
+ 8023f6c:	4911      	ldr	r1, [pc, #68]	@ (0x8023fb4)
+ 8023f6e:	9818      	ldr	r0, [sp, #96]	@ 0x60
+ 8023f70:	f060 f81c 	bl	0x8083fac
+ 8023f74:	e663      	b.n	0x8023c3e
+ 8023f76:	ab07      	add	r3, sp, #28
+ 8023f78:	e76d      	b.n	0x8023e56
+ 8023f7a:	ab08      	add	r3, sp, #32
+ 8023f7c:	e72f      	b.n	0x8023dde
+ 8023f7e:	46c0      	nop			@ (mov r8, r8)
+ 8023f80:	d144      	bne.n	0x802400c
+ 8023f82:	0882      	lsrs	r2, r0, #2
+ 8023f84:	c150      	stmia	r1!, {r4, r6}
+ 8023f86:	0880      	lsrs	r0, r0, #2
+ 8023f88:	c5ec      	stmia	r5!, {r2, r3, r5, r6, r7}
+ 8023f8a:	0880      	lsrs	r0, r0, #2
+ 8023f8c:	9860      	ldr	r0, [sp, #384]	@ 0x180
+ 8023f8e:	0881      	lsrs	r1, r0, #2
+ 8023f90:	c184      	stmia	r1!, {r2, r7}
+ 8023f92:	0880      	lsrs	r0, r0, #2
+ 8023f94:	9884      	ldr	r0, [sp, #528]	@ 0x210
+ 8023f96:	0881      	lsrs	r1, r0, #2
+ 8023f98:	f1ac 0882 	sub.w	r8, ip, #130	@ 0x82
+ 8023f9c:	c0f8      	stmia	r0!, {r3, r4, r5, r6, r7}
+ 8023f9e:	0880      	lsrs	r0, r0, #2
+ 8023fa0:	0e20      	lsrs	r0, r4, #24
+ 8023fa2:	0881      	lsrs	r1, r0, #2
+ 8023fa4:	c0cc      	stmia	r0!, {r2, r3, r6, r7}
+ 8023fa6:	0880      	lsrs	r0, r0, #2
+ 8023fa8:	c0d8      	stmia	r0!, {r3, r4, r6, r7}
+ 8023faa:	0880      	lsrs	r0, r0, #2
+ 8023fac:	cf00      	ldmia	r7!, {}
+ 8023fae:	0882      	lsrs	r2, r0, #2
+ 8023fb0:	c348      	stmia	r3!, {r3, r6}
+ 8023fb2:	0880      	lsrs	r0, r0, #2
+ 8023fb4:	f1c8 0882 	rsb	r8, r8, #130	@ 0x82
+ 8023fb8:	b5f0      	push	{r4, r5, r6, r7, lr}
+ 8023fba:	46de      	mov	lr, fp
+ 8023fbc:	4645      	mov	r5, r8
+ 8023fbe:	4657      	mov	r7, sl
+ 8023fc0:	464e      	mov	r6, r9
+ 8023fc2:	2280      	movs	r2, #128	@ 0x80
+ 8023fc4:	b5e0      	push	{r5, r6, r7, lr}
+ 8023fc6:	0004      	movs	r4, r0
+ 8023fc8:	495a      	ldr	r1, [pc, #360]	@ (0x8024134)
+ 8023fca:	485b      	ldr	r0, [pc, #364]	@ (0x8024138)
+ 8023fcc:	b0a1      	sub	sp, #132	@ 0x84
+ 8023fce:	0152      	lsls	r2, r2, #5
+ 8023fd0:	f054 ff9a 	bl	0x8078f08
+ 8023fd4:	2305      	movs	r3, #5
+ 8023fd6:	4d59      	ldr	r5, [pc, #356]	@ (0x802413c)
+ 8023fd8:	5163      	str	r3, [r4, r5]
+ 8023fda:	f058 fcf3 	bl	0x807c9c4
+ 8023fde:	5963      	ldr	r3, [r4, r5]
+ 8023fe0:	3b01      	subs	r3, #1
+ 8023fe2:	5163      	str	r3, [r4, r5]
+ 8023fe4:	2b00      	cmp	r3, #0
+ 8023fe6:	dcf8      	bgt.n	0x8023fda
+ 8023fe8:	0020      	movs	r0, r4
+ 8023fea:	f7ef fc3b 	bl	0x8013864
+ 8023fee:	23d6      	movs	r3, #214	@ 0xd6
+ 8023ff0:	009b      	lsls	r3, r3, #2
+ 8023ff2:	18e6      	adds	r6, r4, r3
+ 8023ff4:	6873      	ldr	r3, [r6, #4]
+ 8023ff6:	2b00      	cmp	r3, #0
+ 8023ff8:	dd11      	ble.n	0x802401e
+ 8023ffa:	27d6      	movs	r7, #214	@ 0xd6
+ 8023ffc:	2500      	movs	r5, #0
+ 8023ffe:	00bf      	lsls	r7, r7, #2

@@ -1,0 +1,17 @@
+{
+  "tsv_lines": 1090,
+  "fixed_item_description_fields": 400,
+  "fixed_item_short_name_fields": 132,
+  "total_text_records": 1622,
+  "translation_sources": [
+    "GREEN_MEMORIES/translations/items.json",
+    "GREEN_MEMORIES/translations/part_root.tsv",
+    "GREEN_MEMORIES/translations/part_green.tsv",
+    "GREEN_MEMORIES/translations/all.json",
+    "GREEN_MEMORIES/translations/ui.tsv"
+  ],
+  "english_mode": "Chinese",
+  "portuguese_story_mode": "original Portuguese retained; item fields and image resources Chinese",
+  "original_ascii_kept_in_unreferenced_ROM": "not used as coverage proof",
+  "full_playthrough": false
+}

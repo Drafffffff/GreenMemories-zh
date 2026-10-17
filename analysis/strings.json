@@ -1,0 +1,9086 @@
+[
+  {
+    "offset": "0x80c09c",
+    "text": "value"
+  },
+  {
+    "offset": "0x80c0a4",
+    "text": "bn_optional.h"
+  },
+  {
+    "offset": "0x80c0b4",
+    "text": "Optional is not valid"
+  },
+  {
+    "offset": "0x80c0ca",
+    "text": "ÿÿbn_span.h"
+  },
+  {
+    "offset": "0x80c0d8",
+    "text": "index >= 0 && index < size()"
+  },
+  {
+    "offset": "0x80c0f8",
+    "text": "Invalid index: "
+  },
+  {
+    "offset": "0x80c150",
+    "text": "operator[]"
+  },
+  {
+    "offset": "0x80c15c",
+    "text": "bn_vector.h"
+  },
+  {
+    "offset": "0x80c168",
+    "text": "index >= 0 && index < _size"
+  },
+  {
+    "offset": "0x80c188",
+    "text": "_assign"
+  },
+  {
+    "offset": "0x80c190",
+    "text": "bn_string.h"
+  },
+  {
+    "offset": "0x80c19c",
+    "text": "other_size <= _max_size"
+  },
+  {
+    "offset": "0x80c1b4",
+    "text": "Not enough space: "
+  },
+  {
+    "offset": "0x80c1c7",
+    "text": "ÿget_fixed"
+  },
+  {
+    "offset": "0x80c1d4",
+    "text": "bn_random.h"
+  },
+  {
+    "offset": "0x80c1e0",
+    "text": "limit > 0"
+  },
+  {
+    "offset": "0x80c1ec",
+    "text": "Invalid limit: "
+  },
+  {
+    "offset": "0x80c358",
+    "text": "GREENSAVE"
+  },
+  {
+    "offset": "0x80c362",
+    "text": "ÿÿFOUND: "
+  },
+  {
+    "offset": "0x80c36c",
+    "text": " at index "
+  },
+  {
+    "offset": "0x80c378",
+    "text": "FOUND: noarea"
+  },
+  {
+    "offset": "0x80c386",
+    "text": "ÿÿset_red"
+  },
+  {
+    "offset": "0x80c390",
+    "text": "bn_color.h"
+  },
+  {
+    "offset": "0x80c39c",
+    "text": "red >= 0 && red <= 31"
+  },
+  {
+    "offset": "0x80c3b4",
+    "text": "Invalid red: "
+  },
+  {
+    "offset": "0x80c3c4",
+    "text": "set_green"
+  },
+  {
+    "offset": "0x80c3d0",
+    "text": "green >= 0 && green <= 31"
+  },
+  {
+    "offset": "0x80c3ec",
+    "text": "Invalid green: "
+  },
+  {
+    "offset": "0x80c3fc",
+    "text": "set_blue"
+  },
+  {
+    "offset": "0x80c408",
+    "text": "blue >= 0 && blue <= 31"
+  },
+  {
+    "offset": "0x80c420",
+    "text": "Invalid blue: "
+  },
+  {
+    "offset": "0x80c42f",
+    "text": "ÿcolor"
+  },
+  {
+    "offset": "0x80c436",
+    "text": "ÿÿbg_palette_item"
+  },
+  {
+    "offset": "0x80c448",
+    "text": "bn_bg_palette_item.h"
+  },
+  {
+    "offset": "0x80c460",
+    "text": "colors_ref.size() >= 16 && colors_ref.size() <= 256 && colors_ref.size() % 16 == 0"
+  },
+  {
+    "offset": "0x80c4b4",
+    "text": "Invalid colors count: "
+  },
+  {
+    "offset": "0x80c4cb",
+    "text": "ÿoperator->"
+  },
+  {
+    "offset": "0x80c558",
+    "text": "batida de asa"
+  },
+  {
+    "offset": "0x80c5a4",
+    "text": "utf8_character"
+  },
+  {
+    "offset": "0x80c5b4",
+    "text": "bn_utf8_character.h"
+  },
+  {
+    "offset": "0x80c5c8",
+    "text": "Invalid UTF-8 character"
+  },
+  {
+    "offset": "0x80c5e0",
+    "text": "string_view"
+  },
+  {
+    "offset": "0x80c5ec",
+    "text": "bn_string_view.h"
+  },
+  {
+    "offset": "0x80c600",
+    "text": "Null char array ptr"
+  },
+  {
+    "offset": "0x80c622",
+    "text": "ÿÿget_int"
+  },
+  {
+    "offset": "0x80c62c",
+    "text": "range > 0"
+  },
+  {
+    "offset": "0x80c638",
+    "text": "Invalid range: "
+  },
+  {
+    "offset": "0x80c6cc",
+    "text": "saving: h:"
+  },
+  {
+    "offset": "0x80c6d8",
+    "text": ", scene: "
+  },
+  {
+    "offset": "0x80c6e4",
+    "text": "AlÃ­vio"
+  },
+  {
+    "offset": "0x80c6ec",
+    "text": "  Finalmente terminei esse trampo da anatel"
+  },
+  {
+    "offset": "0x80c718",
+    "text": "Me sinto livre para explorar toda a regiÃ£o"
+  },
+  {
+    "offset": "0x80c744",
+    "text": "antes de voltar para o acampamento."
+  },
+  {
+    "offset": "0x80c768",
+    "text": "Baterias Infinitas"
+  },
+  {
+    "offset": "0x80c77c",
+    "text": "  Eu odeio essa missÃ£o. Sou cientista nÃ£o"
+  },
+  {
+    "offset": "0x80c7a8",
+    "text": "um p***chu!"
+  },
+  {
+    "offset": "0x80c7b4",
+    "text": "  De qualquer modo, preciso de 20 baterias."
+  },
+  {
+    "offset": "0x80c7e0",
+    "text": "Ato Falho"
+  },
+  {
+    "offset": "0x80c7ec",
+    "text": "  Richard parece estar escondendo algo. ."
+  },
+  {
+    "offset": "0x80c818",
+    "text": "Espero que nÃ£o seja mais baterias. . ."
+  },
+  {
+    "offset": "0x80c840",
+    "text": "Vamos encontrÃ¡-lo na prÃ³xima estaÃ§Ã£o."
+  },
+  {
+    "offset": "0x80c86c",
+    "text": "De Ruim Ã  Pior"
+  },
+  {
+    "offset": "0x80c87c",
+    "text": "  Continuamos com problemas de energia"
+  },
+  {
+    "offset": "0x80c8a4",
+    "text": "elÃ©trica. Dessa vez precisamos de 6"
+  },
+  {
+    "offset": "0x80c8cc",
+    "text": "baterias."
+  },
+  {
+    "offset": "0x80c8d8",
+    "text": "Reconhecendo o Terreno"
+  },
+  {
+    "offset": "0x80c8f0",
+    "text": "  A segunda estaÃ§Ã£o meteorolÃ³gica estÃ¡"
+  },
+  {
+    "offset": "0x80c91c",
+    "text": "localizada no setor a leste do acampamento"
+  },
+  {
+    "offset": "0x80c948",
+    "text": "central. VÃ¡ encontrar Richard lÃ¡."
+  },
+  {
+    "offset": "0x80c96c",
+    "text": "Ficando sem Energia"
+  },
+  {
+    "offset": "0x80c980",
+    "text": "  As estaÃ§Ãµes meteorolÃ³gicas estÃ£o sem"
+  },
+  {
+    "offset": "0x80c9ac",
+    "text": "energia, Richard disse que apenas 2"
+  },
+  {
+    "offset": "0x80c9d0",
+    "text": "baterias seriam suficientes. (Podemos"
+  },
+  {
+    "offset": "0x80c9f8",
+    "text": "obter destruindo drones)."
+  },
+  {
+    "offset": "0x80ca14",
+    "text": "Encontre Richard"
+  },
+  {
+    "offset": "0x80ca28",
+    "text": "  Richard Ã© o Ãºnico sobrevivente da equipe"
+  },
+  {
+    "offset": "0x80ca58",
+    "text": "de pesquisa anterior, parece que ele ainda "
+  },
+  {
+    "offset": "0x80ca84",
+    "text": "se lembra da localizaÃ§Ã£o das estaÃ§Ãµes "
+  },
+  {
+    "offset": "0x80cab0",
+    "text": "meteorolÃ³gicas."
+  },
+  {
+    "offset": "0x80cac4",
+    "text": "Relief"
+  },
+  {
+    "offset": "0x80cacc",
+    "text": "  I finally finished this damn power supply"
+  },
+  {
+    "offset": "0x80caf8",
+    "text": "job. I feel free to explore the other areas"
+  },
+  {
+    "offset": "0x80cb24",
+    "text": "and then I need to return to camp."
+  },
+  {
+    "offset": "0x80cb48",
+    "text": "Infinite Batteries"
+  },
+  {
+    "offset": "0x80cb5c",
+    "text": "  I already hate this mission. I'm a scientist"
+  },
+  {
+    "offset": "0x80cb8c",
+    "text": "not a p***chu!"
+  },
+  {
+    "offset": "0x80cb9c",
+    "text": "Anyway, I need 20 batteries . . ."
+  },
+  {
+    "offset": "0x80cbc0",
+    "text": "A Slip"
+  },
+  {
+    "offset": "0x80cbc8",
+    "text": "  Richard seems to be hiding something . . ."
+  },
+  {
+    "offset": "0x80cbf8",
+    "text": "Hope he's not wanting more batteries . . ."
+  },
+  {
+    "offset": "0x80cc24",
+    "text": "Go find the next station."
+  },
+  {
+    "offset": "0x80cc40",
+    "text": "A Worse Situation"
+  },
+  {
+    "offset": "0x80cc54",
+    "text": "  We continue to have power problems."
+  },
+  {
+    "offset": "0x80cc7c",
+    "text": "This time we will need 6 batteries."
+  },
+  {
+    "offset": "0x80cca0",
+    "text": "Terrain Recognition"
+  },
+  {
+    "offset": "0x80ccb4",
+    "text": "  The second meteorological station is"
+  },
+  {
+    "offset": "0x80ccdc",
+    "text": "located in the east sector of the central"
+  },
+  {
+    "offset": "0x80cd08",
+    "text": "camp. Go find Richard there."
+  },
+  {
+    "offset": "0x80cd28",
+    "text": "Lack of Energy"
+  },
+  {
+    "offset": "0x80cd38",
+    "text": "  The meteorological stations are without"
+  },
+  {
+    "offset": "0x80cd64",
+    "text": "power supply, Richard told you that 2"
+  },
+  {
+    "offset": "0x80cd8c",
+    "text": "batteries would be enough. (Can be found"
+  },
+  {
+    "offset": "0x80cdb8",
+    "text": "by destroying drones)"
+  },
+  {
+    "offset": "0x80cdd0",
+    "text": "Find Richard"
+  },
+  {
+    "offset": "0x80cde0",
+    "text": "  Richard is the lone survivor of the last"
+  },
+  {
+    "offset": "0x80ce0c",
+    "text": "research team, and he seems to remember"
+  },
+  {
+    "offset": "0x80ce34",
+    "text": "the location of the lost meteorological"
+  },
+  {
+    "offset": "0x80ce5c",
+    "text": "stations."
+  },
+  {
+    "offset": "0x80ce68",
+    "text": "Central Camp"
+  },
+  {
+    "offset": "0x80ce78",
+    "text": "Acampamento Central"
+  },
+  {
+    "offset": "0x80ce8c",
+    "text": "East Sector"
+  },
+  {
+    "offset": "0x80ce98",
+    "text": "Setor Leste"
+  },
+  {
+    "offset": "0x80cea4",
+    "text": "North Bifurcation"
+  },
+  {
+    "offset": "0x80ceb8",
+    "text": "BifurcaÃ§Ã£o Norte"
+  },
+  {
+    "offset": "0x80cecc",
+    "text": "Northeast Sector"
+  },
+  {
+    "offset": "0x80cee0",
+    "text": "Setor Nordeste"
+  },
+  {
+    "offset": "0x80cef0",
+    "text": "Sparse Meadow"
+  },
+  {
+    "offset": "0x80cf00",
+    "text": "Campina Escassa"
+  },
+  {
+    "offset": "0x80cf10",
+    "text": "Bird Hollow"
+  },
+  {
+    "offset": "0x80cf1c",
+    "text": "Vale das Aves"
+  },
+  {
+    "offset": "0x80cf2c",
+    "text": "North Beach"
+  },
+  {
+    "offset": "0x80cf38",
+    "text": "Praia Norte"
+  },
+  {
+    "offset": "0x80cf44",
+    "text": "Skull Valley"
+  },
+  {
+    "offset": "0x80cf54",
+    "text": "Vale dos Ossos"
+  },
+  {
+    "offset": "0x80cf64",
+    "text": "South Cave"
+  },
+  {
+    "offset": "0x80cf70",
+    "text": "Caverna Sul"
+  },
+  {
+    "offset": "0x80cf7c",
+    "text": "Do you want to save?"
+  },
+  {
+    "offset": "0x80cf94",
+    "text": "VocÃª quer salvar?"
+  },
+  {
+    "offset": "0x80cfa8",
+    "text": "Money:"
+  },
+  {
+    "offset": "0x80cfb0",
+    "text": "Dinheiro:"
+  },
+  {
+    "offset": "0x80cfbc",
+    "text": "Not Available"
+  },
+  {
+    "offset": "0x80cfcc",
+    "text": "NÃ£o DisponÃ­vel"
+  },
+  {
+    "offset": "0x80cfe0",
+    "text": "Read"
+  },
+  {
+    "offset": "0x80cfec",
+    "text": "equip"
+  },
+  {
+    "offset": "0x80cff4",
+    "text": "equipar"
+  },
+  {
+    "offset": "0x80cffc",
+    "text": "register"
+  },
+  {
+    "offset": "0x80d008",
+    "text": "registrar"
+  },
+  {
+    "offset": "0x80d014",
+    "text": "confirm"
+  },
+  {
+    "offset": "0x80d01c",
+    "text": "confirmar"
+  },
+  {
+    "offset": "0x80d028",
+    "text": "exit"
+  },
+  {
+    "offset": "0x80d030",
+    "text": "sair"
+  },
+  {
+    "offset": "0x80d038",
+    "text": "Exit"
+  },
+  {
+    "offset": "0x80d040",
+    "text": "Sair"
+  },
+  {
+    "offset": "0x80d048",
+    "text": "Craft"
+  },
+  {
+    "offset": "0x80d050",
+    "text": "Criar"
+  },
+  {
+    "offset": "0x80d05c",
+    "text": "Usar"
+  },
+  {
+    "offset": "0x80d06c",
+    "text": "Yes       No "
+  },
+  {
+    "offset": "0x80d07c",
+    "text": "Sim       NÃ£o"
+  },
+  {
+    "offset": "0x80d08c",
+    "text": "this location?"
+  },
+  {
+    "offset": "0x80d09c",
+    "text": "este local?"
+  },
+  {
+    "offset": "0x80d0a8",
+    "text": "Fast travel to"
+  },
+  {
+    "offset": "0x80d0b8",
+    "text": "Quer viajar para"
+  },
+  {
+    "offset": "0x80d0cc",
+    "text": "dusk"
+  },
+  {
+    "offset": "0x80d0d4",
+    "text": "tarde"
+  },
+  {
+    "offset": "0x80d0dc",
+    "text": "dawn"
+  },
+  {
+    "offset": "0x80d0e4",
+    "text": "cedo"
+  },
+  {
+    "offset": "0x80d0ec",
+    "text": "voltar"
+  },
+  {
+    "offset": "0x80d0f4",
+    "text": "Rest    "
+  },
+  {
+    "offset": "0x80d100",
+    "text": "Dormir  "
+  },
+  {
+    "offset": "0x80d10c",
+    "text": "press start to try again"
+  },
+  {
+    "offset": "0x80d128",
+    "text": "aperte start para voltar"
+  },
+  {
+    "offset": "0x80d144",
+    "text": "press start"
+  },
+  {
+    "offset": "0x80d150",
+    "text": "aperte start"
+  },
+  {
+    "offset": "0x80d160",
+    "text": "language"
+  },
+  {
+    "offset": "0x80d16c",
+    "text": "idioma"
+  },
+  {
+    "offset": "0x80d174",
+    "text": "continue"
+  },
+  {
+    "offset": "0x80d180",
+    "text": "continuar"
+  },
+  {
+    "offset": "0x80d18c",
+    "text": "new game"
+  },
+  {
+    "offset": "0x80d198",
+    "text": "novo jogo"
+  },
+  {
+    "offset": "0x80d1a4",
+    "text": "<b>Magel:</> It seems there's an"
+  },
+  {
+    "offset": "0x80d1c8",
+    "text": "island <g>further north</>, but I"
+  },
+  {
+    "offset": "0x80d1ec",
+    "text": "didn't dare to fly the drone"
+  },
+  {
+    "offset": "0x80d20c",
+    "text": "over the river."
+  },
+  {
+    "offset": "0x80d21c",
+    "text": "Unfortunately, no one on"
+  },
+  {
+    "offset": "0x80d238",
+    "text": "the team is able <b>to swim</> to"
+  },
+  {
+    "offset": "0x80d25c",
+    "text": "the other side..."
+  },
+  {
+    "offset": "0x80d270",
+    "text": "<y>You received a Modified</>"
+  },
+  {
+    "offset": "0x80d290",
+    "text": "<y>Drone. You can now fast</>"
+  },
+  {
+    "offset": "0x80d2b0",
+    "text": "<y>travel between the main</>"
+  },
+  {
+    "offset": "0x80d2d0",
+    "text": "<y>areas.</>"
+  },
+  {
+    "offset": "0x80d2e0",
+    "text": "<y>You also received the</>"
+  },
+  {
+    "offset": "0x80d2fc",
+    "text": "<y>Desert Map. You can now</>"
+  },
+  {
+    "offset": "0x80d31c",
+    "text": "<y>view all areas in this</>"
+  },
+  {
+    "offset": "0x80d33c",
+    "text": "<y>region.</>"
+  },
+  {
+    "offset": "0x80d34c",
+    "text": "<b>Cytra:</> Thank you so much!"
+  },
+  {
+    "offset": "0x80d36c",
+    "text": "This will help me a lot."
+  },
+  {
+    "offset": "0x80d388",
+    "text": "<b>???:</> Hello there, a"
+  },
+  {
+    "offset": "0x80d3a4",
+    "text": "pleasure to meet you. I'm"
+  },
+  {
+    "offset": "0x80d3c0",
+    "text": "Magel, the cartographer."
+  },
+  {
+    "offset": "0x80d3dc",
+    "text": "<b>Cytra:</> Pleasure's mine. I'm"
+  },
+  {
+    "offset": "0x80d400",
+    "text": "Cytra, and I've been doing"
+  },
+  {
+    "offset": "0x80d41c",
+    "text": "a bit of everything around"
+  },
+  {
+    "offset": "0x80d438",
+    "text": "<b>Magel:</> I've heard as much."
+  },
+  {
+    "offset": "0x80d45c",
+    "text": "Hey, have you noticed"
+  },
+  {
+    "offset": "0x80d474",
+    "text": "anything strange about"
+  },
+  {
+    "offset": "0x80d48c",
+    "text": "this place? I mean, this"
+  },
+  {
+    "offset": "0x80d4a8",
+    "text": "specific area, it feels like"
+  },
+  {
+    "offset": "0x80d4c8",
+    "text": "we're not suffering as"
+  },
+  {
+    "offset": "0x80d4e0",
+    "text": "much from the sun."
+  },
+  {
+    "offset": "0x80d4f4",
+    "text": "<b>Cytra:</> Yes, it's a curious"
+  },
+  {
+    "offset": "0x80d518",
+    "text": "effect. Staying close to"
+  },
+  {
+    "offset": "0x80d534",
+    "text": "this river gives us a slight"
+  },
+  {
+    "offset": "0x80d554",
+    "text": "thermal relief. Still, there"
+  },
+  {
+    "offset": "0x80d574",
+    "text": "are plenty of other things"
+  },
+  {
+    "offset": "0x80d590",
+    "text": "around here trying to kill"
+  },
+  {
+    "offset": "0x80d5ac",
+    "text": "us. How did you manage to"
+  },
+  {
+    "offset": "0x80d5c8",
+    "text": "get here so easily?"
+  },
+  {
+    "offset": "0x80d5dc",
+    "text": "<b>Magel:</> Excellent"
+  },
+  {
+    "offset": "0x80d5f4",
+    "text": "observation! I finally"
+  },
+  {
+    "offset": "0x80d60c",
+    "text": "managed to map this entire"
+  },
+  {
+    "offset": "0x80d628",
+    "text": "desert region we're in, all"
+  },
+  {
+    "offset": "0x80d644",
+    "text": "thanks to this modified"
+  },
+  {
+    "offset": "0x80d65c",
+    "text": "drone that brought me here"
+  },
+  {
+    "offset": "0x80d678",
+    "text": "flying. But I don't think I'll"
+  },
+  {
+    "offset": "0x80d698",
+    "text": "need it anymore, so you"
+  },
+  {
+    "offset": "0x80d6b0",
+    "text": "can have it."
+  },
+  {
+    "offset": "0x80d6c0",
+    "text": "<b>Magel:</> Parece que existe"
+  },
+  {
+    "offset": "0x80d6e0",
+    "text": "uma ilha <g>mais ao norte</>, mas"
+  },
+  {
+    "offset": "0x80d704",
+    "text": "nÃ£o me arrisquei a passar"
+  },
+  {
+    "offset": "0x80d720",
+    "text": "com o drone por cima do"
+  },
+  {
+    "offset": "0x80d738",
+    "text": "rio, infelizmente nÃ£o tem"
+  },
+  {
+    "offset": "0x80d754",
+    "text": "ninguem na equipe capaz de"
+  },
+  {
+    "offset": "0x80d770",
+    "text": "<b>nadar</> atÃ© o outro lado..."
+  },
+  {
+    "offset": "0x80d794",
+    "text": "<y>VocÃª reecbeu um Drone</>"
+  },
+  {
+    "offset": "0x80d7b4",
+    "text": "<y>Modificado, agora pode</>"
+  },
+  {
+    "offset": "0x80d7d4",
+    "text": "<y>fazer viagens rÃ¡pidas</>"
+  },
+  {
+    "offset": "0x80d7f4",
+    "text": "<y>entre as principais Ã¡reas.</>"
+  },
+  {
+    "offset": "0x80d818",
+    "text": "<y>VocÃª tambÃ©m recebeu o</>"
+  },
+  {
+    "offset": "0x80d838",
+    "text": "<y>Mapa do Deserto, agora</>"
+  },
+  {
+    "offset": "0x80d858",
+    "text": "<y>pode visualizar todas as</>"
+  },
+  {
+    "offset": "0x80d878",
+    "text": "<y>Ã¡reas dessa regiÃ£o.</>"
+  },
+  {
+    "offset": "0x80d894",
+    "text": "<b>Cytra:</> Muito obrigada!"
+  },
+  {
+    "offset": "0x80d8b4",
+    "text": "Isso vai me ajudar muito."
+  },
+  {
+    "offset": "0x80d8d0",
+    "text": "<b>???:</> OlÃ¡, muito prazer"
+  },
+  {
+    "offset": "0x80d8f0",
+    "text": "minha cara, sou Magel, o"
+  },
+  {
+    "offset": "0x80d90c",
+    "text": "cartÃ³grafo."
+  },
+  {
+    "offset": "0x80d91c",
+    "text": "<b>Cytra:</> Pazer, sou Cytra,"
+  },
+  {
+    "offset": "0x80d93c",
+    "text": "e ando fazendo de tudo"
+  },
+  {
+    "offset": "0x80d954",
+    "text": "nesse lugar."
+  },
+  {
+    "offset": "0x80d964",
+    "text": "<b>Magel:</> Pois Ã©, fiquei"
+  },
+  {
+    "offset": "0x80d984",
+    "text": "sabendo. Ei, vocÃª notou"
+  },
+  {
+    "offset": "0x80d9a0",
+    "text": "algo estranho nesse lugar?"
+  },
+  {
+    "offset": "0x80d9bc",
+    "text": "Digo, nessa Ã¡rea em"
+  },
+  {
+    "offset": "0x80d9d4",
+    "text": "especÃ­fico, parece que nÃ£o"
+  },
+  {
+    "offset": "0x80d9f4",
+    "text": "estamos sofrendo tanto"
+  },
+  {
+    "offset": "0x80da0c",
+    "text": "com o Sol."
+  },
+  {
+    "offset": "0x80da18",
+    "text": "<b>Cytra:</> Sim, Ã© um efeito"
+  },
+  {
+    "offset": "0x80da38",
+    "text": "curioso. Ficar prÃ³ximo"
+  },
+  {
+    "offset": "0x80da50",
+    "text": "desse rio nos traz um leve"
+  },
+  {
+    "offset": "0x80da6c",
+    "text": "alÃ­vio tÃ©rmico, mesmo assim,"
+  },
+  {
+    "offset": "0x80da8c",
+    "text": "nessa Ã¡rea tem outras"
+  },
+  {
+    "offset": "0x80daa4",
+    "text": "coisas querendo nos matar,"
+  },
+  {
+    "offset": "0x80dac0",
+    "text": "como conseguiu chegar aqui"
+  },
+  {
+    "offset": "0x80dadc",
+    "text": "com facilidade?"
+  },
+  {
+    "offset": "0x80daec",
+    "text": "<b>Magel:</> Ãtima observaÃ§Ã£o!"
+  },
+  {
+    "offset": "0x80db10",
+    "text": "Eu finalmente consegui"
+  },
+  {
+    "offset": "0x80db28",
+    "text": "mapear toda essa Ã¡rea"
+  },
+  {
+    "offset": "0x80db40",
+    "text": "desÃ©rtica em que estamos, e"
+  },
+  {
+    "offset": "0x80db60",
+    "text": "tudo isso foi graÃ§as a esse"
+  },
+  {
+    "offset": "0x80db80",
+    "text": "drone modificado, que me"
+  },
+  {
+    "offset": "0x80db9c",
+    "text": "trouxe voando, mas acho"
+  },
+  {
+    "offset": "0x80dbb4",
+    "text": "que nÃ£o vou mais precisar,"
+  },
+  {
+    "offset": "0x80dbd0",
+    "text": "pode ficar com ele."
+  },
+  {
+    "offset": "0x80dbe4",
+    "text": "<b>Alice:</> Please return to the"
+  },
+  {
+    "offset": "0x80dc08",
+    "text": "site where you found the"
+  },
+  {
+    "offset": "0x80dc24",
+    "text": "carcasses and look for"
+  },
+  {
+    "offset": "0x80dc3c",
+    "text": "evidence of some different"
+  },
+  {
+    "offset": "0x80dc58",
+    "text": "creature. In any case, be"
+  },
+  {
+    "offset": "0x80dc74",
+    "text": "prepared!"
+  },
+  {
+    "offset": "0x80dc80",
+    "text": "<b>Alice:</> Ah, so they're safe"
+  },
+  {
+    "offset": "0x80dca4",
+    "text": "thanks to you. What"
+  },
+  {
+    "offset": "0x80dcb8",
+    "text": "excellent news!"
+  },
+  {
+    "offset": "0x80dcc8",
+    "text": "<b>Cytra:</> Yes, but this still"
+  },
+  {
+    "offset": "0x80dcec",
+    "text": "doesn't answer our"
+  },
+  {
+    "offset": "0x80dd00",
+    "text": "question, does it?"
+  },
+  {
+    "offset": "0x80dd14",
+    "text": "What could have left those"
+  },
+  {
+    "offset": "0x80dd30",
+    "text": "carcasses there? It's not"
+  },
+  {
+    "offset": "0x80dd4c",
+    "text": "common to see these"
+  },
+  {
+    "offset": "0x80dd60",
+    "text": "creatures attacking each"
+  },
+  {
+    "offset": "0x80dd7c",
+    "text": "other."
+  },
+  {
+    "offset": "0x80dd84",
+    "text": "<b>Alice:</> This isn't good. I"
+  },
+  {
+    "offset": "0x80dda4",
+    "text": "have a suspicion it could be"
+  },
+  {
+    "offset": "0x80ddc4",
+    "text": "a variant species. Perhaps"
+  },
+  {
+    "offset": "0x80dde0",
+    "text": "the extreme UV rays in this"
+  },
+  {
+    "offset": "0x80ddfc",
+    "text": "environment caused a"
+  },
+  {
+    "offset": "0x80de14",
+    "text": "mutation in one of these"
+  },
+  {
+    "offset": "0x80de30",
+    "text": "creatures. Could you go"
+  },
+  {
+    "offset": "0x80de48",
+    "text": "back to the carcass site"
+  },
+  {
+    "offset": "0x80de64",
+    "text": "and look for evidence of"
+  },
+  {
+    "offset": "0x80de80",
+    "text": "this?"
+  },
+  {
+    "offset": "0x80de88",
+    "text": "<b>Cytra:</> I'm going to start"
+  },
+  {
+    "offset": "0x80dea8",
+    "text": "charging you, huh? I can't"
+  },
+  {
+    "offset": "0x80dec4",
+    "text": "get a minute of peace!"
+  },
+  {
+    "offset": "0x80dedc",
+    "text": "<b>Alice:</> Haha, sorry, but"
+  },
+  {
+    "offset": "0x80defc",
+    "text": "only you could handle any"
+  },
+  {
+    "offset": "0x80df18",
+    "text": "extreme danger. In any"
+  },
+  {
+    "offset": "0x80df30",
+    "text": "case, be prepared!"
+  },
+  {
+    "offset": "0x80df44",
+    "text": "<b>Bill:</> Whew, these rookies..."
+  },
+  {
+    "offset": "0x80df68",
+    "text": "Thanks, Cytra!"
+  },
+  {
+    "offset": "0x80df78",
+    "text": "<b>Rick:</> I think I'm already"
+  },
+  {
+    "offset": "0x80df98",
+    "text": "starting to feel better. I'll"
+  },
+  {
+    "offset": "0x80dfb8",
+    "text": "take James back to the"
+  },
+  {
+    "offset": "0x80dfd0",
+    "text": "<b>Cytra:</> Here's the remedy."
+  },
+  {
+    "offset": "0x80dff0",
+    "text": "Take it!"
+  },
+  {
+    "offset": "0x80dffc",
+    "text": "<b>Rick:</> Thank you so much,"
+  },
+  {
+    "offset": "0x80e01c",
+    "text": "Cytra! You're amazing!"
+  },
+  {
+    "offset": "0x80e034",
+    "text": "...Gulp..."
+  },
+  {
+    "offset": "0x80e040",
+    "text": "<b>Alice:</> First and foremost,"
+  },
+  {
+    "offset": "0x80e064",
+    "text": "we need to save James and"
+  },
+  {
+    "offset": "0x80e080",
+    "text": "Rick. Take the remedy to"
+  },
+  {
+    "offset": "0x80e09c",
+    "text": "them!"
+  },
+  {
+    "offset": "0x80e0a4",
+    "text": "<b>Alice:</> What? So the"
+  },
+  {
+    "offset": "0x80e0c0",
+    "text": "technicians' situation is"
+  },
+  {
+    "offset": "0x80e0dc",
+    "text": "urgent. Hand me that"
+  },
+  {
+    "offset": "0x80e0f4",
+    "text": "contaminated meat, and I'll"
+  },
+  {
+    "offset": "0x80e110",
+    "text": "analyze it immediately!"
+  },
+  {
+    "offset": "0x80e128",
+    "text": "<b>Cytra:</> Here, take it!"
+  },
+  {
+    "offset": "0x80e144",
+    "text": "<b>Alice:</> Let's see..."
+  },
+  {
+    "offset": "0x80e160",
+    "text": "Okay, I think this"
+  },
+  {
+    "offset": "0x80e174",
+    "text": "contamination is related to"
+  },
+  {
+    "offset": "0x80e190",
+    "text": "some other creature in the"
+  },
+  {
+    "offset": "0x80e1ac",
+    "text": "region. In any case, here's"
+  },
+  {
+    "offset": "0x80e1c8",
+    "text": "the remedy. It's not much,"
+  },
+  {
+    "offset": "0x80e1e4",
+    "text": "but it'll keep James and"
+  },
+  {
+    "offset": "0x80e200",
+    "text": "Rick out of danger. Take it"
+  },
+  {
+    "offset": "0x80e21c",
+    "text": "to them!"
+  },
+  {
+    "offset": "0x80e228",
+    "text": "urgent. Bring me 5 samples"
+  },
+  {
+    "offset": "0x80e244",
+    "text": "of the contaminated meat"
+  },
+  {
+    "offset": "0x80e260",
+    "text": "they ate, and I'll prepare a"
+  },
+  {
+    "offset": "0x80e280",
+    "text": "remedy immediately!"
+  },
+  {
+    "offset": "0x80e294",
+    "text": "<b>Alice:</> Por favor, volte ao"
+  },
+  {
+    "offset": "0x80e2b8",
+    "text": "local onde encontrou as"
+  },
+  {
+    "offset": "0x80e2d0",
+    "text": "carcaÃ§as e procure por"
+  },
+  {
+    "offset": "0x80e2e8",
+    "text": "alguma evidÃªncia de que"
+  },
+  {
+    "offset": "0x80e304",
+    "text": "existe alguma criatura"
+  },
+  {
+    "offset": "0x80e31c",
+    "text": "diferente. De qualquer"
+  },
+  {
+    "offset": "0x80e334",
+    "text": "forma, tambÃ©m esteja"
+  },
+  {
+    "offset": "0x80e34c",
+    "text": "preparada!"
+  },
+  {
+    "offset": "0x80e358",
+    "text": "<b>Alice:</> Ah, entÃ£o eles estÃ£o"
+  },
+  {
+    "offset": "0x80e37c",
+    "text": "a salvo graÃ§as a vocÃª, que"
+  },
+  {
+    "offset": "0x80e39c",
+    "text": "excelente notÃ­cia!"
+  },
+  {
+    "offset": "0x80e3b0",
+    "text": "<b>Cytra:</> Sim, mas isso ainda"
+  },
+  {
+    "offset": "0x80e3d4",
+    "text": "nÃ£o responde nossas"
+  },
+  {
+    "offset": "0x80e3ec",
+    "text": "pergunta nÃ£o Ã©?"
+  },
+  {
+    "offset": "0x80e400",
+    "text": "O que serÃ¡ que deixou"
+  },
+  {
+    "offset": "0x80e418",
+    "text": "aquelas carcaÃ§as por alÃ­?"
+  },
+  {
+    "offset": "0x80e434",
+    "text": "NÃ£o Ã© comum ver essas"
+  },
+  {
+    "offset": "0x80e44c",
+    "text": "criaturas se atacando."
+  },
+  {
+    "offset": "0x80e464",
+    "text": "<b>Alice:</> Isso nÃ£o Ã© bom,"
+  },
+  {
+    "offset": "0x80e484",
+    "text": "tenho alguma suspeita de"
+  },
+  {
+    "offset": "0x80e4a0",
+    "text": "ser uma espÃ©cie variante,"
+  },
+  {
+    "offset": "0x80e4bc",
+    "text": "talvez os raios UV"
+  },
+  {
+    "offset": "0x80e4d0",
+    "text": "extremos desse ambiente"
+  },
+  {
+    "offset": "0x80e4e8",
+    "text": "possam ter causado alguma"
+  },
+  {
+    "offset": "0x80e504",
+    "text": "mutaÃ§Ã£o numa dessas"
+  },
+  {
+    "offset": "0x80e51c",
+    "text": "criaturas... Poderia voltar"
+  },
+  {
+    "offset": "0x80e538",
+    "text": "ao local das carcaÃ§as e"
+  },
+  {
+    "offset": "0x80e554",
+    "text": "procurar por alguma"
+  },
+  {
+    "offset": "0x80e568",
+    "text": "evidÃªncia disso?"
+  },
+  {
+    "offset": "0x80e57c",
+    "text": "<b>Cytra:</> Eu vou comeÃ§ar a"
+  },
+  {
+    "offset": "0x80e59c",
+    "text": "cobrar heim, nÃ£o consigo"
+  },
+  {
+    "offset": "0x80e5b8",
+    "text": "ficar um minuto em"
+  },
+  {
+    "offset": "0x80e5cc",
+    "text": "tranquilidade"
+  },
+  {
+    "offset": "0x80e5dc",
+    "text": "<b>Alice:</> Haha, perdÃ£o, mas Ã©"
+  },
+  {
+    "offset": "0x80e600",
+    "text": "que sÃ³ vocÃª daria conta de"
+  },
+  {
+    "offset": "0x80e620",
+    "text": "enfrentar algum perigo"
+  },
+  {
+    "offset": "0x80e638",
+    "text": "extremo. De qualquer"
+  },
+  {
+    "offset": "0x80e650",
+    "text": "forma, esteja preparada!"
+  },
+  {
+    "offset": "0x80e66c",
+    "text": "<b>Bill:</> Uffa, esses novatos..."
+  },
+  {
+    "offset": "0x80e690",
+    "text": "<b>Rick:</> Acho que jÃ¡ estou"
+  },
+  {
+    "offset": "0x80e6b0",
+    "text": "comeÃ§ando a me sentir"
+  },
+  {
+    "offset": "0x80e6c8",
+    "text": "melhor, vou levar James"
+  },
+  {
+    "offset": "0x80e6e0",
+    "text": "para o acampamento"
+  },
+  {
+    "offset": "0x80e6f4",
+    "text": "<b>Cytra:</> Aqui estÃ¡ o"
+  },
+  {
+    "offset": "0x80e710",
+    "text": "remÃ©dio, tome!"
+  },
+  {
+    "offset": "0x80e720",
+    "text": "<b>Rick:</> Muito obrigado"
+  },
+  {
+    "offset": "0x80e73c",
+    "text": "Cytra, vocÃª Ã© incrÃ­vel!"
+  },
+  {
+    "offset": "0x80e758",
+    "text": "...Glup...,"
+  },
+  {
+    "offset": "0x80e764",
+    "text": "<b>Alice:</> Antes de qualquer"
+  },
+  {
+    "offset": "0x80e784",
+    "text": "coisa precisamos salvar"
+  },
+  {
+    "offset": "0x80e79c",
+    "text": "James e Rick, leve o remÃ©dio"
+  },
+  {
+    "offset": "0x80e7bc",
+    "text": "para eles!"
+  },
+  {
+    "offset": "0x80e7c8",
+    "text": "<b>Alice:</> O quÃª? EntÃ£o a"
+  },
+  {
+    "offset": "0x80e7e8",
+    "text": "situaÃ§Ã£o dos tÃ©cnicos Ã©"
+  },
+  {
+    "offset": "0x80e804",
+    "text": "urgente, me dÃª essas"
+  },
+  {
+    "offset": "0x80e81c",
+    "text": "carnes contaminadas aqui"
+  },
+  {
+    "offset": "0x80e838",
+    "text": "que farei uma anÃ¡lise"
+  },
+  {
+    "offset": "0x80e850",
+    "text": "urgente!"
+  },
+  {
+    "offset": "0x80e85c",
+    "text": "<b>Cytra:</> aqui, toma!"
+  },
+  {
+    "offset": "0x80e878",
+    "text": "<b>Alice:</> Vamos ver..."
+  },
+  {
+    "offset": "0x80e894",
+    "text": "Ok, acho que essa"
+  },
+  {
+    "offset": "0x80e8a8",
+    "text": "contaminaÃ§Ã£o estÃ¡"
+  },
+  {
+    "offset": "0x80e8c0",
+    "text": "relacionada com alguma"
+  },
+  {
+    "offset": "0x80e8d8",
+    "text": "outra criatura da regiÃ£o.."
+  },
+  {
+    "offset": "0x80e8f4",
+    "text": "De qualquer forma, antes"
+  },
+  {
+    "offset": "0x80e910",
+    "text": "de qualquer coisa, aqui"
+  },
+  {
+    "offset": "0x80e928",
+    "text": "estÃ¡ o remÃ©dio, nÃ£o Ã©"
+  },
+  {
+    "offset": "0x80e944",
+    "text": "grande coisa mas vai deixar"
+  },
+  {
+    "offset": "0x80e960",
+    "text": "James e Rick fora de"
+  },
+  {
+    "offset": "0x80e978",
+    "text": "perigo, leve para eles!"
+  },
+  {
+    "offset": "0x80e990",
+    "text": "urgente, me traga 5"
+  },
+  {
+    "offset": "0x80e9a4",
+    "text": "exemplares da carne"
+  },
+  {
+    "offset": "0x80e9b8",
+    "text": "contaminada que eles"
+  },
+  {
+    "offset": "0x80e9d0",
+    "text": "comeram e farei um remÃ©dio"
+  },
+  {
+    "offset": "0x80e9ec",
+    "text": "imediatamente!"
+  },
+  {
+    "offset": "0x80e9fc",
+    "text": "<b>James:</> ... ..."
+  },
+  {
+    "offset": "0x80ea14",
+    "text": "... ..."
+  },
+  {
+    "offset": "0x80ea1c",
+    "text": "<b>Rick:</> I don't know how"
+  },
+  {
+    "offset": "0x80ea3c",
+    "text": "serious our situation is,"
+  },
+  {
+    "offset": "0x80ea58",
+    "text": "but the biologist might know"
+  },
+  {
+    "offset": "0x80ea78",
+    "text": "something. Collect the meat"
+  },
+  {
+    "offset": "0x80ea94",
+    "text": "from those carcasses and"
+  },
+  {
+    "offset": "0x80eab0",
+    "text": "take it to her; maybe she"
+  },
+  {
+    "offset": "0x80eacc",
+    "text": "can create a remedy or"
+  },
+  {
+    "offset": "0x80eae4",
+    "text": "antidote."
+  },
+  {
+    "offset": "0x80eaf0",
+    "text": "<b>Cytra:</> Okay, wait here and"
+  },
+  {
+    "offset": "0x80eb14",
+    "text": "take care of your friend!"
+  },
+  {
+    "offset": "0x80eb30",
+    "text": "I'm still surprised by the"
+  },
+  {
+    "offset": "0x80eb4c",
+    "text": "absence of doctors on this"
+  },
+  {
+    "offset": "0x80eb68",
+    "text": "expedition. It's absurd."
+  },
+  {
+    "offset": "0x80eb84",
+    "text": "<b>Rick:</> NÃ£o sei a gravidade"
+  },
+  {
+    "offset": "0x80eba8",
+    "text": "da nossa situaÃ§Ã£o, mas a"
+  },
+  {
+    "offset": "0x80ebc4",
+    "text": "biÃ³loga deve saber algo,"
+  },
+  {
+    "offset": "0x80ebe0",
+    "text": "colete as carnes dessas"
+  },
+  {
+    "offset": "0x80ebf8",
+    "text": "carcaÃ§as e leve pra ela,"
+  },
+  {
+    "offset": "0x80ec14",
+    "text": "talvez ela saiba criar um"
+  },
+  {
+    "offset": "0x80ec30",
+    "text": "remÃ©dio ou antÃ­doto."
+  },
+  {
+    "offset": "0x80ec48",
+    "text": "<b>Cytra:</> ok, me espere aqui"
+  },
+  {
+    "offset": "0x80ec68",
+    "text": "e tome conta do seu amigo!"
+  },
+  {
+    "offset": "0x80ec84",
+    "text": "Ainda me surpreendo com a"
+  },
+  {
+    "offset": "0x80eca0",
+    "text": "ausÃªncia de mÃ©dicos nessa"
+  },
+  {
+    "offset": "0x80ecbc",
+    "text": "expediÃ§Ã£o, isso Ã© um"
+  },
+  {
+    "offset": "0x80ecd4",
+    "text": "absurdo."
+  },
+  {
+    "offset": "0x80ece0",
+    "text": "<b>Rick:</> I... I don't feel very"
+  },
+  {
+    "offset": "0x80ed04",
+    "text": "well... We found some raw"
+  },
+  {
+    "offset": "0x80ed20",
+    "text": "meat around here and tried"
+  },
+  {
+    "offset": "0x80ed3c",
+    "text": "to cook it, but the result"
+  },
+  {
+    "offset": "0x80ed58",
+    "text": "wasn't very satisfying,"
+  },
+  {
+    "offset": "0x80ed70",
+    "text": "heh."
+  },
+  {
+    "offset": "0x80ed78",
+    "text": "<b>Cytra:</> Maybe you got"
+  },
+  {
+    "offset": "0x80ed94",
+    "text": "something contaminated."
+  },
+  {
+    "offset": "0x80edac",
+    "text": "Where did you find it?"
+  },
+  {
+    "offset": "0x80edc4",
+    "text": "<b>Rick:</> There are some"
+  },
+  {
+    "offset": "0x80ede0",
+    "text": "animal carcasses scattered"
+  },
+  {
+    "offset": "0x80edfc",
+    "text": "in this area. We thought it"
+  },
+  {
+    "offset": "0x80ee18",
+    "text": "wouldn't be a problem..."
+  },
+  {
+    "offset": "0x80ee34",
+    "text": "I don't know how serious"
+  },
+  {
+    "offset": "0x80ee50",
+    "text": "our situation is, but the"
+  },
+  {
+    "offset": "0x80ee6c",
+    "text": "<b>Bill:</> Did you find James"
+  },
+  {
+    "offset": "0x80ee8c",
+    "text": "and Rick? I remember them"
+  },
+  {
+    "offset": "0x80eea8",
+    "text": "saying they were going to"
+  },
+  {
+    "offset": "0x80eec4",
+    "text": "look for meat before"
+  },
+  {
+    "offset": "0x80eedc",
+    "text": "heading back to camp."
+  },
+  {
+    "offset": "0x80eef4",
+    "text": "<b>Bill:</> Oh man, I can't find"
+  },
+  {
+    "offset": "0x80ef18",
+    "text": "the technicians <b>James</> and"
+  },
+  {
+    "offset": "0x80ef38",
+    "text": "<b>Rick</>. I remember them"
+  },
+  {
+    "offset": "0x80ef54",
+    "text": "telling me they were going"
+  },
+  {
+    "offset": "0x80ef70",
+    "text": "to look for meat before"
+  },
+  {
+    "offset": "0x80ef88",
+    "text": "returning to camp, but it's"
+  },
+  {
+    "offset": "0x80efa4",
+    "text": "been a while since I last"
+  },
+  {
+    "offset": "0x80efc0",
+    "text": "heard from them."
+  },
+  {
+    "offset": "0x80efd4",
+    "text": "<b>Cytra:</> This place is"
+  },
+  {
+    "offset": "0x80eff0",
+    "text": "dangerous; they might be in"
+  },
+  {
+    "offset": "0x80f00c",
+    "text": "trouble!"
+  },
+  {
+    "offset": "0x80f018",
+    "text": "<b>Bill:</> Yes, it's worrisome!"
+  },
+  {
+    "offset": "0x80f03c",
+    "text": "But I also can't neglect the"
+  },
+  {
+    "offset": "0x80f05c",
+    "text": "terrain analysis. Julie told"
+  },
+  {
+    "offset": "0x80f07c",
+    "text": "me she noticed something"
+  },
+  {
+    "offset": "0x80f098",
+    "text": "strange underground in"
+  },
+  {
+    "offset": "0x80f0b0",
+    "text": "this area."
+  },
+  {
+    "offset": "0x80f0bc",
+    "text": "<b>Cytra:</> This place is full of"
+  },
+  {
+    "offset": "0x80f0e0",
+    "text": "surprises..."
+  },
+  {
+    "offset": "0x80f0f0",
+    "text": "Alright, I'll go look for"
+  },
+  {
+    "offset": "0x80f10c",
+    "text": "them. I hope they're okay."
+  },
+  {
+    "offset": "0x80f128",
+    "text": "<b>Bill:</> Thank you, Cytra!"
+  },
+  {
+    "offset": "0x80f148",
+    "text": "<b>Rick:</> Eu.. nÃ£o estou me"
+  },
+  {
+    "offset": "0x80f168",
+    "text": "sentindo muito bem..."
+  },
+  {
+    "offset": "0x80f180",
+    "text": "achamos algumas carnes"
+  },
+  {
+    "offset": "0x80f198",
+    "text": "cruas por aqui e tentamos"
+  },
+  {
+    "offset": "0x80f1b4",
+    "text": "cozÃª-las, mas o resultado"
+  },
+  {
+    "offset": "0x80f1d0",
+    "text": "nÃ£o ficou muito"
+  },
+  {
+    "offset": "0x80f1e4",
+    "text": "satisfatÃ³rio heh"
+  },
+  {
+    "offset": "0x80f1f8",
+    "text": "<b>Cytra:</> Talvez tenham pego"
+  },
+  {
+    "offset": "0x80f218",
+    "text": "algo contaminado, onde foi"
+  },
+  {
+    "offset": "0x80f234",
+    "text": "que vocÃªs pegaram isso?"
+  },
+  {
+    "offset": "0x80f250",
+    "text": "<b>Rick:</> Tem algumas carcaÃ§as"
+  },
+  {
+    "offset": "0x80f274",
+    "text": "de animais espalhadas por"
+  },
+  {
+    "offset": "0x80f290",
+    "text": "essa Ã¡rea, achamos que nÃ£o"
+  },
+  {
+    "offset": "0x80f2b0",
+    "text": "teriamos problemas..."
+  },
+  {
+    "offset": "0x80f2c8",
+    "text": "NÃ£o sei a gravidade da"
+  },
+  {
+    "offset": "0x80f2e0",
+    "text": "nossa situaÃ§Ã£o, mas a"
+  },
+  {
+    "offset": "0x80f2f8",
+    "text": "<b>Bill:</> Encontrou James e"
+  },
+  {
+    "offset": "0x80f318",
+    "text": "Rick? Lembro deles terem me"
+  },
+  {
+    "offset": "0x80f334",
+    "text": "dito que buscariam por"
+  },
+  {
+    "offset": "0x80f34c",
+    "text": "carne antes de voltarem ao"
+  },
+  {
+    "offset": "0x80f368",
+    "text": "acampamento."
+  },
+  {
+    "offset": "0x80f378",
+    "text": "<b>Bill:</> Puxa vida, nÃ£o"
+  },
+  {
+    "offset": "0x80f394",
+    "text": "consigo encontrar os"
+  },
+  {
+    "offset": "0x80f3ac",
+    "text": "tÃ©cnicos <b>James e Rick</>,"
+  },
+  {
+    "offset": "0x80f3cc",
+    "text": "lembro deles terem me dito"
+  },
+  {
+    "offset": "0x80f3e8",
+    "text": "que buscariam por carne"
+  },
+  {
+    "offset": "0x80f400",
+    "text": "antes de voltarem ao"
+  },
+  {
+    "offset": "0x80f418",
+    "text": "acampamento, mas jÃ¡ faz"
+  },
+  {
+    "offset": "0x80f434",
+    "text": "algum tempo que nÃ£o tenho"
+  },
+  {
+    "offset": "0x80f450",
+    "text": "sinal deles."
+  },
+  {
+    "offset": "0x80f460",
+    "text": "<b>Cytra:</> Esse lugar Ã©"
+  },
+  {
+    "offset": "0x80f47c",
+    "text": "perigoso, eles podem estar"
+  },
+  {
+    "offset": "0x80f498",
+    "text": "correndo perigo!"
+  },
+  {
+    "offset": "0x80f4ac",
+    "text": "<b>Bill:</> Sim, isso Ã©"
+  },
+  {
+    "offset": "0x80f4c8",
+    "text": "preocupante! Mas tambÃ©m"
+  },
+  {
+    "offset": "0x80f4e4",
+    "text": "nÃ£o posso deixar de fazer"
+  },
+  {
+    "offset": "0x80f500",
+    "text": "as anÃ¡lises de terreno,"
+  },
+  {
+    "offset": "0x80f51c",
+    "text": "Julie me disse que notou"
+  },
+  {
+    "offset": "0x80f538",
+    "text": "algo esquisito no subsolo"
+  },
+  {
+    "offset": "0x80f554",
+    "text": "desse lugar."
+  },
+  {
+    "offset": "0x80f564",
+    "text": "<b>Cytra:</> Esse lugar Ã© cheio"
+  },
+  {
+    "offset": "0x80f588",
+    "text": "de surpresas..."
+  },
+  {
+    "offset": "0x80f598",
+    "text": "Certo, vou procurar por"
+  },
+  {
+    "offset": "0x80f5b0",
+    "text": "eles, espero que estejam"
+  },
+  {
+    "offset": "0x80f5cc",
+    "text": "bem."
+  },
+  {
+    "offset": "0x80f5d4",
+    "text": "<b>Bill:</> Obrigado Cytra!"
+  },
+  {
+    "offset": "0x80f5f0",
+    "text": "<b>Nelson:</> Hey, if you're"
+  },
+  {
+    "offset": "0x80f610",
+    "text": "using a <y>pistol</> near an"
+  },
+  {
+    "offset": "0x80f630",
+    "text": "enemy and hold the"
+  },
+  {
+    "offset": "0x80f644",
+    "text": "<b>R BUTTON</>, your aim will stay"
+  },
+  {
+    "offset": "0x80f668",
+    "text": "locked on them until you"
+  },
+  {
+    "offset": "0x80f684",
+    "text": "move away or release the"
+  },
+  {
+    "offset": "0x80f6a0",
+    "text": "button."
+  },
+  {
+    "offset": "0x80f6a8",
+    "text": "Things are hostile around"
+  },
+  {
+    "offset": "0x80f6c4",
+    "text": "here, any information could"
+  },
+  {
+    "offset": "0x80f6e0",
+    "text": "be crucial for our"
+  },
+  {
+    "offset": "0x80f6f4",
+    "text": "survival."
+  },
+  {
+    "offset": "0x80f700",
+    "text": "<b>Nelson:</> Ei, se estiver"
+  },
+  {
+    "offset": "0x80f720",
+    "text": "usando uma <y>pistola</> perto"
+  },
+  {
+    "offset": "0x80f740",
+    "text": "de um inmigo e segurar o"
+  },
+  {
+    "offset": "0x80f75c",
+    "text": "<b>botÃ£o R</>, sua mira ficarÃ¡"
+  },
+  {
+    "offset": "0x80f780",
+    "text": "travada nele atÃ© que vocÃª"
+  },
+  {
+    "offset": "0x80f79c",
+    "text": "se afaste ou solte o botÃ£o."
+  },
+  {
+    "offset": "0x80f7bc",
+    "text": "Por aqui as coisas sÃ£o"
+  },
+  {
+    "offset": "0x80f7d4",
+    "text": "hostis, qualquer"
+  },
+  {
+    "offset": "0x80f7e8",
+    "text": "informaÃ§Ã£o pode ser"
+  },
+  {
+    "offset": "0x80f800",
+    "text": "crucial para nossa"
+  },
+  {
+    "offset": "0x80f814",
+    "text": "sobrevivÃªncia."
+  },
+  {
+    "offset": "0x80f824",
+    "text": "<b>Alice:</> Well, I'll continue my"
+  },
+  {
+    "offset": "0x80f848",
+    "text": "research. Thanks to you,"
+  },
+  {
+    "offset": "0x80f864",
+    "text": "things seem a bit calmer"
+  },
+  {
+    "offset": "0x80f880",
+    "text": "now!"
+  },
+  {
+    "offset": "0x80f888",
+    "text": "Hey, have you checked the"
+  },
+  {
+    "offset": "0x80f8a4",
+    "text": "crafting machines yet?"
+  },
+  {
+    "offset": "0x80f8bc",
+    "text": "Sometimes new things show"
+  },
+  {
+    "offset": "0x80f8d8",
+    "text": "up to craft."
+  },
+  {
+    "offset": "0x80f8e8",
+    "text": "<b>Alice:</> Bom, vou continuar"
+  },
+  {
+    "offset": "0x80f908",
+    "text": "minha pesquisa, graÃ§as a"
+  },
+  {
+    "offset": "0x80f924",
+    "text": "vocÃª as coisas parecem"
+  },
+  {
+    "offset": "0x80f93c",
+    "text": "mais tranquilas!"
+  },
+  {
+    "offset": "0x80f950",
+    "text": "Escuta, vocÃª jÃ¡ foi checar"
+  },
+  {
+    "offset": "0x80f970",
+    "text": "as mÃ¡quinas de craft? As"
+  },
+  {
+    "offset": "0x80f98c",
+    "text": "vezes aparecem coisas"
+  },
+  {
+    "offset": "0x80f9a4",
+    "text": "novas para se criar."
+  },
+  {
+    "offset": "0x80f9bc",
+    "text": "<b>Khalangoron has been</>"
+  },
+  {
+    "offset": "0x80f9d8",
+    "text": "<b>summoned!</>"
+  },
+  {
+    "offset": "0x80f9e8",
+    "text": "<b>Fantasma de Richard</>"
+  },
+  {
+    "offset": "0x80fa04",
+    "text": "<b>foi invocado!</>"
+  },
+  {
+    "offset": "0x80fa18",
+    "text": "<b>Richard's Ghost has been</>"
+  },
+  {
+    "offset": "0x80fa38",
+    "text": "<b>Khalangoron foi invocado!</>"
+  },
+  {
+    "offset": "0x80fa58",
+    "text": "<b>Magzebos has been</>"
+  },
+  {
+    "offset": "0x80fa70",
+    "text": "<b>Magzebos foi invocado!</>"
+  },
+  {
+    "offset": "0x80fa90",
+    "text": "<b>Jack:</> Hmm, so"
+  },
+  {
+    "offset": "0x80faa8",
+    "text": "It's a great choice, here I"
+  },
+  {
+    "offset": "0x80fac8",
+    "text": "<b>Jack:</> Hmm, entÃ£o"
+  },
+  {
+    "offset": "0x80fae0",
+    "text": "Ã uma Ã³tima escolha, aqui"
+  },
+  {
+    "offset": "0x80fafc",
+    "text": "vou eu!"
+  },
+  {
+    "offset": "0x80fb04",
+    "text": "<b>Jack:</> Hey, I see that"
+  },
+  {
+    "offset": "0x80fb20",
+    "text": "you're carrying a few"
+  },
+  {
+    "offset": "0x80fb38",
+    "text": "musical instruments, can I"
+  },
+  {
+    "offset": "0x80fb54",
+    "text": "play any of these?"
+  },
+  {
+    "offset": "0x80fb68",
+    "text": "<b>Jack:</> Ei, vejo que vocÃª"
+  },
+  {
+    "offset": "0x80fb88",
+    "text": "carrega alguns"
+  },
+  {
+    "offset": "0x80fb98",
+    "text": "instrumentos musicais,"
+  },
+  {
+    "offset": "0x80fbb0",
+    "text": "posso tocar algum deles?"
+  },
+  {
+    "offset": "0x80fbcc",
+    "text": "<b>Jack:</> If you find any"
+  },
+  {
+    "offset": "0x80fbe8",
+    "text": "instruments out there,"
+  },
+  {
+    "offset": "0x80fc00",
+    "text": "bring them to me! I promise"
+  },
+  {
+    "offset": "0x80fc1c",
+    "text": "you won't regret listening"
+  },
+  {
+    "offset": "0x80fc38",
+    "text": "to my music!"
+  },
+  {
+    "offset": "0x80fc48",
+    "text": "<b>???:</> Hey, I finally worked"
+  },
+  {
+    "offset": "0x80fc6c",
+    "text": "up the courage to leave"
+  },
+  {
+    "offset": "0x80fc84",
+    "text": "that camp. I was getting"
+  },
+  {
+    "offset": "0x80fca0",
+    "text": "exhausted trying to"
+  },
+  {
+    "offset": "0x80fcb4",
+    "text": "compose a new hit. I did"
+  },
+  {
+    "offset": "0x80fcd0",
+    "text": "make some cool songs"
+  },
+  {
+    "offset": "0x80fce8",
+    "text": "but you know..."
+  },
+  {
+    "offset": "0x80fcf8",
+    "text": "with the lack of"
+  },
+  {
+    "offset": "0x80fd0c",
+    "text": "resources, I ended up"
+  },
+  {
+    "offset": "0x80fd24",
+    "text": "without any instruments,"
+  },
+  {
+    "offset": "0x80fd40",
+    "text": "<b>Cytra:</> Sorry, but..."
+  },
+  {
+    "offset": "0x80fd5c",
+    "text": "who are you again?"
+  },
+  {
+    "offset": "0x80fd70",
+    "text": "<b>???:</> Oh, my bad, miss. I'm"
+  },
+  {
+    "offset": "0x80fd94",
+    "text": "<b>Jack</>, the musician!"
+  },
+  {
+    "offset": "0x80fdb0",
+    "text": "Or at least that's what I'd"
+  },
+  {
+    "offset": "0x80fdcc",
+    "text": "like to be, haha. There's"
+  },
+  {
+    "offset": "0x80fde8",
+    "text": "not exactly a big audience"
+  },
+  {
+    "offset": "0x80fe04",
+    "text": "around here, right?"
+  },
+  {
+    "offset": "0x80fe18",
+    "text": "<b>Cytra:</> Nice to meet you,"
+  },
+  {
+    "offset": "0x80fe38",
+    "text": "Jack! I'm Cytra, meteor--"
+  },
+  {
+    "offset": "0x80fe54",
+    "text": "<b>Jack:</> No worries, I've"
+  },
+  {
+    "offset": "0x80fe74",
+    "text": "already seen you wandering"
+  },
+  {
+    "offset": "0x80fe90",
+    "text": "around looking for"
+  },
+  {
+    "offset": "0x80fea4",
+    "text": "batteries. Must be part of"
+  },
+  {
+    "offset": "0x80fec0",
+    "text": "the energy supply service."
+  },
+  {
+    "offset": "0x80fedc",
+    "text": "We could really use it..."
+  },
+  {
+    "offset": "0x80fef8",
+    "text": "<b>Cytra:</> ..."
+  },
+  {
+    "offset": "0x80ff0c",
+    "text": "<b>Jack:</> By the way, if you"
+  },
+  {
+    "offset": "0x80ff2c",
+    "text": "find any instruments out"
+  },
+  {
+    "offset": "0x80ff48",
+    "text": "there, bring them to me! I"
+  },
+  {
+    "offset": "0x80ff64",
+    "text": "promise you won't regret"
+  },
+  {
+    "offset": "0x80ff80",
+    "text": "listening to my music!"
+  },
+  {
+    "offset": "0x80ff98",
+    "text": "<b>Jack:</> A propÃ³sito, se"
+  },
+  {
+    "offset": "0x80ffb8",
+    "text": "encontrar algum"
+  },
+  {
+    "offset": "0x80ffc8",
+    "text": "instrumento por aÃ­, me"
+  },
+  {
+    "offset": "0x80ffe0",
+    "text": "traga! Garanto que nÃ£o vai"
+  },
+  {
+    "offset": "0x80fffc",
+    "text": "se arrepender de escutar"
+  },
+  {
+    "offset": "0x810018",
+    "text": "minhas mÃºsicas!"
+  },
+  {
+    "offset": "0x81002c",
+    "text": "<b>???:</> Opa, finalmente criei"
+  },
+  {
+    "offset": "0x810050",
+    "text": "coragem e saÃ­ daquele"
+  },
+  {
+    "offset": "0x810068",
+    "text": "acampamento, estava"
+  },
+  {
+    "offset": "0x81007c",
+    "text": "ficando exausto tentando"
+  },
+  {
+    "offset": "0x810098",
+    "text": "compor um novo hit, atÃ© fiz"
+  },
+  {
+    "offset": "0x8100b8",
+    "text": "umas mÃºsicas maneiras"
+  },
+  {
+    "offset": "0x8100d0",
+    "text": "mas sabe..."
+  },
+  {
+    "offset": "0x8100dc",
+    "text": "com essa escassez de"
+  },
+  {
+    "offset": "0x8100f4",
+    "text": "recursos acaba que estou"
+  },
+  {
+    "offset": "0x810110",
+    "text": "sem instrumentos haha"
+  },
+  {
+    "offset": "0x810128",
+    "text": "<b>Cytra:</> PerdÃ£o, mas..."
+  },
+  {
+    "offset": "0x810148",
+    "text": "quem Ã© vocÃª mesmo?"
+  },
+  {
+    "offset": "0x810160",
+    "text": "<b>???:</> Eita, perdÃ£o moÃ§a,"
+  },
+  {
+    "offset": "0x810180",
+    "text": "sou <b>Jack</>, o mÃºsico!"
+  },
+  {
+    "offset": "0x81019c",
+    "text": "Ou pelo menos Ã© o que eu"
+  },
+  {
+    "offset": "0x8101b8",
+    "text": "gostaria haha. NÃ£o existe"
+  },
+  {
+    "offset": "0x8101d4",
+    "text": "uma plateia muito grande"
+  },
+  {
+    "offset": "0x8101f0",
+    "text": "por aqui, nÃ£o Ã©?"
+  },
+  {
+    "offset": "0x810204",
+    "text": "<b>Cytra:</> Prazer Jack! sou"
+  },
+  {
+    "offset": "0x810224",
+    "text": "Cytra, meteoro-"
+  },
+  {
+    "offset": "0x810234",
+    "text": "<b>Jack:</> NÃ£o se preocupe, jÃ¡"
+  },
+  {
+    "offset": "0x810258",
+    "text": "te vi zanzando por aÃ­"
+  },
+  {
+    "offset": "0x810270",
+    "text": "atrÃ¡s de baterias, deve ser"
+  },
+  {
+    "offset": "0x810290",
+    "text": "do serviÃ§o de fornecimento"
+  },
+  {
+    "offset": "0x8102ac",
+    "text": "de energia, estamos"
+  },
+  {
+    "offset": "0x8102c0",
+    "text": "realmente precisando..."
+  },
+  {
+    "offset": "0x8102d8",
+    "text": "<b>Alice:</> You'll find some"
+  },
+  {
+    "offset": "0x8102f8",
+    "text": "lizards scattered around"
+  },
+  {
+    "offset": "0x810314",
+    "text": "the area, bring me <y>5</>"
+  },
+  {
+    "offset": "0x810330",
+    "text": "<y>Dogecko scales</>."
+  },
+  {
+    "offset": "0x810348",
+    "text": "<b>Alice:</> VocÃª irÃ¡ encontrar"
+  },
+  {
+    "offset": "0x81036c",
+    "text": "alguns lagartos espalhados"
+  },
+  {
+    "offset": "0x810388",
+    "text": "pela regiÃ£o, me traga <y>5</>"
+  },
+  {
+    "offset": "0x8103a8",
+    "text": "<y>escamas de Dogeckos</>."
+  },
+  {
+    "offset": "0x8103c4",
+    "text": "<b>Alice:</> Cytra! You came at"
+  },
+  {
+    "offset": "0x8103e4",
+    "text": "the right time! My theory"
+  },
+  {
+    "offset": "0x810400",
+    "text": "was correct."
+  },
+  {
+    "offset": "0x810410",
+    "text": "<b>Cytra:</> So, they aren't"
+  },
+  {
+    "offset": "0x810430",
+    "text": "normal creatures?"
+  },
+  {
+    "offset": "0x810444",
+    "text": "<b>Alice:</> After analyzing the"
+  },
+  {
+    "offset": "0x810468",
+    "text": "DNA of these organisms, we"
+  },
+  {
+    "offset": "0x810484",
+    "text": "identified a substantial"
+  },
+  {
+    "offset": "0x8104a0",
+    "text": "difference in the described"
+  },
+  {
+    "offset": "0x8104bc",
+    "text": "substra-"
+  },
+  {
+    "offset": "0x8104c8",
+    "text": "<b>Alice:</> Why that face? This"
+  },
+  {
+    "offset": "0x8104ec",
+    "text": "is relevant information to"
+  },
+  {
+    "offset": "0x810508",
+    "text": "describe the role of peptide"
+  },
+  {
+    "offset": "0x810528",
+    "text": "synthe-"
+  },
+  {
+    "offset": "0x810530",
+    "text": "<b>Cytra:</> You know I'm a"
+  },
+  {
+    "offset": "0x81054c",
+    "text": "meteorologist, not a"
+  },
+  {
+    "offset": "0x810564",
+    "text": "biologist, right? I didn't"
+  },
+  {
+    "offset": "0x810580",
+    "text": "understand anything you"
+  },
+  {
+    "offset": "0x810598",
+    "text": "just said."
+  },
+  {
+    "offset": "0x8105a4",
+    "text": "<b>Alice:</> Oh, sorry, I got"
+  },
+  {
+    "offset": "0x8105c4",
+    "text": "carried away! I'll try to"
+  },
+  {
+    "offset": "0x8105e0",
+    "text": "explain it more simply. In"
+  },
+  {
+    "offset": "0x8105fc",
+    "text": "short, these creatures"
+  },
+  {
+    "offset": "0x810614",
+    "text": "aren't animals but an"
+  },
+  {
+    "offset": "0x81062c",
+    "text": "artificial organism with"
+  },
+  {
+    "offset": "0x810648",
+    "text": "\"mimicry\" as their main"
+  },
+  {
+    "offset": "0x810660",
+    "text": "function. It's a mechanism"
+  },
+  {
+    "offset": "0x81067c",
+    "text": "some beings use to copy"
+  },
+  {
+    "offset": "0x810694",
+    "text": "features, appearance, etc.,"
+  },
+  {
+    "offset": "0x8106b0",
+    "text": "to gain some advantage. In"
+  },
+  {
+    "offset": "0x8106cc",
+    "text": "this case, these <r>Dogeckos</>"
+  },
+  {
+    "offset": "0x8106ec",
+    "text": "mimic various lizards, which"
+  },
+  {
+    "offset": "0x81070c",
+    "text": "is why I didn't recognize"
+  },
+  {
+    "offset": "0x810728",
+    "text": "them. They also seem to be"
+  },
+  {
+    "offset": "0x810744",
+    "text": "the reason why this place"
+  },
+  {
+    "offset": "0x810760",
+    "text": "remains inhospitable."
+  },
+  {
+    "offset": "0x810778",
+    "text": "<b>Cytra:</> They shouldn't be"
+  },
+  {
+    "offset": "0x810798",
+    "text": "here, right? They're not"
+  },
+  {
+    "offset": "0x8107b4",
+    "text": "native to this place."
+  },
+  {
+    "offset": "0x8107cc",
+    "text": "<b>Alice:</> Exactly! They're not"
+  },
+  {
+    "offset": "0x8107f0",
+    "text": "natural and are acting like"
+  },
+  {
+    "offset": "0x81080c",
+    "text": "pests. This doesn't sit well"
+  },
+  {
+    "offset": "0x81082c",
+    "text": "with me... but we'll need to"
+  },
+  {
+    "offset": "0x81084c",
+    "text": "investigate where they came"
+  },
+  {
+    "offset": "0x810868",
+    "text": "from to draw any"
+  },
+  {
+    "offset": "0x81087c",
+    "text": "conclusions."
+  },
+  {
+    "offset": "0x81088c",
+    "text": "<b>Cytra:</> No problem."
+  },
+  {
+    "offset": "0x8108a8",
+    "text": "<b>Alice:</> One more thing, in"
+  },
+  {
+    "offset": "0x8108c8",
+    "text": "the <g>northern</> sector, the"
+  },
+  {
+    "offset": "0x8108e8",
+    "text": "<b>geophysicist</> reported that"
+  },
+  {
+    "offset": "0x81090c",
+    "text": "some tools are being stolen"
+  },
+  {
+    "offset": "0x810928",
+    "text": "by <r>aggressive Zebos</>. They"
+  },
+  {
+    "offset": "0x810948",
+    "text": "need help to get them back."
+  },
+  {
+    "offset": "0x810964",
+    "text": "Could you stop by there"
+  },
+  {
+    "offset": "0x81097c",
+    "text": "and help her out?"
+  },
+  {
+    "offset": "0x810990",
+    "text": "<b>Cytra:</> The military still"
+  },
+  {
+    "offset": "0x8109b0",
+    "text": "hasn't returned?"
+  },
+  {
+    "offset": "0x8109c4",
+    "text": "<b>Alice:</> No... and since we're"
+  },
+  {
+    "offset": "0x8109e8",
+    "text": "short on manpower, we have"
+  },
+  {
+    "offset": "0x810a04",
+    "text": "to handle the problem"
+  },
+  {
+    "offset": "0x810a1c",
+    "text": "ourselves. Anyway, don't"
+  },
+  {
+    "offset": "0x810a38",
+    "text": "forget. Talk to the"
+  },
+  {
+    "offset": "0x810a4c",
+    "text": "<b>geophysicist</> in the"
+  },
+  {
+    "offset": "0x810a68",
+    "text": "northern sector, and she'll"
+  },
+  {
+    "offset": "0x810a84",
+    "text": "give you more information!"
+  },
+  {
+    "offset": "0x810aa0",
+    "text": "<b>Alice:</> I'm still analyzing"
+  },
+  {
+    "offset": "0x810ac4",
+    "text": "the samples, it's going to"
+  },
+  {
+    "offset": "0x810ae0",
+    "text": "take some time. Can you"
+  },
+  {
+    "offset": "0x810af8",
+    "text": "come back later?"
+  },
+  {
+    "offset": "0x810b0c",
+    "text": "By the way, Richard passed"
+  },
+  {
+    "offset": "0x810b28",
+    "text": "by here looking for you. He"
+  },
+  {
+    "offset": "0x810b44",
+    "text": "said to let you know that"
+  },
+  {
+    "offset": "0x810b60",
+    "text": "he'll be at the"
+  },
+  {
+    "offset": "0x810b70",
+    "text": "meteorological stations."
+  },
+  {
+    "offset": "0x810b8c",
+    "text": "He's a strange man, isn't"
+  },
+  {
+    "offset": "0x810ba8",
+    "text": "he? But I can't really blame"
+  },
+  {
+    "offset": "0x810bc8",
+    "text": "him. What happened to the"
+  },
+  {
+    "offset": "0x810be4",
+    "text": "previous team must have"
+  },
+  {
+    "offset": "0x810bfc",
+    "text": "affected him."
+  },
+  {
+    "offset": "0x810c0c",
+    "text": "<b>Alice:</> Thank you! I believe"
+  },
+  {
+    "offset": "0x810c30",
+    "text": "with these samples I'll be"
+  },
+  {
+    "offset": "0x810c4c",
+    "text": "able to identify the true"
+  },
+  {
+    "offset": "0x810c68",
+    "text": "nature of these creatures."
+  },
+  {
+    "offset": "0x810c84",
+    "text": "Based on my prior"
+  },
+  {
+    "offset": "0x810c98",
+    "text": "research, I suspect these"
+  },
+  {
+    "offset": "0x810cb4",
+    "text": "animals aren't regular living"
+  },
+  {
+    "offset": "0x810cd4",
+    "text": "beings."
+  },
+  {
+    "offset": "0x810cdc",
+    "text": "<b>Cytra:</> Yes, like you said,"
+  },
+  {
+    "offset": "0x810d00",
+    "text": "they behave very"
+  },
+  {
+    "offset": "0x810d14",
+    "text": "strangely. It doesn't seem"
+  },
+  {
+    "offset": "0x810d30",
+    "text": "natural."
+  },
+  {
+    "offset": "0x810d3c",
+    "text": "<b>Alice:</> Well, we'll know soon"
+  },
+  {
+    "offset": "0x810d60",
+    "text": "enough! Anyway, it's safe"
+  },
+  {
+    "offset": "0x810d7c",
+    "text": "to say that at least they"
+  },
+  {
+    "offset": "0x810d98",
+    "text": "are organic creatures,"
+  },
+  {
+    "offset": "0x810db0",
+    "text": "they have muscles, organs,"
+  },
+  {
+    "offset": "0x810dcc",
+    "text": "bones like any other animal."
+  },
+  {
+    "offset": "0x810dec",
+    "text": "And based on my previous"
+  },
+  {
+    "offset": "0x810e08",
+    "text": "research, it's safe to eat"
+  },
+  {
+    "offset": "0x810e24",
+    "text": "their meat."
+  },
+  {
+    "offset": "0x810e30",
+    "text": "<b>Cytra:</> You want to eat"
+  },
+  {
+    "offset": "0x810e50",
+    "text": "that? You're crazy!"
+  },
+  {
+    "offset": "0x810e64",
+    "text": "<b>Alice:</> Don't worry, I've"
+  },
+  {
+    "offset": "0x810e84",
+    "text": "already tested it, and it's"
+  },
+  {
+    "offset": "0x810ea0",
+    "text": "perfectly safe-just make"
+  },
+  {
+    "offset": "0x810ebc",
+    "text": "sure to cook it first. From"
+  },
+  {
+    "offset": "0x810ed8",
+    "text": "now on, you'll be able to use"
+  },
+  {
+    "offset": "0x810ef8",
+    "text": "the crafting machines to"
+  },
+  {
+    "offset": "0x810f14",
+    "text": "make <y>COOKED MEAT</>. At least"
+  },
+  {
+    "offset": "0x810f38",
+    "text": "we won't starve here!"
+  },
+  {
+    "offset": "0x810f50",
+    "text": "<y>COOKED MEAT</> is now"
+  },
+  {
+    "offset": "0x810f6c",
+    "text": "available at the crafting"
+  },
+  {
+    "offset": "0x810f88",
+    "text": "machines!"
+  },
+  {
+    "offset": "0x810f94",
+    "text": "<b>???:</> Sorry about earlier,"
+  },
+  {
+    "offset": "0x810fb4",
+    "text": "I was focused on my"
+  },
+  {
+    "offset": "0x810fc8",
+    "text": "analysis. I'm Alice, the"
+  },
+  {
+    "offset": "0x810fe4",
+    "text": "biologist of this expedition."
+  },
+  {
+    "offset": "0x811004",
+    "text": "<b>Cytra:</> I'm Cytra, one of"
+  },
+  {
+    "offset": "0x811024",
+    "text": "the meteorologists. Nice to"
+  },
+  {
+    "offset": "0x811040",
+    "text": "meet you."
+  },
+  {
+    "offset": "0x81104c",
+    "text": "<b>Alice:</> I'm researching the"
+  },
+  {
+    "offset": "0x811070",
+    "text": "fauna of this place. I've"
+  },
+  {
+    "offset": "0x81108c",
+    "text": "managed to gather some"
+  },
+  {
+    "offset": "0x8110a4",
+    "text": "preliminary data, but it's"
+  },
+  {
+    "offset": "0x8110c0",
+    "text": "not enough. Normally, I"
+  },
+  {
+    "offset": "0x8110d8",
+    "text": "collect samples with the"
+  },
+  {
+    "offset": "0x8110f4",
+    "text": "help of the military, but"
+  },
+  {
+    "offset": "0x811110",
+    "text": "they're not here right now."
+  },
+  {
+    "offset": "0x81112c",
+    "text": "And in my last solo"
+  },
+  {
+    "offset": "0x811140",
+    "text": "attempt, a specimen stole"
+  },
+  {
+    "offset": "0x81115c",
+    "text": "my weapon, so I'm unable to"
+  },
+  {
+    "offset": "0x811178",
+    "text": "continue my research. Could"
+  },
+  {
+    "offset": "0x811194",
+    "text": "you help me out?"
+  },
+  {
+    "offset": "0x8111a8",
+    "text": "<b>Cytra:</> What do you mean,"
+  },
+  {
+    "offset": "0x8111c8",
+    "text": "it stole your weapon?"
+  },
+  {
+    "offset": "0x8111e0",
+    "text": "<b>Alice:</> I... I'm not used to"
+  },
+  {
+    "offset": "0x811204",
+    "text": "collecting samples by"
+  },
+  {
+    "offset": "0x81121c",
+    "text": "myself. These specimens are"
+  },
+  {
+    "offset": "0x811238",
+    "text": "very hostile, and I get"
+  },
+  {
+    "offset": "0x811250",
+    "text": "really scared when they're"
+  },
+  {
+    "offset": "0x81126c",
+    "text": "like that. So, while I was"
+  },
+  {
+    "offset": "0x811288",
+    "text": "getting ready to catch a"
+  },
+  {
+    "offset": "0x8112a4",
+    "text": "lizard, a bird came and"
+  },
+  {
+    "offset": "0x8112bc",
+    "text": "took my weapon."
+  },
+  {
+    "offset": "0x8112cc",
+    "text": "<b>Cytra:</> You're a biologist"
+  },
+  {
+    "offset": "0x8112ec",
+    "text": "and you're afraid of"
+  },
+  {
+    "offset": "0x811304",
+    "text": "animals?"
+  },
+  {
+    "offset": "0x811310",
+    "text": "<b>Alice:</> I only became a"
+  },
+  {
+    "offset": "0x811330",
+    "text": "biologist because I wanted"
+  },
+  {
+    "offset": "0x81134c",
+    "text": "to study cute animals. The"
+  },
+  {
+    "offset": "0x811368",
+    "text": "other types of specimens I"
+  },
+  {
+    "offset": "0x811384",
+    "text": "dealt with in the Alliance"
+  },
+  {
+    "offset": "0x8113a0",
+    "text": "were all tame, or in the"
+  },
+  {
+    "offset": "0x8113bc",
+    "text": "worst cases, I had someone"
+  },
+  {
+    "offset": "0x8113d8",
+    "text": "more experienced helping"
+  },
+  {
+    "offset": "0x8113f4",
+    "text": "me. I don't have much field"
+  },
+  {
+    "offset": "0x811410",
+    "text": "experience either, so that"
+  },
+  {
+    "offset": "0x81142c",
+    "text": "doesn't help... And I've heard"
+  },
+  {
+    "offset": "0x81144c",
+    "text": "you're quite experienced, so"
+  },
+  {
+    "offset": "0x81146c",
+    "text": "please help me!"
+  },
+  {
+    "offset": "0x81147c",
+    "text": "<b>Cytra:</> ... Well, alright. The"
+  },
+  {
+    "offset": "0x8114a0",
+    "text": "hostility of these animals"
+  },
+  {
+    "offset": "0x8114bc",
+    "text": "does seem unusual."
+  },
+  {
+    "offset": "0x8114d0",
+    "text": "<b>Alice:</> Yes, I've never seen"
+  },
+  {
+    "offset": "0x8114f4",
+    "text": "animals like these being so"
+  },
+  {
+    "offset": "0x811510",
+    "text": "aggressive. Besides, they"
+  },
+  {
+    "offset": "0x81152c",
+    "text": "don't seem to act like a"
+  },
+  {
+    "offset": "0x811548",
+    "text": "regular animal, but more"
+  },
+  {
+    "offset": "0x811564",
+    "text": "like a robot, you know?"
+  },
+  {
+    "offset": "0x81157c",
+    "text": "That's why I need to analyze"
+  },
+  {
+    "offset": "0x81159c",
+    "text": "their biological samples."
+  },
+  {
+    "offset": "0x8115b8",
+    "text": "You'll find some lizards"
+  },
+  {
+    "offset": "0x8115d4",
+    "text": "scattered around the area,"
+  },
+  {
+    "offset": "0x8115f0",
+    "text": "could you bring me <y>5</>"
+  },
+  {
+    "offset": "0x81160c",
+    "text": "<y>Dogecko scales</>?"
+  },
+  {
+    "offset": "0x811624",
+    "text": "<b>Cytra:</> I'll see what I can"
+  },
+  {
+    "offset": "0x811648",
+    "text": "<b>Alice:</> Thank you, thank"
+  },
+  {
+    "offset": "0x811668",
+    "text": "you! You're an angel!"
+  },
+  {
+    "offset": "0x811680",
+    "text": "<b>???:</> ... Besides these"
+  },
+  {
+    "offset": "0x8116a0",
+    "text": "specimens being unknown,"
+  },
+  {
+    "offset": "0x8116bc",
+    "text": "I've never seen any animal"
+  },
+  {
+    "offset": "0x8116d8",
+    "text": "behave this way before..."
+  },
+  {
+    "offset": "0x8116f4",
+    "text": "Oh, sorry, could you come"
+  },
+  {
+    "offset": "0x811710",
+    "text": "back later? I'm a bit busy"
+  },
+  {
+    "offset": "0x81172c",
+    "text": "right now."
+  },
+  {
+    "offset": "0x811738",
+    "text": "<b>Alice:</> Cytra! Chegou em"
+  },
+  {
+    "offset": "0x811758",
+    "text": "boa hora! Minha teoria"
+  },
+  {
+    "offset": "0x811770",
+    "text": "estava correta."
+  },
+  {
+    "offset": "0x811780",
+    "text": "<b>Cytra:</> EntÃ£o nÃ£o sÃ£o"
+  },
+  {
+    "offset": "0x8117a0",
+    "text": "criaturas normais?"
+  },
+  {
+    "offset": "0x8117b4",
+    "text": "<b>Alice:</> ApÃ³s a anÃ¡lise do"
+  },
+  {
+    "offset": "0x8117d8",
+    "text": "DNA desses organismos,"
+  },
+  {
+    "offset": "0x8117f0",
+    "text": "identificamos uma diferenÃ§a"
+  },
+  {
+    "offset": "0x811810",
+    "text": "substancial no substrato"
+  },
+  {
+    "offset": "0x81182c",
+    "text": "descri-"
+  },
+  {
+    "offset": "0x811834",
+    "text": "<b>Alice:</> Que cara Ã© essa?"
+  },
+  {
+    "offset": "0x811854",
+    "text": "Essas sÃ£o informaÃ§Ãµes"
+  },
+  {
+    "offset": "0x811870",
+    "text": "relevantes para descrever"
+  },
+  {
+    "offset": "0x81188c",
+    "text": "o papel da sÃ­ntese peptÃ­-"
+  },
+  {
+    "offset": "0x8118a8",
+    "text": "<b>Cytra:</> VocÃª sabe que eu"
+  },
+  {
+    "offset": "0x8118c8",
+    "text": "sou meteorologista, e nÃ£o"
+  },
+  {
+    "offset": "0x8118e4",
+    "text": "biÃ³loga, certo? NÃ£o entendi"
+  },
+  {
+    "offset": "0x811904",
+    "text": "nada do que vocÃª falou."
+  },
+  {
+    "offset": "0x811920",
+    "text": "<b>Alice:</> Ah, desculpe, Ã© que"
+  },
+  {
+    "offset": "0x811944",
+    "text": "fiquei empolgada! Tentarei"
+  },
+  {
+    "offset": "0x811960",
+    "text": "explicar de uma forma mais"
+  },
+  {
+    "offset": "0x81197c",
+    "text": "fÃ¡cil. Resumidamente, essas"
+  },
+  {
+    "offset": "0x81199c",
+    "text": "criaturas nÃ£o sÃ£o animais,"
+  },
+  {
+    "offset": "0x8119bc",
+    "text": "mas um organismo artificial"
+  },
+  {
+    "offset": "0x8119d8",
+    "text": "que tem como principal"
+  },
+  {
+    "offset": "0x8119f0",
+    "text": "funÃ§Ã£o o \"mimetismo\". Ã um"
+  },
+  {
+    "offset": "0x811a10",
+    "text": "mecanismo que alguns seres"
+  },
+  {
+    "offset": "0x811a2c",
+    "text": "possuem que copia funÃ§Ãµes,"
+  },
+  {
+    "offset": "0x811a4c",
+    "text": "aparÃªncia, e etc para"
+  },
+  {
+    "offset": "0x811a64",
+    "text": "ganhar alguma vantagem."
+  },
+  {
+    "offset": "0x811a7c",
+    "text": "Nesse caso, esses <r>Dogeckos</>"
+  },
+  {
+    "offset": "0x811aa0",
+    "text": "mimetizam vÃ¡rios lagartos,"
+  },
+  {
+    "offset": "0x811abc",
+    "text": "por isso nÃ£o os reconheci."
+  },
+  {
+    "offset": "0x811ad8",
+    "text": "Eles tambÃ©m parecem ser o"
+  },
+  {
+    "offset": "0x811af4",
+    "text": "motivo pelo qual esse lugar"
+  },
+  {
+    "offset": "0x811b10",
+    "text": "continua inÃ³spito."
+  },
+  {
+    "offset": "0x811b24",
+    "text": "<b>Cytra:</> Eles nÃ£o deveriam"
+  },
+  {
+    "offset": "0x811b44",
+    "text": "estar aqui, certo? NÃ£o sÃ£o"
+  },
+  {
+    "offset": "0x811b64",
+    "text": "naturais desse local."
+  },
+  {
+    "offset": "0x811b7c",
+    "text": "<b>Alice:</> Exato! Eles nÃ£o sÃ£o"
+  },
+  {
+    "offset": "0x811ba0",
+    "text": "naturais e estÃ£o agindo"
+  },
+  {
+    "offset": "0x811bbc",
+    "text": "como pragas. Isso me"
+  },
+  {
+    "offset": "0x811bd4",
+    "text": "cheira mal... mas vamos"
+  },
+  {
+    "offset": "0x811bec",
+    "text": "precisar investigar de onde"
+  },
+  {
+    "offset": "0x811c08",
+    "text": "eles vieram pra tirar"
+  },
+  {
+    "offset": "0x811c20",
+    "text": "qualquer conclusÃ£o."
+  },
+  {
+    "offset": "0x811c38",
+    "text": "<b>Cytra:</> Sem problemas."
+  },
+  {
+    "offset": "0x811c54",
+    "text": "<b>Alice:</> Mais uma coisa, no"
+  },
+  {
+    "offset": "0x811c74",
+    "text": "<g>setor norte</> hÃ¡ uma"
+  },
+  {
+    "offset": "0x811c90",
+    "text": "<b>geofÃ­sica</> que relatou que"
+  },
+  {
+    "offset": "0x811cb4",
+    "text": "algumas ferramentas estÃ£o"
+  },
+  {
+    "offset": "0x811cd0",
+    "text": "sendo roubadas por <r>Zebos</>"
+  },
+  {
+    "offset": "0x811cf0",
+    "text": "<r>agressivos</>. Eles estÃ£o"
+  },
+  {
+    "offset": "0x811d10",
+    "text": "precisando de ajuda para"
+  },
+  {
+    "offset": "0x811d2c",
+    "text": "recuperÃ¡-las. Poderia"
+  },
+  {
+    "offset": "0x811d44",
+    "text": "passar lÃ¡ para ajudÃ¡-la?"
+  },
+  {
+    "offset": "0x811d60",
+    "text": "<b>Cytra:</> Os militares ainda"
+  },
+  {
+    "offset": "0x811d80",
+    "text": "nÃ£o retornaram?"
+  },
+  {
+    "offset": "0x811d94",
+    "text": "<b>Alice:</> NÃ£o... e como temos"
+  },
+  {
+    "offset": "0x811db8",
+    "text": "pouca mÃ£o de obra, sÃ³ nos"
+  },
+  {
+    "offset": "0x811dd4",
+    "text": "resta nÃ³s mesmos resolver"
+  },
+  {
+    "offset": "0x811df0",
+    "text": "o problema. Bom, nÃ£o"
+  },
+  {
+    "offset": "0x811e08",
+    "text": "esqueÃ§a. Fale com a"
+  },
+  {
+    "offset": "0x811e20",
+    "text": "<b>geofÃ­sica</> do setor norte"
+  },
+  {
+    "offset": "0x811e40",
+    "text": "que ela te darÃ¡ mais"
+  },
+  {
+    "offset": "0x811e58",
+    "text": "informaÃ§Ãµes!"
+  },
+  {
+    "offset": "0x811e68",
+    "text": "<b>Alice:</> Ainda estou"
+  },
+  {
+    "offset": "0x811e84",
+    "text": "analisando as amostras,"
+  },
+  {
+    "offset": "0x811e9c",
+    "text": "vai levar um tempo."
+  },
+  {
+    "offset": "0x811eb0",
+    "text": "Consegue voltar depois?"
+  },
+  {
+    "offset": "0x811ec8",
+    "text": "AliÃ¡s, Richard passou por"
+  },
+  {
+    "offset": "0x811ee4",
+    "text": "aqui procurando por vocÃª."
+  },
+  {
+    "offset": "0x811f00",
+    "text": "Disse pra te avisar que ele"
+  },
+  {
+    "offset": "0x811f1c",
+    "text": "estaria nas estaÃ§Ãµes"
+  },
+  {
+    "offset": "0x811f34",
+    "text": "Ele Ã© um homem estranho"
+  },
+  {
+    "offset": "0x811f50",
+    "text": "nÃ©? Mas acho que nÃ£o"
+  },
+  {
+    "offset": "0x811f68",
+    "text": "posso culpÃ¡-lo. O que"
+  },
+  {
+    "offset": "0x811f80",
+    "text": "aconteceu com a equipe"
+  },
+  {
+    "offset": "0x811f98",
+    "text": "anterior deve tÃª-lo afetado."
+  },
+  {
+    "offset": "0x811fb8",
+    "text": "<b>Alice:</> Obrigada! Acredito"
+  },
+  {
+    "offset": "0x811fd8",
+    "text": "que com essas amostras,"
+  },
+  {
+    "offset": "0x811ff0",
+    "text": "poderei identificar a"
+  },
+  {
+    "offset": "0x812008",
+    "text": "verdadeira natureza"
+  },
+  {
+    "offset": "0x81201c",
+    "text": "dessas criaturas. Baseado"
+  },
+  {
+    "offset": "0x812038",
+    "text": "na minha pesquisa prÃ©via,"
+  },
+  {
+    "offset": "0x812054",
+    "text": "suspeito que esses animais"
+  },
+  {
+    "offset": "0x812070",
+    "text": "nÃ£o sÃ£o seres vivos"
+  },
+  {
+    "offset": "0x812088",
+    "text": "comuns."
+  },
+  {
+    "offset": "0x812090",
+    "text": "<b>Cytra:</> Sim, como vocÃª"
+  },
+  {
+    "offset": "0x8120b0",
+    "text": "disse, eles agem de forma"
+  },
+  {
+    "offset": "0x8120cc",
+    "text": "bem estranha. NÃ£o parece"
+  },
+  {
+    "offset": "0x8120e8",
+    "text": "algo natural."
+  },
+  {
+    "offset": "0x8120f8",
+    "text": "<b>Alice:</> Bom, saberemos em"
+  },
+  {
+    "offset": "0x812118",
+    "text": "breve! De qualquer forma,"
+  },
+  {
+    "offset": "0x812134",
+    "text": "Ã© seguro afirmar que pelo"
+  },
+  {
+    "offset": "0x812150",
+    "text": "menos eles sÃ£o criaturas"
+  },
+  {
+    "offset": "0x81216c",
+    "text": "orgÃ¢nicas, possuem"
+  },
+  {
+    "offset": "0x812180",
+    "text": "mÃºsculos, Ã³rgÃ£os, ossos"
+  },
+  {
+    "offset": "0x81219c",
+    "text": "como qualquer outro"
+  },
+  {
+    "offset": "0x8121b0",
+    "text": "animal. E baseado na minha"
+  },
+  {
+    "offset": "0x8121cc",
+    "text": "pesquisa prÃ©via, Ã© seguro"
+  },
+  {
+    "offset": "0x8121e8",
+    "text": "ingerir sua carne."
+  },
+  {
+    "offset": "0x8121fc",
+    "text": "<b>Cytra:</> VocÃª quer comer"
+  },
+  {
+    "offset": "0x81221c",
+    "text": "isso? VocÃª Ã© maluca?"
+  },
+  {
+    "offset": "0x812234",
+    "text": "<b>Alice:</> NÃ£o se preocupe, jÃ¡"
+  },
+  {
+    "offset": "0x812258",
+    "text": "fiz testes e Ã©"
+  },
+  {
+    "offset": "0x812268",
+    "text": "perfeitamente seguro, Ã© sÃ³"
+  },
+  {
+    "offset": "0x812288",
+    "text": "cozinhar primeiro. A partir"
+  },
+  {
+    "offset": "0x8122a4",
+    "text": "de agora, vocÃª poderÃ¡ usar"
+  },
+  {
+    "offset": "0x8122c4",
+    "text": "as mÃ¡quinas de craft para"
+  },
+  {
+    "offset": "0x8122e0",
+    "text": "fazer <y>CARNE COZIDA</>. Pelo"
+  },
+  {
+    "offset": "0x812300",
+    "text": "menos fome nÃ£o iremos"
+  },
+  {
+    "offset": "0x812318",
+    "text": "passar aqui!"
+  },
+  {
+    "offset": "0x812328",
+    "text": "<y>CARNE COZIDA estÃ¡</>"
+  },
+  {
+    "offset": "0x812344",
+    "text": "<y>disponÃ­vel nas mÃ¡quinas de</>"
+  },
+  {
+    "offset": "0x812368",
+    "text": "<y>craft!</>"
+  },
+  {
+    "offset": "0x812378",
+    "text": "<b>???:</> Desculpe-me por"
+  },
+  {
+    "offset": "0x812394",
+    "text": "antes, estava concentrada"
+  },
+  {
+    "offset": "0x8123b0",
+    "text": "nas minhas anÃ¡lises. Sou"
+  },
+  {
+    "offset": "0x8123cc",
+    "text": "Alice, e sou a biÃ³loga desta"
+  },
+  {
+    "offset": "0x8123ec",
+    "text": "expediÃ§Ã£o."
+  },
+  {
+    "offset": "0x8123fc",
+    "text": "<b>Cytra:</> Eu sou Cytra, sou"
+  },
+  {
+    "offset": "0x81241c",
+    "text": "uma das meteorologistas."
+  },
+  {
+    "offset": "0x812438",
+    "text": "Prazer."
+  },
+  {
+    "offset": "0x812440",
+    "text": "<b>Alice:</> Estou pesquisando a"
+  },
+  {
+    "offset": "0x812464",
+    "text": "fauna deste lugar, consegui"
+  },
+  {
+    "offset": "0x812480",
+    "text": "coletar algumas"
+  },
+  {
+    "offset": "0x812490",
+    "text": "informaÃ§Ãµes preliminares,"
+  },
+  {
+    "offset": "0x8124ac",
+    "text": "mas elas nÃ£o sÃ£o"
+  },
+  {
+    "offset": "0x8124c0",
+    "text": "suficientes. Normalmente eu"
+  },
+  {
+    "offset": "0x8124dc",
+    "text": "coleto com ajuda dos"
+  },
+  {
+    "offset": "0x8124f4",
+    "text": "militares, mas eles nÃ£o"
+  },
+  {
+    "offset": "0x812510",
+    "text": "estÃ£o aqui agora e na"
+  },
+  {
+    "offset": "0x812528",
+    "text": "minha Ãºltima tentativa"
+  },
+  {
+    "offset": "0x812540",
+    "text": "sozinha, um espÃ©cime"
+  },
+  {
+    "offset": "0x812558",
+    "text": "roubou minha arma, entÃ£o"
+  },
+  {
+    "offset": "0x812574",
+    "text": "estou impossibilitada de"
+  },
+  {
+    "offset": "0x812590",
+    "text": "prosseguir com minha"
+  },
+  {
+    "offset": "0x8125a8",
+    "text": "pesquisa. SerÃ¡ que vocÃª"
+  },
+  {
+    "offset": "0x8125c4",
+    "text": "nÃ£o poderia me ajudar?"
+  },
+  {
+    "offset": "0x8125dc",
+    "text": "<b>Cytra:</> Como assim roubou"
+  },
+  {
+    "offset": "0x8125fc",
+    "text": "sua arma?"
+  },
+  {
+    "offset": "0x812608",
+    "text": "<b>Alice:</> Eu... nÃ£o estou"
+  },
+  {
+    "offset": "0x812628",
+    "text": "acostumada a pegar"
+  },
+  {
+    "offset": "0x81263c",
+    "text": "amostras pessoalmente."
+  },
+  {
+    "offset": "0x812654",
+    "text": "Esses espÃ©cimes sÃ£o muito"
+  },
+  {
+    "offset": "0x812670",
+    "text": "hostis, e eu morro de medo"
+  },
+  {
+    "offset": "0x81268c",
+    "text": "quando sÃ£o assim. EntÃ£o"
+  },
+  {
+    "offset": "0x8126a8",
+    "text": "enquanto eu estava me"
+  },
+  {
+    "offset": "0x8126c0",
+    "text": "preparando para pegar um"
+  },
+  {
+    "offset": "0x8126dc",
+    "text": "lagarto, um pÃ¡ssaro veio e"
+  },
+  {
+    "offset": "0x8126f8",
+    "text": "pegou minha arma."
+  },
+  {
+    "offset": "0x81270c",
+    "text": "<b>Cytra:</> VocÃª Ã© biÃ³loga e tem"
+  },
+  {
+    "offset": "0x812734",
+    "text": "medo de animais?"
+  },
+  {
+    "offset": "0x812748",
+    "text": "<b>Alice:</> Eu sÃ³ me tornei"
+  },
+  {
+    "offset": "0x812768",
+    "text": "biÃ³loga porque queria"
+  },
+  {
+    "offset": "0x812780",
+    "text": "estudar animais fofinhos."
+  },
+  {
+    "offset": "0x81279c",
+    "text": "Os outros tipos de"
+  },
+  {
+    "offset": "0x8127b0",
+    "text": "espÃ©cimes que eu tratei na"
+  },
+  {
+    "offset": "0x8127cc",
+    "text": "<b>AlianÃ§a</> eram todos mansos,"
+  },
+  {
+    "offset": "0x8127f0",
+    "text": "ou no pior dos casos, eu"
+  },
+  {
+    "offset": "0x81280c",
+    "text": "tinha ajuda de alguÃ©m mais"
+  },
+  {
+    "offset": "0x812828",
+    "text": "experiente. TambÃ©m nÃ£o"
+  },
+  {
+    "offset": "0x812844",
+    "text": "tenho muita experiÃªncia de"
+  },
+  {
+    "offset": "0x812860",
+    "text": "campo, entÃ£o isso nÃ£o"
+  },
+  {
+    "offset": "0x812878",
+    "text": "ajuda muito tambÃ©m... E eu"
+  },
+  {
+    "offset": "0x812894",
+    "text": "jÃ¡ ouvi falar que vocÃª Ã©"
+  },
+  {
+    "offset": "0x8128b0",
+    "text": "bem experiente, entÃ£o me"
+  },
+  {
+    "offset": "0x8128cc",
+    "text": "ajuda, por favor!"
+  },
+  {
+    "offset": "0x8128e0",
+    "text": "<b>Cytra:</> ... Bom, tudo bem. A"
+  },
+  {
+    "offset": "0x812904",
+    "text": "hostilidade desses animais"
+  },
+  {
+    "offset": "0x812920",
+    "text": "parece incomum mesmo."
+  },
+  {
+    "offset": "0x812938",
+    "text": "<b>Alice:</> Sim, nunca vi animais"
+  },
+  {
+    "offset": "0x81295c",
+    "text": "desse tipo serem tÃ£o"
+  },
+  {
+    "offset": "0x812974",
+    "text": "hostis. AlÃ©m disso, eles nÃ£o"
+  },
+  {
+    "offset": "0x812994",
+    "text": "parecem agir como um animal"
+  },
+  {
+    "offset": "0x8129b0",
+    "text": "comum, mas como um robÃ´,"
+  },
+  {
+    "offset": "0x8129cc",
+    "text": "entende? Por isso,"
+  },
+  {
+    "offset": "0x8129e0",
+    "text": "precisarei analisar suas"
+  },
+  {
+    "offset": "0x8129fc",
+    "text": "amostras biolÃ³gicas. VocÃª"
+  },
+  {
+    "offset": "0x812a18",
+    "text": "irÃ¡ encontrar alguns"
+  },
+  {
+    "offset": "0x812a30",
+    "text": "lagartos espalhados pela"
+  },
+  {
+    "offset": "0x812a4c",
+    "text": "regiÃ£o, poderia me trazer"
+  },
+  {
+    "offset": "0x812a68",
+    "text": "<y>5 escamas de Dogeckos</>?"
+  },
+  {
+    "offset": "0x812a88",
+    "text": "<b>Cytra:</> Verei o que posso"
+  },
+  {
+    "offset": "0x812aa8",
+    "text": "fazer."
+  },
+  {
+    "offset": "0x812ab0",
+    "text": "<b>Alice:</> Obrigada obrigada!"
+  },
+  {
+    "offset": "0x812ad0",
+    "text": "VocÃª Ã© um anjo!"
+  },
+  {
+    "offset": "0x812ae4",
+    "text": "<b>???:</> ... AlÃ©m desses"
+  },
+  {
+    "offset": "0x812b00",
+    "text": "espÃ©cimes serem"
+  },
+  {
+    "offset": "0x812b14",
+    "text": "desconhecidos, nunca vi"
+  },
+  {
+    "offset": "0x812b2c",
+    "text": "nenhum animal agir assim..."
+  },
+  {
+    "offset": "0x812b48",
+    "text": "Oh, desculpe, poderia"
+  },
+  {
+    "offset": "0x812b60",
+    "text": "voltar depois? Estou"
+  },
+  {
+    "offset": "0x812b78",
+    "text": "ocupada no momento."
+  },
+  {
+    "offset": "0x812b8c",
+    "text": "<r>Bateria fraca!</>"
+  },
+  {
+    "offset": "0x812ba4",
+    "text": "<r>Low battery!</>"
+  },
+  {
+    "offset": "0x812bb8",
+    "text": "<b>Julie:</> Thank you Cytra!"
+  },
+  {
+    "offset": "0x812bd8",
+    "text": "You're amazing!!!"
+  },
+  {
+    "offset": "0x812bec",
+    "text": "<b>Julie:</> Please defeat"
+  },
+  {
+    "offset": "0x812c08",
+    "text": "it, I know you're"
+  },
+  {
+    "offset": "0x812c1c",
+    "text": "capable!"
+  },
+  {
+    "offset": "0x812c28",
+    "text": "<b>Alice:</> Heard you managed"
+  },
+  {
+    "offset": "0x812c48",
+    "text": "to recover the stolen"
+  },
+  {
+    "offset": "0x812c60",
+    "text": "tools. Thank you so much!"
+  },
+  {
+    "offset": "0x812c7c",
+    "text": "Oh, right, I forgot to"
+  },
+  {
+    "offset": "0x812c94",
+    "text": "mention, but we identified"
+  },
+  {
+    "offset": "0x812cb0",
+    "text": "the <r>large bird</> that's"
+  },
+  {
+    "offset": "0x812ccc",
+    "text": "hovering over the area."
+  },
+  {
+    "offset": "0x812ce4",
+    "text": "It seems different from"
+  },
+  {
+    "offset": "0x812cfc",
+    "text": "the other birds..."
+  },
+  {
+    "offset": "0x812d10",
+    "text": "We don't know all the"
+  },
+  {
+    "offset": "0x812d28",
+    "text": "details, but be very"
+  },
+  {
+    "offset": "0x812d40",
+    "text": "careful from now on."
+  },
+  {
+    "offset": "0x812d58",
+    "text": "Always be prepared!"
+  },
+  {
+    "offset": "0x812d6c",
+    "text": "<b>Julie:</> Seems like a"
+  },
+  {
+    "offset": "0x812d88",
+    "text": "<r>large bird</> stole one of"
+  },
+  {
+    "offset": "0x812da8",
+    "text": "our <y>notebooks</>..."
+  },
+  {
+    "offset": "0x812dc0",
+    "text": "It's difficult without them"
+  },
+  {
+    "offset": "0x812ddc",
+    "text": "to process the data we"
+  },
+  {
+    "offset": "0x812df4",
+    "text": "collected."
+  },
+  {
+    "offset": "0x812e00",
+    "text": "Tell <b>Alice</>, maybe"
+  },
+  {
+    "offset": "0x812e18",
+    "text": "she has some new"
+  },
+  {
+    "offset": "0x812e2c",
+    "text": "information."
+  },
+  {
+    "offset": "0x812e3c",
+    "text": "<b>Julie:</> Phew, thank you!"
+  },
+  {
+    "offset": "0x812e5c",
+    "text": "Only problem is while you"
+  },
+  {
+    "offset": "0x812e78",
+    "text": "were fighting the Zebos, a"
+  },
+  {
+    "offset": "0x812e94",
+    "text": "<b>Julie:</> Those damn"
+  },
+  {
+    "offset": "0x812eac",
+    "text": "<r>Zebos</> stole some"
+  },
+  {
+    "offset": "0x812ec4",
+    "text": "<y>tools</>, we counted them"
+  },
+  {
+    "offset": "0x812ee4",
+    "text": "and I think 5 are missing..."
+  },
+  {
+    "offset": "0x812f04",
+    "text": "<b>Alice:</> You need to talk"
+  },
+  {
+    "offset": "0x812f24",
+    "text": "to the <b>geophysics</>"
+  },
+  {
+    "offset": "0x812f3c",
+    "text": "in the sector <g>to the north</>"
+  },
+  {
+    "offset": "0x812f60",
+    "text": "here. She'll give you more"
+  },
+  {
+    "offset": "0x812f7c",
+    "text": "information!"
+  },
+  {
+    "offset": "0x812f8c",
+    "text": "<b>Julie:</> Obrigado Cytra!"
+  },
+  {
+    "offset": "0x812fac",
+    "text": "vocÃª Ã© incrÃ­vel!!!"
+  },
+  {
+    "offset": "0x812fc4",
+    "text": "<b>Julie:</> Por favor"
+  },
+  {
+    "offset": "0x812fdc",
+    "text": "derrote-o, sei que vocÃª"
+  },
+  {
+    "offset": "0x812ff8",
+    "text": "Ã© capaz!"
+  },
+  {
+    "offset": "0x813004",
+    "text": "<b>Alice:</> Fiquei sabendo"
+  },
+  {
+    "offset": "0x813020",
+    "text": "que conseguiu recuperar"
+  },
+  {
+    "offset": "0x813038",
+    "text": "as ferramentas roubadas."
+  },
+  {
+    "offset": "0x813054",
+    "text": "Muito obrigada!"
+  },
+  {
+    "offset": "0x813064",
+    "text": "Ah, claro, esqueci de"
+  },
+  {
+    "offset": "0x81307c",
+    "text": "mencionar, mas identificamos"
+  },
+  {
+    "offset": "0x81309c",
+    "text": "a <r>grande ave</> que estÃ¡"
+  },
+  {
+    "offset": "0x8130bc",
+    "text": "sobrevoando a regiÃ£o."
+  },
+  {
+    "offset": "0x8130d4",
+    "text": "Ela parece diferente das"
+  },
+  {
+    "offset": "0x8130f0",
+    "text": "outras aves..."
+  },
+  {
+    "offset": "0x813100",
+    "text": "NÃ£o sabemos todos os"
+  },
+  {
+    "offset": "0x813118",
+    "text": "detalhes, mas tome muito"
+  },
+  {
+    "offset": "0x813134",
+    "text": "cuidado daqui em diante."
+  },
+  {
+    "offset": "0x813150",
+    "text": "Esteja sempre preparado!"
+  },
+  {
+    "offset": "0x81316c",
+    "text": "<b>Julie:</> Parece que"
+  },
+  {
+    "offset": "0x813184",
+    "text": "uma <r>grande ave</>"
+  },
+  {
+    "offset": "0x81319c",
+    "text": "roubou um dos nossos"
+  },
+  {
+    "offset": "0x8131b4",
+    "text": "Sem eles fica difÃ­cil"
+  },
+  {
+    "offset": "0x8131cc",
+    "text": "processar os dados que"
+  },
+  {
+    "offset": "0x8131e4",
+    "text": "coletamos."
+  },
+  {
+    "offset": "0x8131f0",
+    "text": "Avise a <b>Alice</>, talvez"
+  },
+  {
+    "offset": "0x81320c",
+    "text": "ela tenha alguma informaÃ§Ã£o"
+  },
+  {
+    "offset": "0x81322c",
+    "text": "nova"
+  },
+  {
+    "offset": "0x813234",
+    "text": "<b>Julie:</> Ufa, obrigado!"
+  },
+  {
+    "offset": "0x813250",
+    "text": "Ãnico problema Ã© que"
+  },
+  {
+    "offset": "0x813268",
+    "text": "enquanto vocÃª lutava com os"
+  },
+  {
+    "offset": "0x813288",
+    "text": "Zebos, uma <r>grande ave</>"
+  },
+  {
+    "offset": "0x8132a4",
+    "text": "<b>Julie:</> Esses malditos"
+  },
+  {
+    "offset": "0x8132c0",
+    "text": "<r>Zebos</> roubaram algumas"
+  },
+  {
+    "offset": "0x8132e0",
+    "text": "<y>ferramentas</>, contamos elas e"
+  },
+  {
+    "offset": "0x813304",
+    "text": "acho que estÃ£o faltando 5..."
+  },
+  {
+    "offset": "0x813324",
+    "text": "<b>Alice:</> VocÃª precisa"
+  },
+  {
+    "offset": "0x813340",
+    "text": "falar com a <b>geofÃ­sica</>"
+  },
+  {
+    "offset": "0x813360",
+    "text": "no setor <g>ao norte</> daqui."
+  },
+  {
+    "offset": "0x813380",
+    "text": "Ela vai te dar mais"
+  },
+  {
+    "offset": "0x813394",
+    "text": "<b>Richard:</> ... ..."
+  },
+  {
+    "offset": "0x8133ac",
+    "text": "m.. maldita seja..."
+  },
+  {
+    "offset": "0x8133c0",
+    "text": "tenho certeza que o impÃ©rio"
+  },
+  {
+    "offset": "0x8133e0",
+    "text": "vai destruir vocÃª e seus"
+  },
+  {
+    "offset": "0x8133fc",
+    "text": "sonhos ridÃ­culos ..."
+  },
+  {
+    "offset": "0x813414",
+    "text": "<b>Cytra:</> NÃ£o tenho medo de lutar"
+  },
+  {
+    "offset": "0x81343c",
+    "text": "contra uma organizaÃ§Ã£o"
+  },
+  {
+    "offset": "0x813458",
+    "text": "decadente e perversa."
+  },
+  {
+    "offset": "0x813470",
+    "text": "O que eu temo, na verdade"
+  },
+  {
+    "offset": "0x81348c",
+    "text": "Ã© nÃ£o poder lutar ..."
+  },
+  {
+    "offset": "0x8134a4",
+    "text": "agora me responda, onde"
+  },
+  {
+    "offset": "0x8134bc",
+    "text": "estÃ£o os militares?"
+  },
+  {
+    "offset": "0x8134d4",
+    "text": "<b>Richard:</> ha.. hahha.."
+  },
+  {
+    "offset": "0x8134f0",
+    "text": "isso Ã© maior que eu e que"
+  },
+  {
+    "offset": "0x81350c",
+    "text": "vocÃª, acha mesmo que essas"
+  },
+  {
+    "offset": "0x813528",
+    "text": "expediÃ§Ãµes sÃ£o para descobrir"
+  },
+  {
+    "offset": "0x81354c",
+    "text": "se esse lugar Ã© adequado para"
+  },
+  {
+    "offset": "0x81356c",
+    "text": "viver?"
+  },
+  {
+    "offset": "0x813574",
+    "text": "Poupe-me Cytra de sua"
+  },
+  {
+    "offset": "0x81358c",
+    "text": "ingenuidade, apesar da sua"
+  },
+  {
+    "offset": "0x8135a8",
+    "text": "idade incomum, vocÃª ainda"
+  },
+  {
+    "offset": "0x8135c4",
+    "text": "nÃ£o amadureceu."
+  },
+  {
+    "offset": "0x8135d8",
+    "text": "Fique com as suas memÃ³rias,"
+  },
+  {
+    "offset": "0x8135f8",
+    "text": "o mundo nunca mais serÃ¡"
+  },
+  {
+    "offset": "0x813614",
+    "text": "verde outra vez ..."
+  },
+  {
+    "offset": "0x813628",
+    "text": "<b>Cytra:</> Onde eles estÃ£o?"
+  },
+  {
+    "offset": "0x813648",
+    "text": "<b>Richard:</> vÃ¡ para o sul"
+  },
+  {
+    "offset": "0x813668",
+    "text": "e vocÃª comeÃ§arÃ¡ a entender"
+  },
+  {
+    "offset": "0x813688",
+    "text": "<b>How long do you want to sleep?</>"
+  },
+  {
+    "offset": "0x8136b0",
+    "text": "<b>Deseja dormir atÃ© quando?</>"
+  },
+  {
+    "offset": "0x8136d4",
+    "text": "<b>Richard:</> N-no...!"
+  },
+  {
+    "offset": "0x8136ec",
+    "text": "This cannot be!"
+  },
+  {
+    "offset": "0x8136fc",
+    "text": "Damn you!"
+  },
+  {
+    "offset": "0x813708",
+    "text": "<b>Cytra:</> Scum. You're really"
+  },
+  {
+    "offset": "0x81372c",
+    "text": "lucky that, with these"
+  },
+  {
+    "offset": "0x813744",
+    "text": "injuries, you won't live"
+  },
+  {
+    "offset": "0x813760",
+    "text": "to pay for your crimes."
+  },
+  {
+    "offset": "0x813778",
+    "text": "<b>Richard:</> Your stupid dream."
+  },
+  {
+    "offset": "0x81379c",
+    "text": "The empire will not let"
+  },
+  {
+    "offset": "0x8137b4",
+    "text": "you guys do as you want."
+  },
+  {
+    "offset": "0x8137d0",
+    "text": "Sooner or later, they will"
+  },
+  {
+    "offset": "0x8137ec",
+    "text": "finish you."
+  },
+  {
+    "offset": "0x8137f8",
+    "text": "<b>Cytra:</> The only thing I"
+  },
+  {
+    "offset": "0x813818",
+    "text": "fear is not being able"
+  },
+  {
+    "offset": "0x813830",
+    "text": "to fight for a better"
+  },
+  {
+    "offset": "0x813848",
+    "text": "future. But the empire..."
+  },
+  {
+    "offset": "0x813864",
+    "text": "I do not fear those vile,"
+  },
+  {
+    "offset": "0x813880",
+    "text": "selfish pigs. I'll fight"
+  },
+  {
+    "offset": "0x81389c",
+    "text": "them to the end."
+  },
+  {
+    "offset": "0x8138b0",
+    "text": "Now, spit it out!"
+  },
+  {
+    "offset": "0x8138c4",
+    "text": "Where are the military?"
+  },
+  {
+    "offset": "0x8138dc",
+    "text": "<b>Richard:</> Ha-hahah..."
+  },
+  {
+    "offset": "0x8138f8",
+    "text": "Oh poor Cytra, you think"
+  },
+  {
+    "offset": "0x813914",
+    "text": "this has to do with me?"
+  },
+  {
+    "offset": "0x81392c",
+    "text": "You think there's nothing"
+  },
+  {
+    "offset": "0x813948",
+    "text": "behind those expeditions?"
+  },
+  {
+    "offset": "0x813964",
+    "text": "You're a real prodigy, I'll"
+  },
+  {
+    "offset": "0x813980",
+    "text": "give you that. But you're"
+  },
+  {
+    "offset": "0x81399c",
+    "text": "naive. You still have much"
+  },
+  {
+    "offset": "0x8139b8",
+    "text": "to grow and"
+  },
+  {
+    "offset": "0x8139c4",
+    "text": "understand the ill"
+  },
+  {
+    "offset": "0x8139d8",
+    "text": "intentions of this world."
+  },
+  {
+    "offset": "0x8139f4",
+    "text": "Head <g>south</>. You'll see"
+  },
+  {
+    "offset": "0x813a14",
+    "text": "what I am talking about."
+  },
+  {
+    "offset": "0x813a30",
+    "text": "This green earth you"
+  },
+  {
+    "offset": "0x813a48",
+    "text": "so wish to recreate..."
+  },
+  {
+    "offset": "0x813a60",
+    "text": "Is nothing but an"
+  },
+  {
+    "offset": "0x813a74",
+    "text": "unachievable dream..."
+  },
+  {
+    "offset": "0x813a8c",
+    "text": "<b>Cytra:</> O..."
+  },
+  {
+    "offset": "0x813aa0",
+    "text": "O que Ã© isso?"
+  },
+  {
+    "offset": "0x813ab0",
+    "text": "Me sinto estranha, parece"
+  },
+  {
+    "offset": "0x813acc",
+    "text": "que o tempo nÃ£o estÃ¡.."
+  },
+  {
+    "offset": "0x813ae8",
+    "text": "<y>passando nesse lugar.</>"
+  },
+  {
+    "offset": "0x813b04",
+    "text": "E o que sÃ£o todas essas"
+  },
+  {
+    "offset": "0x813b20",
+    "text": "caveiras?"
+  },
+  {
+    "offset": "0x813b2c",
+    "text": "de quem podem ser?"
+  },
+  {
+    "offset": "0x813b40",
+    "text": "<b>Cytra:</> What... what is"
+  },
+  {
+    "offset": "0x813b60",
+    "text": "The air is stagnant in"
+  },
+  {
+    "offset": "0x813b78",
+    "text": "this place, and there's"
+  },
+  {
+    "offset": "0x813b90",
+    "text": "skulls all over the place."
+  },
+  {
+    "offset": "0x813bac",
+    "text": "Who could them be?"
+  },
+  {
+    "offset": "0x813bc0",
+    "text": "And this ominous feeling..."
+  },
+  {
+    "offset": "0x813bdc",
+    "text": "It's almost like <y>the time</>"
+  },
+  {
+    "offset": "0x813bfc",
+    "text": "<y>isn't running</>."
+  },
+  {
+    "offset": "0x813c14",
+    "text": "Something is wrong here."
+  },
+  {
+    "offset": "0x813c30",
+    "text": "<b>Ander:</> You can also make"
+  },
+  {
+    "offset": "0x813c50",
+    "text": "some <y>cool drinks</> at the"
+  },
+  {
+    "offset": "0x813c70",
+    "text": "<b>crafting machines</> if you"
+  },
+  {
+    "offset": "0x813c90",
+    "text": "have the necessary materials."
+  },
+  {
+    "offset": "0x813cb0",
+    "text": "You can also buy them at"
+  },
+  {
+    "offset": "0x813ccc",
+    "text": "<b>vending machines</>, but"
+  },
+  {
+    "offset": "0x813ce8",
+    "text": "I hate that industrial taste."
+  },
+  {
+    "offset": "0x813d08",
+    "text": "<y>You received 2 Cool Drinks!</>"
+  },
+  {
+    "offset": "0x813d2c",
+    "text": "<y>This reduces the effect of</>"
+  },
+  {
+    "offset": "0x813d50",
+    "text": "<y>heat for 6 hours!</>"
+  },
+  {
+    "offset": "0x813d68",
+    "text": "<b>Ander:</> I guarantee this will"
+  },
+  {
+    "offset": "0x813d8c",
+    "text": "help with the heat!"
+  },
+  {
+    "offset": "0x813da0",
+    "text": "You know, you can also make"
+  },
+  {
+    "offset": "0x813dbc",
+    "text": "<b>???:</> Hello. I'm Ander, one of"
+  },
+  {
+    "offset": "0x813de0",
+    "text": "the expedition botanists!"
+  },
+  {
+    "offset": "0x813dfc",
+    "text": "I'm researching medicinal"
+  },
+  {
+    "offset": "0x813e18",
+    "text": "drink that <y>reduces the</>"
+  },
+  {
+    "offset": "0x813e38",
+    "text": "<y>effects of heat for 6 hours</>"
+  },
+  {
+    "offset": "0x813e5c",
+    "text": "try it:"
+  },
+  {
+    "offset": "0x813e64",
+    "text": "<b>Alex:</> Hmm... A mysterious"
+  },
+  {
+    "offset": "0x813e84",
+    "text": "cold energy seems to be"
+  },
+  {
+    "offset": "0x813e9c",
+    "text": "flowing from this tree"
+  },
+  {
+    "offset": "0x813eb4",
+    "text": "leaves. Perhaps this is"
+  },
+  {
+    "offset": "0x813ecc",
+    "text": "the reason for its shadows"
+  },
+  {
+    "offset": "0x813ee8",
+    "text": "to be so refreshing?"
+  },
+  {
+    "offset": "0x813f00",
+    "text": "It's certainly not normal..."
+  },
+  {
+    "offset": "0x813f20",
+    "text": "<b>???:</> Hey, hello. I'm Alex!"
+  },
+  {
+    "offset": "0x813f44",
+    "text": "I'm the expedition botanist!"
+  },
+  {
+    "offset": "0x813f64",
+    "text": "<b>Cytra:</> I'm Cytra, I am the"
+  },
+  {
+    "offset": "0x813f88",
+    "text": "meteorologist."
+  },
+  {
+    "offset": "0x813f98",
+    "text": "<b>Alex:</> Cytra, do you see"
+  },
+  {
+    "offset": "0x813fb8",
+    "text": "these beautiful"
+  },
+  {
+    "offset": "0x813fc8",
+    "text": "trees? They have a striking"
+  },
+  {
+    "offset": "0x813fe4",
+    "text": "resemblance to the trees"
+  },
+  {
+    "offset": "0x814000",
+    "text": "found in the African"
+  },
+  {
+    "offset": "0x814018",
+    "text": "Savannah, listed in the"
+  },
+  {
+    "offset": "0x814030",
+    "text": "catalogue No.714."
+  },
+  {
+    "offset": "0x814044",
+    "text": "They are resistant and"
+  },
+  {
+    "offset": "0x81405c",
+    "text": "their tops gifts us"
+  },
+  {
+    "offset": "0x814070",
+    "text": "with a nice <y>refreshing</>"
+  },
+  {
+    "offset": "0x814090",
+    "text": "<y>shadow!</>"
+  },
+  {
+    "offset": "0x8140a0",
+    "text": "It's amazing! I hope"
+  },
+  {
+    "offset": "0x8140b8",
+    "text": "to understand how they"
+  },
+  {
+    "offset": "0x8140d0",
+    "text": "can survive in such a"
+  },
+  {
+    "offset": "0x8140e8",
+    "text": "unfavorable place."
+  },
+  {
+    "offset": "0x8140fc",
+    "text": "<b>Alex:</> You should go see your"
+  },
+  {
+    "offset": "0x814120",
+    "text": "other <b>meteorologist friend</>."
+  },
+  {
+    "offset": "0x814144",
+    "text": "He's on the <g>hill, right</>"
+  },
+  {
+    "offset": "0x814164",
+    "text": "<g>behind us</>!"
+  },
+  {
+    "offset": "0x814178",
+    "text": "He already found out the"
+  },
+  {
+    "offset": "0x814194",
+    "text": "meteorologic station on"
+  },
+  {
+    "offset": "0x8141ac",
+    "text": "this sector and can help"
+  },
+  {
+    "offset": "0x8141c8",
+    "text": "you find the next ones."
+  },
+  {
+    "offset": "0x8141e0",
+    "text": "Ah, I almost forgot."
+  },
+  {
+    "offset": "0x8141f8",
+    "text": "The technicians are fixing"
+  },
+  {
+    "offset": "0x814214",
+    "text": "the camp's alarm clocks."
+  },
+  {
+    "offset": "0x814230",
+    "text": "Soon, it will be possible"
+  },
+  {
+    "offset": "0x81424c",
+    "text": "to wake up <y>at dawn</> or"
+  },
+  {
+    "offset": "0x814268",
+    "text": "<y>at dusk</>."
+  },
+  {
+    "offset": "0x814278",
+    "text": "But I think it's a waste"
+  },
+  {
+    "offset": "0x814294",
+    "text": "of time to sleep in such a"
+  },
+  {
+    "offset": "0x8142b0",
+    "text": "fantastic place with so many"
+  },
+  {
+    "offset": "0x8142d0",
+    "text": "new things to discover."
+  },
+  {
+    "offset": "0x8142e8",
+    "text": "<b>Bill:</> Precisamos de:"
+  },
+  {
+    "offset": "0x814304",
+    "text": "<y>5 refrigerantes</>."
+  },
+  {
+    "offset": "0x81431c",
+    "text": "Sei que Ã© muito, mas em"
+  },
+  {
+    "offset": "0x814338",
+    "text": "troca posso te ensinar a"
+  },
+  {
+    "offset": "0x814354",
+    "text": "<y>fazer uma picareta!</>"
+  },
+  {
+    "offset": "0x814370",
+    "text": "VocÃª aceita?"
+  },
+  {
+    "offset": "0x814380",
+    "text": "<y>VocÃª aprendeu a fazer uma </>"
+  },
+  {
+    "offset": "0x8143a4",
+    "text": "<y>Picareta!</>"
+  },
+  {
+    "offset": "0x8143b4",
+    "text": "<y>Agora vocÃª pode construir uma</>"
+  },
+  {
+    "offset": "0x8143dc",
+    "text": "<y>picareta em qualquer mÃ¡quina</>"
+  },
+  {
+    "offset": "0x814400",
+    "text": "<y>de craft, desde que tenha os</>"
+  },
+  {
+    "offset": "0x814424",
+    "text": "<y>materiais necessÃ¡rios.</>"
+  },
+  {
+    "offset": "0x814444",
+    "text": "<y>VocÃª tambÃ©m obteve 1 LicenÃ§a</>"
+  },
+  {
+    "offset": "0x81446c",
+    "text": "<y>esse material Ã© necessÃ¡rio para</>"
+  },
+  {
+    "offset": "0x814494",
+    "text": "<y>criaÃ§Ã£o de qualquer tipo de</>"
+  },
+  {
+    "offset": "0x8144b8",
+    "text": "<y>arma.</>"
+  },
+  {
+    "offset": "0x8144c4",
+    "text": "<b>Bill:</> Se me trouxer"
+  },
+  {
+    "offset": "0x8144e0",
+    "text": "<y>5 refrigerantes</> posso"
+  },
+  {
+    "offset": "0x8144fc",
+    "text": "te ensinar a fazer uma"
+  },
+  {
+    "offset": "0x814514",
+    "text": "<y>picareta</>, o que acha?"
+  },
+  {
+    "offset": "0x814530",
+    "text": "<b>Bill:</> JÃ¡ estou cansado desta"
+  },
+  {
+    "offset": "0x814554",
+    "text": "expediÃ§Ã£o, mas tudo bem vou"
+  },
+  {
+    "offset": "0x814574",
+    "text": "tirar umas fÃ©rias em breve."
+  },
+  {
+    "offset": "0x814594",
+    "text": "<b>???:</> Desculpe por nÃ£o me"
+  },
+  {
+    "offset": "0x8145b4",
+    "text": "apresentar, estÃ¡vamos"
+  },
+  {
+    "offset": "0x8145cc",
+    "text": "sobrecarregados com trabalho."
+  },
+  {
+    "offset": "0x8145ec",
+    "text": "Eu sou Bill, e eu acredito que"
+  },
+  {
+    "offset": "0x81460c",
+    "text": "jÃ¡ quebramos a maioria das"
+  },
+  {
+    "offset": "0x814628",
+    "text": "rochas em nosso caminho."
+  },
+  {
+    "offset": "0x814644",
+    "text": "Ainda tem aquela rocha grande"
+  },
+  {
+    "offset": "0x814664",
+    "text": "bloqueando a <g>passagem sul</>."
+  },
+  {
+    "offset": "0x814688",
+    "text": "Mas trabalhar nesse calor Ã©"
+  },
+  {
+    "offset": "0x8146a8",
+    "text": "terrÃ­vel!"
+  },
+  {
+    "offset": "0x8146b4",
+    "text": "Se me trouxer <y>5 refrigerantes</>"
+  },
+  {
+    "offset": "0x8146d8",
+    "text": "posso te ensinar a fazer uma"
+  },
+  {
+    "offset": "0x8146f8",
+    "text": "<b>TÃ©cnico:</> Ainda temos"
+  },
+  {
+    "offset": "0x814714",
+    "text": "muito trabalho a fazer aqui."
+  },
+  {
+    "offset": "0x814734",
+    "text": "Por favor, nÃ£o me incomode."
+  },
+  {
+    "offset": "0x814754",
+    "text": "NÃ£o tem algo para fazer"
+  },
+  {
+    "offset": "0x814770",
+    "text": "tambÃ©m?"
+  },
+  {
+    "offset": "0x81477c",
+    "text": "<b>Julie:</> ......."
+  },
+  {
+    "offset": "0x814794",
+    "text": "Oh! VocÃª me assustou!"
+  },
+  {
+    "offset": "0x8147ac",
+    "text": "Eu nÃ£o vi que vocÃª estava"
+  },
+  {
+    "offset": "0x8147c8",
+    "text": "ainda aqui!"
+  },
+  {
+    "offset": "0x8147d4",
+    "text": "Desculpe-me, eu fiquei tÃ£o"
+  },
+  {
+    "offset": "0x8147f0",
+    "text": "animada com isso!"
+  },
+  {
+    "offset": "0x814804",
+    "text": "SÃ£o petabytes de dados"
+  },
+  {
+    "offset": "0x81481c",
+    "text": "que eu preciso analisar!"
+  },
+  {
+    "offset": "0x814838",
+    "text": "<b>Julie:</> Se me der esses"
+  },
+  {
+    "offset": "0x814858",
+    "text": "<y>7 cafÃ©s</> eu posso te ensinar"
+  },
+  {
+    "offset": "0x81487c",
+    "text": "a fazer um <y>rifle</>!"
+  },
+  {
+    "offset": "0x814894",
+    "text": "<b>Julie: </>Queria tanto um"
+  },
+  {
+    "offset": "0x8148b4",
+    "text": "cafÃ©zinho, mas estou longe"
+  },
+  {
+    "offset": "0x8148d0",
+    "text": "das mÃ¡quinas..."
+  },
+  {
+    "offset": "0x8148e4",
+    "text": "Se vocÃª me trouxer uns"
+  },
+  {
+    "offset": "0x8148fc",
+    "text": "<y>7 cafÃ©s</> eu posso te"
+  },
+  {
+    "offset": "0x814918",
+    "text": "ensinar a fazer um rifle!"
+  },
+  {
+    "offset": "0x814934",
+    "text": "<y>VocÃª aprendeu a fazer</>"
+  },
+  {
+    "offset": "0x814954",
+    "text": "<y>um Rifle!</>"
+  },
+  {
+    "offset": "0x814964",
+    "text": "<y>Agora vocÃª pode construir um</>"
+  },
+  {
+    "offset": "0x814988",
+    "text": "<y>rifle em qualquer mÃ¡quina</>"
+  },
+  {
+    "offset": "0x8149ac",
+    "text": "<b>???:</> Ei! VocÃª Ã© a"
+  },
+  {
+    "offset": "0x8149c8",
+    "text": "Cytra, certo?"
+  },
+  {
+    "offset": "0x8149d8",
+    "text": "<b>Cytra:</> Opa, acertou!"
+  },
+  {
+    "offset": "0x8149f4",
+    "text": "Suponho que seja <b>Julie</>?!"
+  },
+  {
+    "offset": "0x814a14",
+    "text": "<b>Julie:</> Isso! Ei, vocÃª"
+  },
+  {
+    "offset": "0x814a34",
+    "text": "pode me ajudar?"
+  },
+  {
+    "offset": "0x814a44",
+    "text": "Meu trabalho exige muita"
+  },
+  {
+    "offset": "0x814a60",
+    "text": "concentraÃ§Ã£o, entÃ£o preciso"
+  },
+  {
+    "offset": "0x814a80",
+    "text": "ficar dia e noite plantada"
+  },
+  {
+    "offset": "0x814a9c",
+    "text": "nesse notebook, observando"
+  },
+  {
+    "offset": "0x814ab8",
+    "text": "grÃ¡ficos..."
+  },
+  {
+    "offset": "0x814ac8",
+    "text": "Queria tanto um cafÃ©zinho"
+  },
+  {
+    "offset": "0x814ae4",
+    "text": "mas estou longe das "
+  },
+  {
+    "offset": "0x814afc",
+    "text": "<b>Richard:</> eu te darei"
+  },
+  {
+    "offset": "0x814b18",
+    "text": "uma morte rÃ¡pida!"
+  },
+  {
+    "offset": "0x814b2c",
+    "text": "Venha!"
+  },
+  {
+    "offset": "0x814b34",
+    "text": "<b>Richard:</> OlÃ¡ Cytra, fico feliz"
+  },
+  {
+    "offset": "0x814b5c",
+    "text": "que vocÃª esteja aqui. VocÃª"
+  },
+  {
+    "offset": "0x814b7c",
+    "text": "serÃ¡ a primeira a ver isso."
+  },
+  {
+    "offset": "0x814b9c",
+    "text": "<b>Cytra:</> Qual o significado"
+  },
+  {
+    "offset": "0x814bbc",
+    "text": "dessa mensagem, Richard?"
+  },
+  {
+    "offset": "0x814bd8",
+    "text": "<b>Richard:</> Sua vida estÃ¡"
+  },
+  {
+    "offset": "0x814bf8",
+    "text": "chegando ao fim, entÃ£o vou"
+  },
+  {
+    "offset": "0x814c14",
+    "text": "te contar."
+  },
+  {
+    "offset": "0x814c20",
+    "text": "Eu desprezo esse novo mundo"
+  },
+  {
+    "offset": "0x814c3c",
+    "text": "que vocÃªs estÃ£o tentando"
+  },
+  {
+    "offset": "0x814c58",
+    "text": "criar!"
+  },
+  {
+    "offset": "0x814c60",
+    "text": "NÃ£o vejo sentido em"
+  },
+  {
+    "offset": "0x814c78",
+    "text": "salvar um mundo que jÃ¡ se"
+  },
+  {
+    "offset": "0x814c94",
+    "text": "mostrou um fracasso."
+  },
+  {
+    "offset": "0x814cac",
+    "text": "Tenho trabalhado em segredo"
+  },
+  {
+    "offset": "0x814cc8",
+    "text": "para o impÃ©rio,"
+  },
+  {
+    "offset": "0x814cdc",
+    "text": "para que meus planos"
+  },
+  {
+    "offset": "0x814cf4",
+    "text": "se realizem e eu seja"
+  },
+  {
+    "offset": "0x814d0c",
+    "text": "verdadeiramente livre!"
+  },
+  {
+    "offset": "0x814d24",
+    "text": "<b>Cytra:</> Seu filho da-"
+  },
+  {
+    "offset": "0x814d40",
+    "text": "Por isso vocÃª nÃ£o foi"
+  },
+  {
+    "offset": "0x814d58",
+    "text": "pego pelos drones."
+  },
+  {
+    "offset": "0x814d6c",
+    "text": "VocÃª Ã© o motivo pelo qual"
+  },
+  {
+    "offset": "0x814d88",
+    "text": "a Ãºltima equipe nÃ£o retornou!"
+  },
+  {
+    "offset": "0x814da8",
+    "text": "O que vocÃª fez? VocÃª os"
+  },
+  {
+    "offset": "0x814dc4",
+    "text": "matou?"
+  },
+  {
+    "offset": "0x814dcc",
+    "text": "<b>Richard:</> Oh nÃ£o, eu nÃ£o"
+  },
+  {
+    "offset": "0x814dec",
+    "text": "os matei. Eles simplesmente"
+  },
+  {
+    "offset": "0x814e08",
+    "text": "nÃ£o foram capazes de"
+  },
+  {
+    "offset": "0x814e20",
+    "text": "sobreviver a este ambiente sem"
+  },
+  {
+    "offset": "0x814e40",
+    "text": "seus equipamentos, que"
+  },
+  {
+    "offset": "0x814e58",
+    "text": "misteriosamente"
+  },
+  {
+    "offset": "0x814e68",
+    "text": "perderam energia elÃ©trica..."
+  },
+  {
+    "offset": "0x814e88",
+    "text": "Hahahaha!"
+  },
+  {
+    "offset": "0x814e94",
+    "text": "<b>Cytra:</> Covarde!"
+  },
+  {
+    "offset": "0x814eac",
+    "text": "Como vocÃª pÃ´de fazer isso?"
+  },
+  {
+    "offset": "0x814ecc",
+    "text": "<b>Richard:</> VocÃª vÃª Cytra,"
+  },
+  {
+    "offset": "0x814eec",
+    "text": "este lugar Ã© rico em um"
+  },
+  {
+    "offset": "0x814f08",
+    "text": "<y>minÃ©rio misterioso</>."
+  },
+  {
+    "offset": "0x814f24",
+    "text": "Este minÃ©rio absorve energia"
+  },
+  {
+    "offset": "0x814f44",
+    "text": "elÃ©trica e dÃ¡ ao seu portador"
+  },
+  {
+    "offset": "0x814f64",
+    "text": "seu poder!"
+  },
+  {
+    "offset": "0x814f70",
+    "text": "Sim! Isso Ã© o que eu preciso"
+  },
+  {
+    "offset": "0x814f90",
+    "text": "para alcanÃ§ar meus objetivos!"
+  },
+  {
+    "offset": "0x814fb0",
+    "text": "Eu nÃ£o posso agradecer o"
+  },
+  {
+    "offset": "0x814fcc",
+    "text": "suficiente por me ajudar,"
+  },
+  {
+    "offset": "0x814fe8",
+    "text": "Seria um problema se"
+  },
+  {
+    "offset": "0x815000",
+    "text": "o impÃ©rio me visse"
+  },
+  {
+    "offset": "0x815014",
+    "text": "destruindo suas valiosas"
+  },
+  {
+    "offset": "0x815030",
+    "text": "mÃ¡quinas."
+  },
+  {
+    "offset": "0x81503c",
+    "text": "Obrigado Cytra."
+  },
+  {
+    "offset": "0x81504c",
+    "text": "Como recompensa, eu te darei"
+  },
+  {
+    "offset": "0x81506c",
+    "text": "Obrigado pelo seu"
+  },
+  {
+    "offset": "0x815080",
+    "text": "trabalho duro, Cytra."
+  },
+  {
+    "offset": "0x815098",
+    "text": "Devemos voltar para o"
+  },
+  {
+    "offset": "0x8150b0",
+    "text": "<g>acampamento</>."
+  },
+  {
+    "offset": "0x8150c4",
+    "text": "<b>Cytra:</> Aqui estÃ£o as"
+  },
+  {
+    "offset": "0x8150e0",
+    "text": "Ãºltimas baterias."
+  },
+  {
+    "offset": "0x8150f4",
+    "text": "<b>Richard:</> Muito bem, Cytra."
+  },
+  {
+    "offset": "0x815118",
+    "text": "Finalmente terminamos isso."
+  },
+  {
+    "offset": "0x815134",
+    "text": "Ãtimo, nÃ£o acredito que"
+  },
+  {
+    "offset": "0x815150",
+    "text": "tudo correu tÃ£o bem."
+  },
+  {
+    "offset": "0x815168",
+    "text": "<b>Richard:</> Tenha paciÃªncia. SÃ³"
+  },
+  {
+    "offset": "0x815190",
+    "text": "falta uma estaÃ§Ã£o!"
+  },
+  {
+    "offset": "0x8151a8",
+    "text": "Traga-me <y>20 baterias</>!"
+  },
+  {
+    "offset": "0x8151c4",
+    "text": "<y>VocÃª recebeu Vitamina-BX!</>"
+  },
+  {
+    "offset": "0x8151e8",
+    "text": "<y>Sua stamina irÃ¡"
+  },
+  {
+    "offset": "0x8151fc",
+    "text": "<y>recuperar 50% mais rÃ¡pido!</>"
+  },
+  {
+    "offset": "0x815220",
+    "text": "<b>Cytra:</> Obrigada. Ainda bem"
+  },
+  {
+    "offset": "0x815244",
+    "text": "que esta Ã© a Ãºltima estaÃ§Ã£o."
+  },
+  {
+    "offset": "0x815268",
+    "text": "AtÃ© mais tarde."
+  },
+  {
+    "offset": "0x81527c",
+    "text": "<b>Cytra:</> Nossa, os drones"
+  },
+  {
+    "offset": "0x81529c",
+    "text": "nesta regiÃ£o sÃ£o pÃ©ssimos."
+  },
+  {
+    "offset": "0x8152bc",
+    "text": "Pensei que nÃ£o chegaria"
+  },
+  {
+    "offset": "0x8152d8",
+    "text": "viva aqui. Como vocÃª"
+  },
+  {
+    "offset": "0x8152f0",
+    "text": "conseguiu chegar aqui tÃ£o"
+  },
+  {
+    "offset": "0x81530c",
+    "text": "rÃ¡pido?"
+  },
+  {
+    "offset": "0x815318",
+    "text": "<b>Richard:</> Ah, parece que a"
+  },
+  {
+    "offset": "0x815338",
+    "text": "sorte estÃ¡ do meu lado, haha!"
+  },
+  {
+    "offset": "0x815358",
+    "text": "<b>Cytra:</> .... Sim... vocÃª"
+  },
+  {
+    "offset": "0x815378",
+    "text": "parece ser realmente"
+  },
+  {
+    "offset": "0x815390",
+    "text": "um cara de sorte."
+  },
+  {
+    "offset": "0x8153a4",
+    "text": "Aposto que nÃ£o serei tÃ£o"
+  },
+  {
+    "offset": "0x8153c0",
+    "text": "sortuda quanto vocÃª na"
+  },
+  {
+    "offset": "0x8153d8",
+    "text": "busca pelas prÃ³ximas"
+  },
+  {
+    "offset": "0x8153f0",
+    "text": "baterias, nÃ£o Ã© mesmo?"
+  },
+  {
+    "offset": "0x81540c",
+    "text": "<b>Richard:</> Hahahah! Sim,"
+  },
+  {
+    "offset": "0x81542c",
+    "text": "esta estaÃ§Ã£o parece estar"
+  },
+  {
+    "offset": "0x815448",
+    "text": "em mÃ¡s condiÃ§Ãµes, entÃ£o"
+  },
+  {
+    "offset": "0x815464",
+    "text": "desta vez precisaremos de"
+  },
+  {
+    "offset": "0x815480",
+    "text": "<y>20 baterias</>."
+  },
+  {
+    "offset": "0x815494",
+    "text": "Mas tenho uma recompensa"
+  },
+  {
+    "offset": "0x8154b0",
+    "text": "para vocÃª por ter chegado"
+  },
+  {
+    "offset": "0x8154cc",
+    "text": "tÃ£o longe!"
+  },
+  {
+    "offset": "0x8154d8",
+    "text": "<b>Richard:</> Este lugar Ã©"
+  },
+  {
+    "offset": "0x8154f8",
+    "text": "tÃ£o confuso, e o clima"
+  },
+  {
+    "offset": "0x815510",
+    "text": "nÃ£o ajuda nada..."
+  },
+  {
+    "offset": "0x815524",
+    "text": "Vamos embora antes de"
+  },
+  {
+    "offset": "0x81553c",
+    "text": "ficarmos mais confusos."
+  },
+  {
+    "offset": "0x815554",
+    "text": "<b>Cytra:</> Aqui estÃ¡."
+  },
+  {
+    "offset": "0x815570",
+    "text": "<b>Richard:</> Bom trabalho."
+  },
+  {
+    "offset": "0x815590",
+    "text": "Hora de ligar esta"
+  },
+  {
+    "offset": "0x8155a4",
+    "text": "estaÃ§Ã£o."
+  },
+  {
+    "offset": "0x8155b0",
+    "text": "Pronto!"
+  },
+  {
+    "offset": "0x8155b8",
+    "text": "SÃ³ mais uma estaÃ§Ã£o."
+  },
+  {
+    "offset": "0x8155d0",
+    "text": "Esta estÃ¡ cheia de -"
+  },
+  {
+    "offset": "0x8155e8",
+    "text": "Eu digo, os tÃ©cnicos "
+  },
+  {
+    "offset": "0x815600",
+    "text": "disseram que hÃ¡ uma estaÃ§Ã£o"
+  },
+  {
+    "offset": "0x815620",
+    "text": "por aqui, devemos procurar!"
+  },
+  {
+    "offset": "0x81563c",
+    "text": "<b>Cytra:</> ...O que foi isso?"
+  },
+  {
+    "offset": "0x81565c",
+    "text": "VocÃª estÃ¡ bem?"
+  },
+  {
+    "offset": "0x815670",
+    "text": "<b>Richard:</> S-sim, minha mente"
+  },
+  {
+    "offset": "0x815694",
+    "text": "estÃ¡ apenas confusa. Talvez"
+  },
+  {
+    "offset": "0x8156b4",
+    "text": "tenha sido um fragmento da"
+  },
+  {
+    "offset": "0x8156d0",
+    "text": "minha memÃ³ria que acabou de"
+  },
+  {
+    "offset": "0x8156f0",
+    "text": "voltar, haha."
+  },
+  {
+    "offset": "0x815700",
+    "text": "<b>Cytra:</> ...Certo entÃ£o."
+  },
+  {
+    "offset": "0x815720",
+    "text": "<b>Richard:</> Precisamos de"
+  },
+  {
+    "offset": "0x815740",
+    "text": "<y>6 baterias</> desta vez."
+  },
+  {
+    "offset": "0x81575c",
+    "text": "<y>VocÃª recebeu Vitamina B!</>"
+  },
+  {
+    "offset": "0x81577c",
+    "text": "<y>A estamina aumentou de</>"
+  },
+  {
+    "offset": "0x81579c",
+    "text": "<y>100 para 150.</>"
+  },
+  {
+    "offset": "0x8157b0",
+    "text": "<b>Richard:</> Esta estaÃ§Ã£o aqui"
+  },
+  {
+    "offset": "0x8157d4",
+    "text": "parece que estÃ¡"
+  },
+  {
+    "offset": "0x8157e8",
+    "text": "precisando de mais energia."
+  },
+  {
+    "offset": "0x815804",
+    "text": "Acho que vÃ£o ser necessÃ¡rias"
+  },
+  {
+    "offset": "0x815824",
+    "text": "<y>6 baterias</>"
+  },
+  {
+    "offset": "0x815838",
+    "text": "desta vez. VÃ¡ pegÃ¡-las para"
+  },
+  {
+    "offset": "0x815858",
+    "text": "mim."
+  },
+  {
+    "offset": "0x815860",
+    "text": "<b>Cytra:</> Ei, vocÃª nÃ£o vai"
+  },
+  {
+    "offset": "0x815880",
+    "text": "me ajudar?"
+  },
+  {
+    "offset": "0x81588c",
+    "text": "<b>Richard:</> Me perdoe por isso,"
+  },
+  {
+    "offset": "0x8158b0",
+    "text": "mas ainda nÃ£o me recuperei"
+  },
+  {
+    "offset": "0x8158cc",
+    "text": "completamente, Cytra."
+  },
+  {
+    "offset": "0x8158e4",
+    "text": "Estou fazendo o que posso."
+  },
+  {
+    "offset": "0x815900",
+    "text": "Aqui, pegue isso."
+  },
+  {
+    "offset": "0x815914",
+    "text": "Aposto que vai ajudar."
+  },
+  {
+    "offset": "0x81592c",
+    "text": "<b>Richard:</> Certo, conseguimos!"
+  },
+  {
+    "offset": "0x815950",
+    "text": "Agora vocÃª poderÃ¡ ver a"
+  },
+  {
+    "offset": "0x81596c",
+    "text": "<y>previsÃ£o do tempo</> no painel"
+  },
+  {
+    "offset": "0x815990",
+    "text": "da estaÃ§Ã£o sempre que quiser."
+  },
+  {
+    "offset": "0x8159b0",
+    "text": "A prÃ³xima estaÃ§Ã£o estÃ¡"
+  },
+  {
+    "offset": "0x8159cc",
+    "text": "<g>no setor onde vocÃª </>"
+  },
+  {
+    "offset": "0x8159e8",
+    "text": "<g>encontrou os drones</>,"
+  },
+  {
+    "offset": "0x815a04",
+    "text": "vamos para lÃ¡!"
+  },
+  {
+    "offset": "0x815a14",
+    "text": "<b>Cytra:</> Eu peguei as baterias!"
+  },
+  {
+    "offset": "0x815a38",
+    "text": "<b>Richard:</> Ãtimo, vamos colocar"
+  },
+  {
+    "offset": "0x815a60",
+    "text": "esta estaÃ§Ã£o pra funcionar!"
+  },
+  {
+    "offset": "0x815a80",
+    "text": "Certo, conseguimos!"
+  },
+  {
+    "offset": "0x815a94",
+    "text": "<b>Richard:</> Tem alguns"
+  },
+  {
+    "offset": "0x815ab0",
+    "text": "drones no <g>setor leste</>."
+  },
+  {
+    "offset": "0x815ad0",
+    "text": "Destrua e <y>colete 2</>"
+  },
+  {
+    "offset": "0x815aec",
+    "text": "<y>baterias</> deles. Mas"
+  },
+  {
+    "offset": "0x815b08",
+    "text": "cuidado, talvez vocÃª precise"
+  },
+  {
+    "offset": "0x815b28",
+    "text": "atirar neles algumas vezes"
+  },
+  {
+    "offset": "0x815b44",
+    "text": "antes de explodirem."
+  },
+  {
+    "offset": "0x815b5c",
+    "text": "<b>Julie</>, a GeofÃ­sica,"
+  },
+  {
+    "offset": "0x815b78",
+    "text": "sabe criar uma <y>arma melhor</>."
+  },
+  {
+    "offset": "0x815b9c",
+    "text": "Se vocÃª falar com ela, talvez"
+  },
+  {
+    "offset": "0x815bbc",
+    "text": "ela possa te ensinar."
+  },
+  {
+    "offset": "0x815bd4",
+    "text": "<b>Cytra:</> Ei Richard! Como"
+  },
+  {
+    "offset": "0x815bf4",
+    "text": "vai? Conseguiu se "
+  },
+  {
+    "offset": "0x815c08",
+    "text": "lembrar de algo sobre "
+  },
+  {
+    "offset": "0x815c20",
+    "text": "a Ãºltima expediÃ§Ã£o?"
+  },
+  {
+    "offset": "0x815c38",
+    "text": "<b>Richard:</> Apenas alguns"
+  },
+  {
+    "offset": "0x815c58",
+    "text": "fragmentos vagos..."
+  },
+  {
+    "offset": "0x815c6c",
+    "text": "Este lugar Ã© muito difÃ­cil"
+  },
+  {
+    "offset": "0x815c8c",
+    "text": "para nÃ³s."
+  },
+  {
+    "offset": "0x815c98",
+    "text": "Mas pelo menos ainda"
+  },
+  {
+    "offset": "0x815cb0",
+    "text": "posso ajudÃ¡-los."
+  },
+  {
+    "offset": "0x815cc4",
+    "text": "Aconselho vocÃªs a <y>nÃ£o ficarem</>"
+  },
+  {
+    "offset": "0x815cec",
+    "text": "<y>muito expostos a esse</>"
+  },
+  {
+    "offset": "0x815d08",
+    "text": "<y>sol forte.</>"
+  },
+  {
+    "offset": "0x815d1c",
+    "text": "NÃ£o me lembro muito"
+  },
+  {
+    "offset": "0x815d34",
+    "text": "da Ãºltima equipe, mas"
+  },
+  {
+    "offset": "0x815d4c",
+    "text": "pelo menos lembro que"
+  },
+  {
+    "offset": "0x815d64",
+    "text": "tivemos problemas com"
+  },
+  {
+    "offset": "0x815d7c",
+    "text": "o clima maluco."
+  },
+  {
+    "offset": "0x815d8c",
+    "text": "<b>Cytra:</> A noite tambÃ©m nÃ£o"
+  },
+  {
+    "offset": "0x815db0",
+    "text": "Ã© amigÃ¡vel. <y>Ã tÃ£o frio</>"
+  },
+  {
+    "offset": "0x815dd4",
+    "text": "<y>que dificulta os movimentos.</>."
+  },
+  {
+    "offset": "0x815df8",
+    "text": "<b>Richard:</> Sim, mas tenho"
+  },
+  {
+    "offset": "0x815e18",
+    "text": "certeza de que nÃ£o serÃ¡ um "
+  },
+  {
+    "offset": "0x815e38",
+    "text": "problema, certo? Me disseram"
+  },
+  {
+    "offset": "0x815e58",
+    "text": "que vocÃª Ã© um prodÃ­gio."
+  },
+  {
+    "offset": "0x815e74",
+    "text": "Vai lidar bem com isso."
+  },
+  {
+    "offset": "0x815e8c",
+    "text": "EstÃ¡ vendo essa <g>estaÃ§Ã£o</>?"
+  },
+  {
+    "offset": "0x815eb0",
+    "text": "AlÃ©m dessa, ainda temos"
+  },
+  {
+    "offset": "0x815ecc",
+    "text": "mais 2 espalhadas pelos "
+  },
+  {
+    "offset": "0x815ee8",
+    "text": "setores em volta."
+  },
+  {
+    "offset": "0x815efc",
+    "text": "Elas foram instaladas"
+  },
+  {
+    "offset": "0x815f14",
+    "text": "pela equipe anterior e"
+  },
+  {
+    "offset": "0x815f2c",
+    "text": "tirando o fato de que"
+  },
+  {
+    "offset": "0x815f44",
+    "text": "estÃ£o <y>sem energia</>,"
+  },
+  {
+    "offset": "0x815f60",
+    "text": "parecem estar ok."
+  },
+  {
+    "offset": "0x815f74",
+    "text": "Ouvi de alguns militares "
+  },
+  {
+    "offset": "0x815f90",
+    "text": "que <r>drones</> de exploraÃ§Ã£o"
+  },
+  {
+    "offset": "0x815fb4",
+    "text": "do impÃ©rio estÃ£o vigiando"
+  },
+  {
+    "offset": "0x815fd0",
+    "text": "os setores dessa regiÃ£o."
+  },
+  {
+    "offset": "0x815fec",
+    "text": "Se vocÃª destruir alguns,"
+  },
+  {
+    "offset": "0x816008",
+    "text": "podemos usar suas <y>baterias</>."
+  },
+  {
+    "offset": "0x81602c",
+    "text": "<b>Cytra:</> O impÃ©rio "
+  },
+  {
+    "offset": "0x816048",
+    "text": "parece estar em todo lugar,"
+  },
+  {
+    "offset": "0x816064",
+    "text": "viu, mas nÃ£o colabora com"
+  },
+  {
+    "offset": "0x816080",
+    "text": "nada a nÃ£o ser consigo mesmo."
+  },
+  {
+    "offset": "0x8160a0",
+    "text": "Precisamos reconstruir o mundo"
+  },
+  {
+    "offset": "0x8160c0",
+    "text": "nÃ£o esgotÃ¡-lo novamente..."
+  },
+  {
+    "offset": "0x8160e0",
+    "text": "Enfim, nÃ£o faz parte da"
+  },
+  {
+    "offset": "0x8160fc",
+    "text": "minha profissÃ£o, mas acho que"
+  },
+  {
+    "offset": "0x81611c",
+    "text": "vou me divertir, haha!"
+  },
+  {
+    "offset": "0x816134",
+    "text": "Quantas baterias precisa?"
+  },
+  {
+    "offset": "0x816150",
+    "text": "<b>Richard:</> Acho que ... "
+  },
+  {
+    "offset": "0x816170",
+    "text": "<y>2 serÃ£o suficientes</>. Com sua"
+  },
+  {
+    "offset": "0x816194",
+    "text": "<y>arma</>, vocÃª deve conseguir"
+  },
+  {
+    "offset": "0x8161b8",
+    "text": "destrui-los. Mas cuidado"
+  },
+  {
+    "offset": "0x8161d4",
+    "text": "talvez vocÃª tenha que"
+  },
+  {
+    "offset": "0x8161ec",
+    "text": "atirar algumas vezes"
+  },
+  {
+    "offset": "0x816204",
+    "text": "antes que os drones explodam."
+  },
+  {
+    "offset": "0x816224",
+    "text": "<b>Cytra:</> Embora seja um"
+  },
+  {
+    "offset": "0x816240",
+    "text": "lugar desolado, ainda"
+  },
+  {
+    "offset": "0x816258",
+    "text": "parece menos poluÃ­do do que"
+  },
+  {
+    "offset": "0x816278",
+    "text": "onde eu moro..."
+  },
+  {
+    "offset": "0x816288",
+    "text": "Mas esse calor... Ã© muito"
+  },
+  {
+    "offset": "0x8162a4",
+    "text": "intenso. Se eu nÃ£o estiver"
+  },
+  {
+    "offset": "0x8162c0",
+    "text": "<y>sob uma sombra ou me mantiver</>"
+  },
+  {
+    "offset": "0x8162e4",
+    "text": "<y>hidratada</>, esse sol vai"
+  },
+  {
+    "offset": "0x816304",
+    "text": "<y>fritar meu cÃ©rebro.</>"
+  },
+  {
+    "offset": "0x816320",
+    "text": "Sorte minha que parece"
+  },
+  {
+    "offset": "0x816338",
+    "text": "haver uma boa quantidade de"
+  },
+  {
+    "offset": "0x816354",
+    "text": "Ã¡gua subterrÃ¢nea, posso"
+  },
+  {
+    "offset": "0x816370",
+    "text": "usar meu <y>higrÃ´metro</> para"
+  },
+  {
+    "offset": "0x816390",
+    "text": "descobrir onde posso cavar"
+  },
+  {
+    "offset": "0x8163ac",
+    "text": "e <b>segurar o botÃ£o A</>"
+  },
+  {
+    "offset": "0x8163c8",
+    "text": "<b>para encher meu cantil.</>"
+  },
+  {
+    "offset": "0x8163e8",
+    "text": "No ano 300 apÃ³s a catÃ¡strofe,"
+  },
+  {
+    "offset": "0x816408",
+    "text": "minha equipe formada por"
+  },
+  {
+    "offset": "0x816424",
+    "text": "cientistas, tÃ©cnicos e "
+  },
+  {
+    "offset": "0x816440",
+    "text": "militares foi designada para"
+  },
+  {
+    "offset": "0x816460",
+    "text": "verificar a habitabilidade"
+  },
+  {
+    "offset": "0x81647c",
+    "text": "de uma extensa Ã¡rea que era"
+  },
+  {
+    "offset": "0x81649c",
+    "text": "atÃ© entÃ£o desconhecida."
+  },
+  {
+    "offset": "0x8164b8",
+    "text": "Havia um certo temor sobre"
+  },
+  {
+    "offset": "0x8164d4",
+    "text": "este lugar, jÃ¡ que algum tempo"
+  },
+  {
+    "offset": "0x8164f4",
+    "text": "antes, uma equipe foi enviada"
+  },
+  {
+    "offset": "0x816514",
+    "text": "com o objetivo de instalar"
+  },
+  {
+    "offset": "0x816530",
+    "text": "equipamentos de pesquisa, mas"
+  },
+  {
+    "offset": "0x816550",
+    "text": "nunca retornou. Richard, o"
+  },
+  {
+    "offset": "0x81656c",
+    "text": "meteorologista, foi a Ãºnica"
+  },
+  {
+    "offset": "0x81658c",
+    "text": "exceÃ§Ã£o."
+  },
+  {
+    "offset": "0x816598",
+    "text": "ComeÃ§amos nossa busca pela"
+  },
+  {
+    "offset": "0x8165b4",
+    "text": "equipe, seus equipamentos e"
+  },
+  {
+    "offset": "0x8165d0",
+    "text": "dados."
+  },
+  {
+    "offset": "0x8165d8",
+    "text": "Encontramos um local aceitÃ¡vel"
+  },
+  {
+    "offset": "0x8165f8",
+    "text": "para montar acampamento,"
+  },
+  {
+    "offset": "0x816614",
+    "text": "perto de um solo ligeiramente"
+  },
+  {
+    "offset": "0x816634",
+    "text": "Ãºmido, onde Ã¡rvores foram"
+  },
+  {
+    "offset": "0x816650",
+    "text": "capazes de crescer, nos"
+  },
+  {
+    "offset": "0x816668",
+    "text": "aliviando do calor intenso com"
+  },
+  {
+    "offset": "0x816688",
+    "text": "suas sombras."
+  },
+  {
+    "offset": "0x816698",
+    "text": "Chegamos ao entardecer, e a"
+  },
+  {
+    "offset": "0x8166b4",
+    "text": "primeira noite teve um frio"
+  },
+  {
+    "offset": "0x8166d0",
+    "text": "cortante que tornou o sono"
+  },
+  {
+    "offset": "0x8166ec",
+    "text": "impossÃ­vel. Pensei que iria"
+  },
+  {
+    "offset": "0x81670c",
+    "text": "congelar atÃ© a morte. PorÃ©m,"
+  },
+  {
+    "offset": "0x81672c",
+    "text": "nÃ£o durou muito tempo, jÃ¡ que"
+  },
+  {
+    "offset": "0x81674c",
+    "text": "ao amanhecer, o sol brilhava"
+  },
+  {
+    "offset": "0x81676c",
+    "text": "pelas janelas."
+  },
+  {
+    "offset": "0x81677c",
+    "text": "Os militares partiram em busca"
+  },
+  {
+    "offset": "0x81679c",
+    "text": "da outra equipe, enquanto os"
+  },
+  {
+    "offset": "0x8167bc",
+    "text": "tÃ©cnicos eram responsÃ¡veis"
+  },
+  {
+    "offset": "0x8167dc",
+    "text": "pelas operaÃ§Ãµes e pelos"
+  },
+  {
+    "offset": "0x8167f8",
+    "text": "acampamentos. NÃ³s, cientistas,"
+  },
+  {
+    "offset": "0x816818",
+    "text": "ficamos com a tarefa de"
+  },
+  {
+    "offset": "0x816830",
+    "text": "encontrar instalaÃ§Ãµes, coletar"
+  },
+  {
+    "offset": "0x816854",
+    "text": "e armazenar seus dados."
+  },
+  {
+    "offset": "0x81686c",
+    "text": "Em certo momento do terceiro"
+  },
+  {
+    "offset": "0x81688c",
+    "text": "milÃªnio um mal se abateu"
+  },
+  {
+    "offset": "0x8168a8",
+    "text": "sobre o planeta. Tamanha foi"
+  },
+  {
+    "offset": "0x8168c8",
+    "text": "a destruiÃ§Ã£o, que como"
+  },
+  {
+    "offset": "0x8168e4",
+    "text": "consequÃªncia continentes"
+  },
+  {
+    "offset": "0x816900",
+    "text": "foram reconfigurados."
+  },
+  {
+    "offset": "0x816918",
+    "text": "O ar se tornou"
+  },
+  {
+    "offset": "0x816928",
+    "text": "tÃ³xico. O clima se tornou"
+  },
+  {
+    "offset": "0x816944",
+    "text": "extremo. E a maioria do que"
+  },
+  {
+    "offset": "0x816960",
+    "text": "era conhecido se perdeu."
+  },
+  {
+    "offset": "0x81697c",
+    "text": "A humanidade sobreviveu, mas"
+  },
+  {
+    "offset": "0x81699c",
+    "text": "com cicatrizes que talvez"
+  },
+  {
+    "offset": "0x8169b8",
+    "text": "nunca possam ser curadas."
+  },
+  {
+    "offset": "0x8169d4",
+    "text": "SÃ©culos depois, surgiram"
+  },
+  {
+    "offset": "0x8169f0",
+    "text": "esforÃ§os para recuperar a"
+  },
+  {
+    "offset": "0x816a0c",
+    "text": "habitabilidade do nosso"
+  },
+  {
+    "offset": "0x816a24",
+    "text": "planeta. EstÃ¡vamos "
+  },
+  {
+    "offset": "0x816a3c",
+    "text": "terraformando "
+  },
+  {
+    "offset": "0x816a4c",
+    "text": "a prÃ³pria Terra."
+  },
+  {
+    "offset": "0x816a60",
+    "text": "Para isso, o mundo inteiro"
+  },
+  {
+    "offset": "0x816a7c",
+    "text": "teve que cooperar. Mas,"
+  },
+  {
+    "offset": "0x816a94",
+    "text": "mesmo assim, sementes"
+  },
+  {
+    "offset": "0x816aac",
+    "text": "imperiais do passado"
+  },
+  {
+    "offset": "0x816ac4",
+    "text": "encontraram uma maneira de se"
+  },
+  {
+    "offset": "0x816ae4",
+    "text": "aproveitar desse novo mundo"
+  },
+  {
+    "offset": "0x816b00",
+    "text": "usando exploraÃ§Ã£o"
+  },
+  {
+    "offset": "0x816b14",
+    "text": "automatizada de zonas"
+  },
+  {
+    "offset": "0x816b2c",
+    "text": "nÃ£o habitadas."
+  },
+  {
+    "offset": "0x816b3c",
+    "text": "<b>Bill:</> We need:"
+  },
+  {
+    "offset": "0x816b54",
+    "text": "<y>5 cool drinks</>."
+  },
+  {
+    "offset": "0x816b6c",
+    "text": "I know it's a lot, but in"
+  },
+  {
+    "offset": "0x816b88",
+    "text": "return I can teach you"
+  },
+  {
+    "offset": "0x816ba0",
+    "text": "<y>how to make a pickaxe!</>"
+  },
+  {
+    "offset": "0x816bc0",
+    "text": "Do you accept?"
+  },
+  {
+    "offset": "0x816bd0",
+    "text": "<y>You learned how to make</>"
+  },
+  {
+    "offset": "0x816bf0",
+    "text": "<y>a Pickaxe!</>"
+  },
+  {
+    "offset": "0x816c04",
+    "text": "<y>Now you can craft a pickaxe</>"
+  },
+  {
+    "offset": "0x816c28",
+    "text": "<y>at any crafting machine</>"
+  },
+  {
+    "offset": "0x816c48",
+    "text": "<y>as long as you have the</>"
+  },
+  {
+    "offset": "0x816c68",
+    "text": "<y>necessary materials.</>"
+  },
+  {
+    "offset": "0x816c84",
+    "text": "<y>You also obtained 1 Weapon</>"
+  },
+  {
+    "offset": "0x816ca8",
+    "text": "<y>Permit which is needed for</>"
+  },
+  {
+    "offset": "0x816ccc",
+    "text": "<y>crafting any type of weapon.</>"
+  },
+  {
+    "offset": "0x816cf0",
+    "text": "<b>Bill:</> If you bring me"
+  },
+  {
+    "offset": "0x816d0c",
+    "text": "<y>5 cool drinks</> I can teach"
+  },
+  {
+    "offset": "0x816d2c",
+    "text": "you how to make a <y>pickaxe</>!"
+  },
+  {
+    "offset": "0x816d50",
+    "text": "how about it?"
+  },
+  {
+    "offset": "0x816d60",
+    "text": "<b>Bill:</> I'm already tired of"
+  },
+  {
+    "offset": "0x816d84",
+    "text": "this expedition, but that's ok"
+  },
+  {
+    "offset": "0x816da4",
+    "text": "I'll take a vacation soon."
+  },
+  {
+    "offset": "0x816dc0",
+    "text": "<b>???:</> Sorry I didn't introduce"
+  },
+  {
+    "offset": "0x816de4",
+    "text": "we were swamped with work."
+  },
+  {
+    "offset": "0x816e00",
+    "text": "I'm Bill, and I believe we've"
+  },
+  {
+    "offset": "0x816e20",
+    "text": "already broken most of the"
+  },
+  {
+    "offset": "0x816e3c",
+    "text": "rocks in our way."
+  },
+  {
+    "offset": "0x816e50",
+    "text": "There's still that big rock"
+  },
+  {
+    "offset": "0x816e6c",
+    "text": "blocking the <g>southern path</>."
+  },
+  {
+    "offset": "0x816e90",
+    "text": "But working in this heat is"
+  },
+  {
+    "offset": "0x816eac",
+    "text": "terrible!"
+  },
+  {
+    "offset": "0x816eb8",
+    "text": "If you bring me <y>5 cool</>"
+  },
+  {
+    "offset": "0x816ed8",
+    "text": "<y>drinks</> I can teach you how"
+  },
+  {
+    "offset": "0x816efc",
+    "text": "<b>Technician:</> We still have"
+  },
+  {
+    "offset": "0x816f1c",
+    "text": "too much work to do here."
+  },
+  {
+    "offset": "0x816f38",
+    "text": "Please, don't bother me."
+  },
+  {
+    "offset": "0x816f54",
+    "text": "Don't you have something"
+  },
+  {
+    "offset": "0x816f70",
+    "text": "to do too?"
+  },
+  {
+    "offset": "0x816f7c",
+    "text": "Oh! You scared me!"
+  },
+  {
+    "offset": "0x816f90",
+    "text": "I didn't see you were"
+  },
+  {
+    "offset": "0x816fa8",
+    "text": "still there!"
+  },
+  {
+    "offset": "0x816fb8",
+    "text": "I'm sorry, I got so"
+  },
+  {
+    "offset": "0x816fcc",
+    "text": "excited on this!"
+  },
+  {
+    "offset": "0x816fe0",
+    "text": "It's petabytes of data"
+  },
+  {
+    "offset": "0x816ff8",
+    "text": "that I need to analyze!"
+  },
+  {
+    "offset": "0x817010",
+    "text": "<b>Julie:</> If you give me"
+  },
+  {
+    "offset": "0x81702c",
+    "text": "<y>7 coffees</>, I can teach you"
+  },
+  {
+    "offset": "0x817050",
+    "text": "how to make a <y>rifle</>!"
+  },
+  {
+    "offset": "0x81706c",
+    "text": "<b>Julie:</> I really want a"
+  },
+  {
+    "offset": "0x81708c",
+    "text": "coffee, but I'm far"
+  },
+  {
+    "offset": "0x8170a0",
+    "text": "from the machines..."
+  },
+  {
+    "offset": "0x8170b8",
+    "text": "<y>7 coffees</>, I can"
+  },
+  {
+    "offset": "0x8170d0",
+    "text": "teach you how to make a rifle!"
+  },
+  {
+    "offset": "0x8170f0",
+    "text": "What do you think?"
+  },
+  {
+    "offset": "0x817104",
+    "text": "<y>a Rifle!</>"
+  },
+  {
+    "offset": "0x817114",
+    "text": "<y>Now you can craft a rifle</>"
+  },
+  {
+    "offset": "0x817134",
+    "text": "<b>???:</> Hey! You're"
+  },
+  {
+    "offset": "0x81714c",
+    "text": "Cytra, right?"
+  },
+  {
+    "offset": "0x81715c",
+    "text": "<b>Cytra:</> Yep, that's right!"
+  },
+  {
+    "offset": "0x81717c",
+    "text": "I suppose you're <b>Julie</>?!"
+  },
+  {
+    "offset": "0x81719c",
+    "text": "<b>Julie:</> Yes! Hey, can you"
+  },
+  {
+    "offset": "0x8171bc",
+    "text": "help me?"
+  },
+  {
+    "offset": "0x8171c8",
+    "text": "My job requires a lot of"
+  },
+  {
+    "offset": "0x8171e4",
+    "text": "concentration, so I need to"
+  },
+  {
+    "offset": "0x817200",
+    "text": "be glued to this laptop"
+  },
+  {
+    "offset": "0x817218",
+    "text": "day and night, watching"
+  },
+  {
+    "offset": "0x817230",
+    "text": "graphs..."
+  },
+  {
+    "offset": "0x81723c",
+    "text": "I really want a coffee"
+  },
+  {
+    "offset": "0x817254",
+    "text": "but I'm far from the"
+  },
+  {
+    "offset": "0x81726c",
+    "text": "machines..."
+  },
+  {
+    "offset": "0x817278",
+    "text": "<b>Ander:</> vocÃª tambÃ©m pode fazer"
+  },
+  {
+    "offset": "0x8172a0",
+    "text": "alguns <y>refrigerantes</> nas"
+  },
+  {
+    "offset": "0x8172c0",
+    "text": "<b>mÃ¡quinas de craft</> se vocÃª"
+  },
+  {
+    "offset": "0x8172e4",
+    "text": "tiver os materiais necessÃ¡rios"
+  },
+  {
+    "offset": "0x817304",
+    "text": "VocÃª tambÃ©m pode comprar nas"
+  },
+  {
+    "offset": "0x817324",
+    "text": "<b>mÃ¡quinas de venda</>, mas"
+  },
+  {
+    "offset": "0x817344",
+    "text": "detesto aquele sabor industrial"
+  },
+  {
+    "offset": "0x817364",
+    "text": "<y>VocÃª recebeu 2 Refrigerantes!</>"
+  },
+  {
+    "offset": "0x81738c",
+    "text": "<y>Isso reduz o efeito do</>"
+  },
+  {
+    "offset": "0x8173ac",
+    "text": "<y>calor durante 6 horas!</>"
+  },
+  {
+    "offset": "0x8173cc",
+    "text": "<b>Ander:</> Garanto que vai nos"
+  },
+  {
+    "offset": "0x8173f0",
+    "text": "ajudar com esse calor!"
+  },
+  {
+    "offset": "0x817408",
+    "text": "Sabe, vocÃª tambÃ©m pode fazer"
+  },
+  {
+    "offset": "0x817428",
+    "text": "detesto aquele sabor industrial."
+  },
+  {
+    "offset": "0x81744c",
+    "text": "<b>???:</> OlÃ¡. Sou Ander, um dos"
+  },
+  {
+    "offset": "0x817470",
+    "text": "botÃ¢nicos da expediÃ§Ã£o!"
+  },
+  {
+    "offset": "0x81748c",
+    "text": "Estou estudando sobre uma"
+  },
+  {
+    "offset": "0x8174a8",
+    "text": "bebida medicinal <y>que reduz o</>"
+  },
+  {
+    "offset": "0x8174cc",
+    "text": "<y>efeito do calor durante 6</>"
+  },
+  {
+    "offset": "0x8174ec",
+    "text": "<y>horas.</>"
+  },
+  {
+    "offset": "0x8174fc",
+    "text": "Experimente:"
+  },
+  {
+    "offset": "0x81750c",
+    "text": "<b>Alex:</> Hum... As folhas dessa"
+  },
+  {
+    "offset": "0x817530",
+    "text": "Ã¡rvore parecem emanar"
+  },
+  {
+    "offset": "0x817548",
+    "text": "um tipo de energia"
+  },
+  {
+    "offset": "0x81755c",
+    "text": "fria e misteriosa"
+  },
+  {
+    "offset": "0x817570",
+    "text": "que se contrapÃµe ao calor do"
+  },
+  {
+    "offset": "0x817590",
+    "text": "lugar, nÃ£o parece ser uma"
+  },
+  {
+    "offset": "0x8175ac",
+    "text": "sombra comum..."
+  },
+  {
+    "offset": "0x8175bc",
+    "text": "<b>???:</> OlÃ¡, sou o botÃ¢nico"
+  },
+  {
+    "offset": "0x8175e0",
+    "text": "da expediÃ§Ã£o, me chamo <b>Alex</>."
+  },
+  {
+    "offset": "0x817608",
+    "text": "<b>Cytra:</> E eu sou Cytra, da"
+  },
+  {
+    "offset": "0x817628",
+    "text": "dupla de meteorologistas."
+  },
+  {
+    "offset": "0x817644",
+    "text": "<b>Alex:</> Veja essas belas"
+  },
+  {
+    "offset": "0x817664",
+    "text": "Ã¡rvores se parecem muito com"
+  },
+  {
+    "offset": "0x817684",
+    "text": "as espÃ©cies da "
+  },
+  {
+    "offset": "0x817698",
+    "text": "savana africana do catÃ¡logo"
+  },
+  {
+    "offset": "0x8176b8",
+    "text": "No. 714, elas sÃ£o"
+  },
+  {
+    "offset": "0x8176cc",
+    "text": "resistentes e sua copa nos dÃ¡"
+  },
+  {
+    "offset": "0x8176ec",
+    "text": "uma <y>sombra refrescante.</> SÃ£o"
+  },
+  {
+    "offset": "0x817710",
+    "text": "fantÃ¡sticas, espero descobrir"
+  },
+  {
+    "offset": "0x817730",
+    "text": "como esse tipo Ãºnico consegue"
+  },
+  {
+    "offset": "0x817750",
+    "text": "sobreviver em um lugar tÃ£o"
+  },
+  {
+    "offset": "0x81776c",
+    "text": "adverso. VocÃª deveria ir ver o"
+  },
+  {
+    "offset": "0x81778c",
+    "text": "seu companheiro"
+  },
+  {
+    "offset": "0x81779c",
+    "text": "meteorologista, ele estÃ¡ nessa"
+  },
+  {
+    "offset": "0x8177bc",
+    "text": "colina <g>logo ali atrÃ¡s</> ele ja"
+  },
+  {
+    "offset": "0x8177e0",
+    "text": "encontrou a estaÃ§Ã£o"
+  },
+  {
+    "offset": "0x8177f8",
+    "text": "meteorolÃ³gica desse setor e"
+  },
+  {
+    "offset": "0x817818",
+    "text": "pode te ajudar a encontrar as"
+  },
+  {
+    "offset": "0x817838",
+    "text": "outras."
+  },
+  {
+    "offset": "0x817840",
+    "text": "Ah, quase ia me esquecendo."
+  },
+  {
+    "offset": "0x81785c",
+    "text": "Os tÃ©cnicos estÃ£o arrumando"
+  },
+  {
+    "offset": "0x81787c",
+    "text": "os despertadores do"
+  },
+  {
+    "offset": "0x817890",
+    "text": "Logo serÃ¡ possÃ­vel"
+  },
+  {
+    "offset": "0x8178a8",
+    "text": "despertar <y>ao amanhecer</> ou"
+  },
+  {
+    "offset": "0x8178c8",
+    "text": "<y>ao entardecer</>."
+  },
+  {
+    "offset": "0x8178e0",
+    "text": "Mas acho um desperdÃ­cio"
+  },
+  {
+    "offset": "0x8178fc",
+    "text": "de tempo dormir em um lugar"
+  },
+  {
+    "offset": "0x817918",
+    "text": "tÃ£o fantÃ¡stico com tantas"
+  },
+  {
+    "offset": "0x817934",
+    "text": "coisas novas para descobrir."
+  },
+  {
+    "offset": "0x817954",
+    "text": "<b>Richard:</> I'll give you"
+  },
+  {
+    "offset": "0x817974",
+    "text": "a quick death!"
+  },
+  {
+    "offset": "0x817984",
+    "text": "Come!"
+  },
+  {
+    "offset": "0x81798c",
+    "text": "<b>Richard:</> Hello Cytra, I'm"
+  },
+  {
+    "offset": "0x8179ac",
+    "text": "glad you're here. You'll"
+  },
+  {
+    "offset": "0x8179c8",
+    "text": "be the first one to see"
+  },
+  {
+    "offset": "0x8179e0",
+    "text": "this."
+  },
+  {
+    "offset": "0x8179e8",
+    "text": "<b>Cytra:</> What's the meaning"
+  },
+  {
+    "offset": "0x817a08",
+    "text": "of this, Richard?"
+  },
+  {
+    "offset": "0x817a1c",
+    "text": "<b>Richard:</> Your life is"
+  },
+  {
+    "offset": "0x817a38",
+    "text": "coming to an end, so I'll"
+  },
+  {
+    "offset": "0x817a54",
+    "text": "let you know."
+  },
+  {
+    "offset": "0x817a64",
+    "text": "I despise this new world"
+  },
+  {
+    "offset": "0x817a80",
+    "text": "you guys are trying"
+  },
+  {
+    "offset": "0x817a94",
+    "text": "to create!"
+  },
+  {
+    "offset": "0x817aa0",
+    "text": "I see no meaning in"
+  },
+  {
+    "offset": "0x817ab4",
+    "text": "saving a world that has"
+  },
+  {
+    "offset": "0x817acc",
+    "text": "already proven to be a"
+  },
+  {
+    "offset": "0x817ae4",
+    "text": "failure."
+  },
+  {
+    "offset": "0x817af0",
+    "text": "I have been secretly"
+  },
+  {
+    "offset": "0x817b08",
+    "text": "working for the empire,"
+  },
+  {
+    "offset": "0x817b20",
+    "text": "in order to make my plans"
+  },
+  {
+    "offset": "0x817b3c",
+    "text": "succeed and be truly free!"
+  },
+  {
+    "offset": "0x817b58",
+    "text": "<b>Cytra:</> You son of a-"
+  },
+  {
+    "offset": "0x817b74",
+    "text": "That's why you didn't"
+  },
+  {
+    "offset": "0x817b8c",
+    "text": "get caught by the drones."
+  },
+  {
+    "offset": "0x817ba8",
+    "text": "You are the reason the"
+  },
+  {
+    "offset": "0x817bc0",
+    "text": "last team didn't return!"
+  },
+  {
+    "offset": "0x817bdc",
+    "text": "What did you do? Have you"
+  },
+  {
+    "offset": "0x817bf8",
+    "text": "murdered then?"
+  },
+  {
+    "offset": "0x817c08",
+    "text": "<b>Richard:</> Oh no, I didn't"
+  },
+  {
+    "offset": "0x817c28",
+    "text": "murder them. They just"
+  },
+  {
+    "offset": "0x817c40",
+    "text": "were not able to survive"
+  },
+  {
+    "offset": "0x817c5c",
+    "text": "in this enviroment without"
+  },
+  {
+    "offset": "0x817c78",
+    "text": "their equipment, which"
+  },
+  {
+    "offset": "0x817c90",
+    "text": "happened to mysteriously"
+  },
+  {
+    "offset": "0x817cac",
+    "text": "lose electric energy..."
+  },
+  {
+    "offset": "0x817cc4",
+    "text": "Hahahah!"
+  },
+  {
+    "offset": "0x817cd0",
+    "text": "<b>Cytra:</> You coward!"
+  },
+  {
+    "offset": "0x817cec",
+    "text": "How could you do this?"
+  },
+  {
+    "offset": "0x817d04",
+    "text": "<b>Richard:</> You see Cytra,"
+  },
+  {
+    "offset": "0x817d24",
+    "text": "this place is rich with"
+  },
+  {
+    "offset": "0x817d3c",
+    "text": "a <y>mysterious ore</>."
+  },
+  {
+    "offset": "0x817d54",
+    "text": "This ore absorbs electric"
+  },
+  {
+    "offset": "0x817d70",
+    "text": "energy, and give the holder"
+  },
+  {
+    "offset": "0x817d8c",
+    "text": "its power!"
+  },
+  {
+    "offset": "0x817d98",
+    "text": "Yes! This is what I need"
+  },
+  {
+    "offset": "0x817db4",
+    "text": "to achieve my goals!"
+  },
+  {
+    "offset": "0x817dcc",
+    "text": "I cannot thank you enough"
+  },
+  {
+    "offset": "0x817de8",
+    "text": "for helping me, hahahaha!"
+  },
+  {
+    "offset": "0x817e04",
+    "text": "It would be a problem if"
+  },
+  {
+    "offset": "0x817e20",
+    "text": "the empire saw me"
+  },
+  {
+    "offset": "0x817e34",
+    "text": "destroying their valuable"
+  },
+  {
+    "offset": "0x817e50",
+    "text": "machines."
+  },
+  {
+    "offset": "0x817e5c",
+    "text": "Thank you Cytra."
+  },
+  {
+    "offset": "0x817e70",
+    "text": "As a reward, I'll give you"
+  },
+  {
+    "offset": "0x817e8c",
+    "text": "Thank you for your hard"
+  },
+  {
+    "offset": "0x817ea4",
+    "text": "work, Cytra."
+  },
+  {
+    "offset": "0x817eb4",
+    "text": "We should return to the"
+  },
+  {
+    "offset": "0x817ecc",
+    "text": "<g>camps</>."
+  },
+  {
+    "offset": "0x817edc",
+    "text": "<b>Cytra:</> Here, I got the"
+  },
+  {
+    "offset": "0x817efc",
+    "text": "last batteries."
+  },
+  {
+    "offset": "0x817f0c",
+    "text": "<b>Richard:</> Well done Cytra."
+  },
+  {
+    "offset": "0x817f2c",
+    "text": "Finally we can finish this."
+  },
+  {
+    "offset": "0x817f48",
+    "text": "Great, I can't believe"
+  },
+  {
+    "offset": "0x817f60",
+    "text": "everything went so smoothly"
+  },
+  {
+    "offset": "0x817f7c",
+    "text": "<b>Richard:</> Be patient. Only"
+  },
+  {
+    "offset": "0x817f9c",
+    "text": "one station remains!"
+  },
+  {
+    "offset": "0x817fb4",
+    "text": "Bring me <y>20 batteries</>!"
+  },
+  {
+    "offset": "0x817fd4",
+    "text": "<y>You received BX-Vitamin!</>"
+  },
+  {
+    "offset": "0x817ff4",
+    "text": "<y>Your stamina will</>"
+  },
+  {
+    "offset": "0x81800c",
+    "text": "<y>recover 50% faster!</>"
+  },
+  {
+    "offset": "0x818028",
+    "text": "<b>Cytra:</> Thanks. Good thing"
+  },
+  {
+    "offset": "0x818048",
+    "text": "this is the last station."
+  },
+  {
+    "offset": "0x818064",
+    "text": "See you later."
+  },
+  {
+    "offset": "0x818074",
+    "text": "<b>Cytra:</> Wow, the drones on"
+  },
+  {
+    "offset": "0x818094",
+    "text": "this region are awful."
+  },
+  {
+    "offset": "0x8180ac",
+    "text": "Thought I wouldn't get"
+  },
+  {
+    "offset": "0x8180c4",
+    "text": "here alive. How were you"
+  },
+  {
+    "offset": "0x8180e0",
+    "text": "able to get here so fast?"
+  },
+  {
+    "offset": "0x8180fc",
+    "text": "<b>Richard:</> Oh, it seems lady"
+  },
+  {
+    "offset": "0x818120",
+    "text": "luck is on my side, hahah!"
+  },
+  {
+    "offset": "0x81813c",
+    "text": "<b>Cytra:</> .... Yeah... you"
+  },
+  {
+    "offset": "0x81815c",
+    "text": "really seem to be"
+  },
+  {
+    "offset": "0x818170",
+    "text": "a very lucky guy."
+  },
+  {
+    "offset": "0x818184",
+    "text": "I bet I'm not going to be"
+  },
+  {
+    "offset": "0x8181a0",
+    "text": "as lucky as you hunting"
+  },
+  {
+    "offset": "0x8181b8",
+    "text": "down the next batteries,"
+  },
+  {
+    "offset": "0x8181d4",
+    "text": "right?"
+  },
+  {
+    "offset": "0x8181dc",
+    "text": "<b>Richard:</> Hahahah! Yeah,"
+  },
+  {
+    "offset": "0x8181fc",
+    "text": "this station seems to be"
+  },
+  {
+    "offset": "0x818218",
+    "text": "in a bad state, so this"
+  },
+  {
+    "offset": "0x818230",
+    "text": "time we'll be needing"
+  },
+  {
+    "offset": "0x818248",
+    "text": "<y>20 batteries</>."
+  },
+  {
+    "offset": "0x81825c",
+    "text": "But I have a reward for"
+  },
+  {
+    "offset": "0x818274",
+    "text": "you getting this far!"
+  },
+  {
+    "offset": "0x81828c",
+    "text": "<b>Richard:</> This place is"
+  },
+  {
+    "offset": "0x8182ac",
+    "text": "so confusing, and the"
+  },
+  {
+    "offset": "0x8182c4",
+    "text": "weather doesn't help"
+  },
+  {
+    "offset": "0x8182dc",
+    "text": "either..."
+  },
+  {
+    "offset": "0x8182e8",
+    "text": "Let's go before we get"
+  },
+  {
+    "offset": "0x818300",
+    "text": "our heads more messed up."
+  },
+  {
+    "offset": "0x81831c",
+    "text": "<b>Cytra:</> Here it is."
+  },
+  {
+    "offset": "0x818338",
+    "text": "<b>Richard:</> Good work."
+  },
+  {
+    "offset": "0x818354",
+    "text": "Time to turn on this"
+  },
+  {
+    "offset": "0x81836c",
+    "text": "station."
+  },
+  {
+    "offset": "0x818378",
+    "text": "Done!"
+  },
+  {
+    "offset": "0x818380",
+    "text": "Just one more station left."
+  },
+  {
+    "offset": "0x81839c",
+    "text": "This one is full of -"
+  },
+  {
+    "offset": "0x8183b4",
+    "text": "I-I mean, the technicians"
+  },
+  {
+    "offset": "0x8183d0",
+    "text": "said there's a station"
+  },
+  {
+    "offset": "0x8183e8",
+    "text": "around here, we should"
+  },
+  {
+    "offset": "0x818400",
+    "text": "seek it...!"
+  },
+  {
+    "offset": "0x81840c",
+    "text": "<b>Cytra:</> ...What was that?"
+  },
+  {
+    "offset": "0x81842c",
+    "text": "Are you alright?"
+  },
+  {
+    "offset": "0x818440",
+    "text": "<b>Richard:</> Y-yes, my mind"
+  },
+  {
+    "offset": "0x818460",
+    "text": "is just fuzzy. Perhaps"
+  },
+  {
+    "offset": "0x818478",
+    "text": "it was a fragment of my"
+  },
+  {
+    "offset": "0x818490",
+    "text": "memory that just returned,"
+  },
+  {
+    "offset": "0x8184ac",
+    "text": "<b>Cytra:</> ... Alright then."
+  },
+  {
+    "offset": "0x8184cc",
+    "text": "<b>Richard:</> We are in need"
+  },
+  {
+    "offset": "0x8184ec",
+    "text": "of <y>6 batteries</> this"
+  },
+  {
+    "offset": "0x818508",
+    "text": "time."
+  },
+  {
+    "offset": "0x818510",
+    "text": "<y>You received B-Vitamin!</>"
+  },
+  {
+    "offset": "0x818530",
+    "text": "<y>Stamina increased from</>"
+  },
+  {
+    "offset": "0x818550",
+    "text": "<y>100 to 150.</>"
+  },
+  {
+    "offset": "0x818564",
+    "text": "<b>Richard:</> This station here"
+  },
+  {
+    "offset": "0x818588",
+    "text": "seems to seems to be"
+  },
+  {
+    "offset": "0x8185a0",
+    "text": "lacking more energy."
+  },
+  {
+    "offset": "0x8185b8",
+    "text": "I think <y>6 batteries</>"
+  },
+  {
+    "offset": "0x8185d4",
+    "text": "are going to be needed"
+  },
+  {
+    "offset": "0x8185ec",
+    "text": "this time. Go get them for"
+  },
+  {
+    "offset": "0x818608",
+    "text": "<b>Cytra:</> Hey, aren't you"
+  },
+  {
+    "offset": "0x818628",
+    "text": "going to help me?"
+  },
+  {
+    "offset": "0x81863c",
+    "text": "<b>Richard:</> Forgive me for this,"
+  },
+  {
+    "offset": "0x818660",
+    "text": "but I haven't fully"
+  },
+  {
+    "offset": "0x818674",
+    "text": "recovered yet, Cytra."
+  },
+  {
+    "offset": "0x81868c",
+    "text": "I am doing what I can."
+  },
+  {
+    "offset": "0x8186a4",
+    "text": "Here, take this."
+  },
+  {
+    "offset": "0x8186b8",
+    "text": "I bet it'll help."
+  },
+  {
+    "offset": "0x8186cc",
+    "text": "<b>Richard:</> Alright, we did it!"
+  },
+  {
+    "offset": "0x8186f0",
+    "text": "Now you can see the"
+  },
+  {
+    "offset": "0x818704",
+    "text": "<y>weather forecast</> on the station"
+  },
+  {
+    "offset": "0x81872c",
+    "text": "panel whenever you want."
+  },
+  {
+    "offset": "0x818748",
+    "text": "The next station is"
+  },
+  {
+    "offset": "0x81875c",
+    "text": "<g>in the sector where you</>"
+  },
+  {
+    "offset": "0x81877c",
+    "text": "<g>found the drones</>,"
+  },
+  {
+    "offset": "0x818794",
+    "text": "let's head there!"
+  },
+  {
+    "offset": "0x8187a8",
+    "text": "<b>Cytra:</> I got the batteries!"
+  },
+  {
+    "offset": "0x8187cc",
+    "text": "<b>Richard:</> Great, let's get"
+  },
+  {
+    "offset": "0x8187ec",
+    "text": "this station working again!"
+  },
+  {
+    "offset": "0x818808",
+    "text": "Alright, we did it!"
+  },
+  {
+    "offset": "0x81881c",
+    "text": "<b>Richard:</> There are some"
+  },
+  {
+    "offset": "0x81883c",
+    "text": "drones on the <g>east sector</>."
+  },
+  {
+    "offset": "0x818860",
+    "text": "Destroy and <y>collect 2</>"
+  },
+  {
+    "offset": "0x81887c",
+    "text": "<y>batteries</> from them. But"
+  },
+  {
+    "offset": "0x81889c",
+    "text": "beware, you might have"
+  },
+  {
+    "offset": "0x8188b4",
+    "text": "to shoot them a few times"
+  },
+  {
+    "offset": "0x8188d0",
+    "text": "before they explode."
+  },
+  {
+    "offset": "0x8188e8",
+    "text": "<b>Julie</>, the Geophysicist,"
+  },
+  {
+    "offset": "0x818908",
+    "text": "knows how to make"
+  },
+  {
+    "offset": "0x81891c",
+    "text": "<y>better weapons</>."
+  },
+  {
+    "offset": "0x818934",
+    "text": "If you talk to her, she might"
+  },
+  {
+    "offset": "0x818954",
+    "text": "be able to teach you."
+  },
+  {
+    "offset": "0x81896c",
+    "text": "<b>Cytra:</> Hey Richard! How"
+  },
+  {
+    "offset": "0x81898c",
+    "text": "you doing? Feel like"
+  },
+  {
+    "offset": "0x8189a4",
+    "text": "remembering something"
+  },
+  {
+    "offset": "0x8189bc",
+    "text": "from the last expedition"
+  },
+  {
+    "offset": "0x8189d8",
+    "text": "yet?"
+  },
+  {
+    "offset": "0x8189e0",
+    "text": "<b>Richard:</> Nothing but"
+  },
+  {
+    "offset": "0x8189fc",
+    "text": "slight fragments..."
+  },
+  {
+    "offset": "0x818a10",
+    "text": "This place is too hard"
+  },
+  {
+    "offset": "0x818a28",
+    "text": "on us."
+  },
+  {
+    "offset": "0x818a30",
+    "text": "But at least I can still"
+  },
+  {
+    "offset": "0x818a4c",
+    "text": "help you guys out."
+  },
+  {
+    "offset": "0x818a60",
+    "text": "I advise you to <y>not be</>"
+  },
+  {
+    "offset": "0x818a80",
+    "text": "<y>exposed too much on</>"
+  },
+  {
+    "offset": "0x818a9c",
+    "text": "<y>this strong sun.</>"
+  },
+  {
+    "offset": "0x818ab4",
+    "text": "I don't remember much"
+  },
+  {
+    "offset": "0x818acc",
+    "text": "from the last team, but"
+  },
+  {
+    "offset": "0x818ae4",
+    "text": "at least, I remember we"
+  },
+  {
+    "offset": "0x818afc",
+    "text": "had a hard time with this"
+  },
+  {
+    "offset": "0x818b18",
+    "text": "crazy weather."
+  },
+  {
+    "offset": "0x818b28",
+    "text": "<b>Cytra:</> The night is not"
+  },
+  {
+    "offset": "0x818b48",
+    "text": "kind as well. <y>It's so cold</>"
+  },
+  {
+    "offset": "0x818b6c",
+    "text": "<y>that impairs your movements</>."
+  },
+  {
+    "offset": "0x818b90",
+    "text": "<b>Richard:</> Yeah, but I'm sure"
+  },
+  {
+    "offset": "0x818bb4",
+    "text": "this will be no problem,"
+  },
+  {
+    "offset": "0x818bd0",
+    "text": "right? I was told you are"
+  },
+  {
+    "offset": "0x818bec",
+    "text": "quite the prodigious."
+  },
+  {
+    "offset": "0x818c04",
+    "text": "You'll handle this well."
+  },
+  {
+    "offset": "0x818c20",
+    "text": "Do you see this <g>station</>?"
+  },
+  {
+    "offset": "0x818c40",
+    "text": "Besides this one, we still got"
+  },
+  {
+    "offset": "0x818c60",
+    "text": "2 more spread over the"
+  },
+  {
+    "offset": "0x818c78",
+    "text": "sectors around."
+  },
+  {
+    "offset": "0x818c88",
+    "text": "They were originally"
+  },
+  {
+    "offset": "0x818ca0",
+    "text": "installed by the previous"
+  },
+  {
+    "offset": "0x818cbc",
+    "text": "team, and aside the fact"
+  },
+  {
+    "offset": "0x818cd8",
+    "text": "they are <y>lacking energy</>,"
+  },
+  {
+    "offset": "0x818cf8",
+    "text": "they seems to be working"
+  },
+  {
+    "offset": "0x818d14",
+    "text": "fine."
+  },
+  {
+    "offset": "0x818d1c",
+    "text": "I heard from some military guys"
+  },
+  {
+    "offset": "0x818d3c",
+    "text": "that empire's exploration"
+  },
+  {
+    "offset": "0x818d58",
+    "text": "<r>drones</> are watching over"
+  },
+  {
+    "offset": "0x818d78",
+    "text": "the sectors in this region."
+  },
+  {
+    "offset": "0x818d94",
+    "text": "If you destroy some of them,"
+  },
+  {
+    "offset": "0x818db4",
+    "text": "we can use their <y>batteries</>."
+  },
+  {
+    "offset": "0x818dd8",
+    "text": "<b>Cytra:</> The empire seems"
+  },
+  {
+    "offset": "0x818df8",
+    "text": "to be everywhere, you know,"
+  },
+  {
+    "offset": "0x818e14",
+    "text": "but it doesn't cooperate"
+  },
+  {
+    "offset": "0x818e30",
+    "text": "with anything but itself."
+  },
+  {
+    "offset": "0x818e4c",
+    "text": "We need to rebuild the world,"
+  },
+  {
+    "offset": "0x818e6c",
+    "text": "not deplete it again..."
+  },
+  {
+    "offset": "0x818e84",
+    "text": "Anyway, it's not part of"
+  },
+  {
+    "offset": "0x818ea0",
+    "text": "my profession, but I think"
+  },
+  {
+    "offset": "0x818ebc",
+    "text": "I'm going to have some fun!"
+  },
+  {
+    "offset": "0x818ed8",
+    "text": "How many batteries should"
+  },
+  {
+    "offset": "0x818ef4",
+    "text": "I bring?"
+  },
+  {
+    "offset": "0x818f00",
+    "text": "<b>Richard:</> I guess ... "
+  },
+  {
+    "offset": "0x818f1c",
+    "text": "<y>2 will be enough</>. With your"
+  },
+  {
+    "offset": "0x818f40",
+    "text": "<y>gun</>, you should be able"
+  },
+  {
+    "offset": "0x818f60",
+    "text": "to take them down. But"
+  },
+  {
+    "offset": "0x818f78",
+    "text": "<b>Cytra:</> Althought it's a"
+  },
+  {
+    "offset": "0x818f98",
+    "text": "desolate place, it's still"
+  },
+  {
+    "offset": "0x818fb4",
+    "text": "seems less poluted than"
+  },
+  {
+    "offset": "0x818fcc",
+    "text": "where I live..."
+  },
+  {
+    "offset": "0x818fdc",
+    "text": "But this heat... it's too"
+  },
+  {
+    "offset": "0x818ff8",
+    "text": "harsh. If I'm not <y>under a</>"
+  },
+  {
+    "offset": "0x819018",
+    "text": "<y>shadow or keep hydrating</>"
+  },
+  {
+    "offset": "0x819038",
+    "text": "myself, this sun will <y>fry</>"
+  },
+  {
+    "offset": "0x819058",
+    "text": "<y>my brain.</>"
+  },
+  {
+    "offset": "0x819068",
+    "text": "Lucky for me, it seems"
+  },
+  {
+    "offset": "0x819080",
+    "text": "there's a good amount of"
+  },
+  {
+    "offset": "0x81909c",
+    "text": "water underground, I can"
+  },
+  {
+    "offset": "0x8190b8",
+    "text": "use my <y>hygrometer</> to"
+  },
+  {
+    "offset": "0x8190d4",
+    "text": "find out where I can dig"
+  },
+  {
+    "offset": "0x8190f0",
+    "text": "and <b>hold the A button</>"
+  },
+  {
+    "offset": "0x81910c",
+    "text": "<b>to fill my canteen.</>"
+  },
+  {
+    "offset": "0x819128",
+    "text": "In the year 300 after"
+  },
+  {
+    "offset": "0x819140",
+    "text": "the catastrophe, my team"
+  },
+  {
+    "offset": "0x81915c",
+    "text": "which formation consisted"
+  },
+  {
+    "offset": "0x819178",
+    "text": "of scientists, technicians"
+  },
+  {
+    "offset": "0x819194",
+    "text": "and military, was"
+  },
+  {
+    "offset": "0x8191a8",
+    "text": "designated to verify"
+  },
+  {
+    "offset": "0x8191c0",
+    "text": "the habitability of an"
+  },
+  {
+    "offset": "0x8191d8",
+    "text": "extensive land that was,"
+  },
+  {
+    "offset": "0x8191f4",
+    "text": "until then, unknown."
+  },
+  {
+    "offset": "0x81920c",
+    "text": "There was a certain fear"
+  },
+  {
+    "offset": "0x819228",
+    "text": "about this place, as"
+  },
+  {
+    "offset": "0x819240",
+    "text": "some time before, with the"
+  },
+  {
+    "offset": "0x81925c",
+    "text": "intention to install"
+  },
+  {
+    "offset": "0x819274",
+    "text": "research equipments, a team"
+  },
+  {
+    "offset": "0x819290",
+    "text": "was sent and never"
+  },
+  {
+    "offset": "0x8192a4",
+    "text": "returned, Richard, the"
+  },
+  {
+    "offset": "0x8192bc",
+    "text": "meteorologist, being the"
+  },
+  {
+    "offset": "0x8192d8",
+    "text": "only exception to this."
+  },
+  {
+    "offset": "0x8192f0",
+    "text": "We started our search for"
+  },
+  {
+    "offset": "0x81930c",
+    "text": "the team, their equipments"
+  },
+  {
+    "offset": "0x819328",
+    "text": "and data."
+  },
+  {
+    "offset": "0x819334",
+    "text": "We found an acceptable"
+  },
+  {
+    "offset": "0x81934c",
+    "text": "place to set our camp,"
+  },
+  {
+    "offset": "0x819364",
+    "text": "near a slightly moist soil,"
+  },
+  {
+    "offset": "0x819380",
+    "text": "where two trees were able"
+  },
+  {
+    "offset": "0x81939c",
+    "text": "to grow, relieving us from"
+  },
+  {
+    "offset": "0x8193b8",
+    "text": "the harsh heat with its"
+  },
+  {
+    "offset": "0x8193d0",
+    "text": "shadow."
+  },
+  {
+    "offset": "0x8193d8",
+    "text": "We arrived at dusk, and"
+  },
+  {
+    "offset": "0x8193f0",
+    "text": "the first night had a"
+  },
+  {
+    "offset": "0x819408",
+    "text": "bitter cold that made"
+  },
+  {
+    "offset": "0x819420",
+    "text": "sleep almost impossible."
+  },
+  {
+    "offset": "0x81943c",
+    "text": "Thought I was going to"
+  },
+  {
+    "offset": "0x819454",
+    "text": "freeze to death."
+  },
+  {
+    "offset": "0x819468",
+    "text": "It didn't last long though,"
+  },
+  {
+    "offset": "0x819484",
+    "text": "as in the dawn sunshine"
+  },
+  {
+    "offset": "0x81949c",
+    "text": "was burning through the"
+  },
+  {
+    "offset": "0x8194b4",
+    "text": "windows."
+  },
+  {
+    "offset": "0x8194c0",
+    "text": "The military left in search"
+  },
+  {
+    "offset": "0x8194dc",
+    "text": "of the other team, while"
+  },
+  {
+    "offset": "0x8194f8",
+    "text": "the technicians were"
+  },
+  {
+    "offset": "0x819510",
+    "text": "responsible for operation"
+  },
+  {
+    "offset": "0x81952c",
+    "text": "and maintenance of the"
+  },
+  {
+    "offset": "0x819544",
+    "text": "camps."
+  },
+  {
+    "offset": "0x81954c",
+    "text": "Us scientists were left"
+  },
+  {
+    "offset": "0x819564",
+    "text": "with the task of finding"
+  },
+  {
+    "offset": "0x819580",
+    "text": "installations and collect"
+  },
+  {
+    "offset": "0x81959c",
+    "text": "and store their data."
+  },
+  {
+    "offset": "0x8195b4",
+    "text": "At a certain moment"
+  },
+  {
+    "offset": "0x8195c8",
+    "text": "of the third millennium"
+  },
+  {
+    "offset": "0x8195e0",
+    "text": "an evil befell over"
+  },
+  {
+    "offset": "0x8195f4",
+    "text": "the planet"
+  },
+  {
+    "offset": "0x819600",
+    "text": "Such was the destruction"
+  },
+  {
+    "offset": "0x81961c",
+    "text": "that as consequence, the"
+  },
+  {
+    "offset": "0x819638",
+    "text": "continents were"
+  },
+  {
+    "offset": "0x819648",
+    "text": "reconfigured."
+  },
+  {
+    "offset": "0x819658",
+    "text": "The air became toxic."
+  },
+  {
+    "offset": "0x819670",
+    "text": "The weather became extreme."
+  },
+  {
+    "offset": "0x81968c",
+    "text": "And most of what"
+  },
+  {
+    "offset": "0x8196a0",
+    "text": "was known was lost."
+  },
+  {
+    "offset": "0x8196b4",
+    "text": "Humanity survived"
+  },
+  {
+    "offset": "0x8196c8",
+    "text": "but with scars that"
+  },
+  {
+    "offset": "0x8196dc",
+    "text": "perhaps could never"
+  },
+  {
+    "offset": "0x8196f0",
+    "text": "be healed."
+  },
+  {
+    "offset": "0x8196fc",
+    "text": "In the subsequent centuries"
+  },
+  {
+    "offset": "0x819718",
+    "text": "efforts to recover the"
+  },
+  {
+    "offset": "0x819730",
+    "text": "habitability of our own"
+  },
+  {
+    "offset": "0x819748",
+    "text": "planet have emerged."
+  },
+  {
+    "offset": "0x819760",
+    "text": "We were terraforming"
+  },
+  {
+    "offset": "0x819778",
+    "text": "Earth itself."
+  },
+  {
+    "offset": "0x819788",
+    "text": "To do such, the entire"
+  },
+  {
+    "offset": "0x8197a0",
+    "text": "world had to cooperate."
+  },
+  {
+    "offset": "0x8197b8",
+    "text": "However, even in this"
+  },
+  {
+    "offset": "0x8197d0",
+    "text": "situation, imperial seeds"
+  },
+  {
+    "offset": "0x8197ec",
+    "text": "from the old world"
+  },
+  {
+    "offset": "0x819800",
+    "text": "found a new way to exploit"
+  },
+  {
+    "offset": "0x81981c",
+    "text": "this new world in"
+  },
+  {
+    "offset": "0x819830",
+    "text": "automated exploration"
+  },
+  {
+    "offset": "0x819848",
+    "text": "of uninhabited zones."
+  },
+  {
+    "offset": "0x81985e",
+    "text": "ÿÿposition >= 0 && position < size()"
+  },
+  {
+    "offset": "0x819884",
+    "text": "Invalid position: "
+  },
+  {
+    "offset": "0x81989b",
+    "text": "ÿenglish"
+  },
+  {
+    "offset": "0x8198a4",
+    "text": "portuguÃªs"
+  },
+  {
+    "offset": "0x8198af",
+    "text": "ÿsqrt"
+  },
+  {
+    "offset": "0x8198b8",
+    "text": "bn_math.h"
+  },
+  {
+    "offset": "0x8198c4",
+    "text": "value >= 0"
+  },
+  {
+    "offset": "0x8198d0",
+    "text": "Invalid value: "
+  },
+  {
+    "offset": "0x8198e2",
+    "text": "ÿÿcell_index"
+  },
+  {
+    "offset": "0x8198f0",
+    "text": "bn_regular_bg_map_item.h"
+  },
+  {
+    "offset": "0x81990c",
+    "text": "map_x >= 0 && map_x < width"
+  },
+  {
+    "offset": "0x819928",
+    "text": "Invalid map x: "
+  },
+  {
+    "offset": "0x819938",
+    "text": "map_y >= 0 && map_y < _dimensions.height()"
+  },
+  {
+    "offset": "0x819964",
+    "text": "Invalid map y: "
+  },
+  {
+    "offset": "0x819974",
+    "text": "Compressed maps not supported"
+  },
+  {
+    "offset": "0x819994",
+    "text": "set_tile_index"
+  },
+  {
+    "offset": "0x8199a4",
+    "text": "bn_regular_bg_map_cell_info.h"
+  },
+  {
+    "offset": "0x8199c4",
+    "text": "tile_index >= 0 && tile_index < 1024"
+  },
+  {
+    "offset": "0x8199ec",
+    "text": "Invalid tile index: "
+  },
+  {
+    "offset": "0x819a01",
+    "text": "ÿÿÿbn_unique_ptr.h"
+  },
+  {
+    "offset": "0x819a14",
+    "text": "Managed pointer is null"
+  },
+  {
+    "offset": "0x819a2c",
+    "text": "regular_bg_tiles_item"
+  },
+  {
+    "offset": "0x819a44",
+    "text": "bn_regular_bg_tiles_item.h"
+  },
+  {
+    "offset": "0x819a60",
+    "text": "valid_tiles_count(tiles_ref.size(), bpp)"
+  },
+  {
+    "offset": "0x819a8c",
+    "text": "Invalid tiles count: "
+  },
+  {
+    "offset": "0x819aa2",
+    "text": "ÿÿregular_bg_item"
+  },
+  {
+    "offset": "0x819ab4",
+    "text": "bn_regular_bg_item.h"
+  },
+  {
+    "offset": "0x819acc",
+    "text": "Tiles and palette BPP are different"
+  },
+  {
+    "offset": "0x819af0",
+    "text": "push_back"
+  },
+  {
+    "offset": "0x819afc",
+    "text": "Vector is full"
+  },
+  {
+    "offset": "0x819b20",
+    "text": "substr"
+  },
+  {
+    "offset": "0x819b28",
+    "text": "position >= 0"
+  },
+  {
+    "offset": "0x819b38",
+    "text": "count >= 0"
+  },
+  {
+    "offset": "0x819b44",
+    "text": "Invalid count: "
+  },
+  {
+    "offset": "0x819b54",
+    "text": "vector"
+  },
+  {
+    "offset": "0x819b5c",
+    "text": "other.size() <= MaxSize"
+  },
+  {
+    "offset": "0x819b74",
+    "text": "bool: "
+  },
+  {
+    "offset": "0x819b7b",
+    "text": "ÿnew scene: "
+  },
+  {
+    "offset": "0x819b88",
+    "text": ", cscene: "
+  },
+  {
+    "offset": "0x819b93",
+    "text": "ÿ  x"
+  },
+  {
+    "offset": "0x819b9f",
+    "text": "ÿcurrent_scene: "
+  },
+  {
+    "offset": "0x819bb0",
+    "text": ", L: "
+  },
+  {
+    "offset": "0x819bb8",
+    "text": "=>current_scene: "
+  },
+  {
+    "offset": "0x819bcc",
+    "text": "Angle must be in the range [0..360]: "
+  },
+  {
+    "offset": "0x819bf4",
+    "text": "degrees_lut_sin"
+  },
+  {
+    "offset": "0x819c04",
+    "text": "degrees_angle >= 0 && degrees_angle <= 360"
+  },
+  {
+    "offset": "0x819c30",
+    "text": "??current_scene: "
+  },
+  {
+    "offset": "0x819c42",
+    "text": "ÿÿ) livre? "
+  },
+  {
+    "offset": "0x819c50",
+    "text": "RES ADDR: "
+  },
+  {
+    "offset": "0x819c5c",
+    "text": "ANDE POR: "
+  },
+  {
+    "offset": "0x819c70",
+    "text": "span"
+  },
+  {
+    "offset": "0x819c78",
+    "text": "(! first && ! last) || (first && last)"
+  },
+  {
+    "offset": "0x819ca0",
+    "text": "Both pointers must be null or not null: "
+  },
+  {
+    "offset": "0x819ccc",
+    "text": "first <= last"
+  },
+  {
+    "offset": "0x819cdc",
+    "text": "Last is before first: "
+  },
+  {
+    "offset": "0x819d0c",
+    "text": "erase"
+  },
+  {
+    "offset": "0x819d14",
+    "text": "Vector is empty"
+  },
+  {
+    "offset": "0x819d24",
+    "text": "position >= begin() && position < end()"
+  },
+  {
+    "offset": "0x819d4c",
+    "text": "Invalid position"
+  },
+  {
+    "offset": "0x819d5d",
+    "text": "ÿÿÿR I C H A R D"
+  },
+  {
+    "offset": "0x819d88",
+    "text": "pop_back"
+  },
+  {
+    "offset": "0x819d91",
+    "text": "ÿÿÿoperator*"
+  },
+  {
+    "offset": "0x819dc8",
+    "text": "T A T U"
+  },
+  {
+    "offset": "0x819dd0",
+    "text": "v%d.%d.%d"
+  },
+  {
+    "offset": "0x819dda",
+    "text": "ÿÿK H A L A N G O R O N"
+  },
+  {
+    "offset": "0x819df2",
+    "text": "ÿÿM A G Z E B O S"
+  },
+  {
+    "offset": "0x819e18",
+    "text": "<b>ConteÃºdo indisponÃ­vel</>"
+  },
+  {
+    "offset": "0x819e38",
+    "text": "<b>nessa versÃ£o, continue nos</>"
+  },
+  {
+    "offset": "0x819e5c",
+    "text": "<b>acompanhando no nosso</>"
+  },
+  {
+    "offset": "0x819e78",
+    "text": "<b>canal oficial:</>"
+  },
+  {
+    "offset": "0x819e90",
+    "text": "<g>tengukaze.itch.io/</>"
+  },
+  {
+    "offset": "0x819eac",
+    "text": "<g>green-memories-gba</>"
+  },
+  {
+    "offset": "0x819ec8",
+    "text": "<b>Content not available in</>"
+  },
+  {
+    "offset": "0x819ee8",
+    "text": "<b>this version. Please keep</>"
+  },
+  {
+    "offset": "0x819f08",
+    "text": "<b>following us on our official</>"
+  },
+  {
+    "offset": "0x819f2c",
+    "text": "<b>channel:</>"
+  },
+  {
+    "offset": "0x819f3c",
+    "text": "O ladrÃ£o do posto avanÃ§ado"
+  },
+  {
+    "offset": "0x819f5c",
+    "text": "The thief of the outpost"
+  },
+  {
+    "offset": "0x819f78",
+    "text": "O rei da colina"
+  },
+  {
+    "offset": "0x819f88",
+    "text": "The king of the hill"
+  },
+  {
+    "offset": "0x819fa0",
+    "text": "<b>PrÃ³ximos dias:</>"
+  },
+  {
+    "offset": "0x819fb8",
+    "text": "- Tempo limpo"
+  },
+  {
+    "offset": "0x819fc8",
+    "text": "- Poucas nuvens"
+  },
+  {
+    "offset": "0x819fd8",
+    "text": "- Parcialmente nublado"
+  },
+  {
+    "offset": "0x819ff0",
+    "text": "- Nublado"
+  },
+  {
+    "offset": "0x819ffc",
+    "text": "<b>Next days:</>"
+  },
+  {
+    "offset": "0x81a010",
+    "text": "- Clear weather"
+  },
+  {
+    "offset": "0x81a020",
+    "text": "- Few clouds"
+  },
+  {
+    "offset": "0x81a030",
+    "text": "- Partly cloudy"
+  },
+  {
+    "offset": "0x81a040",
+    "text": "- Cloudy"
+  },
+  {
+    "offset": "0x81a04c",
+    "text": "the flying chaos"
+  },
+  {
+    "offset": "0x81a060",
+    "text": "o caos voador"
+  },
+  {
+    "offset": "0x81a070",
+    "text": "the blazing tyrant"
+  },
+  {
+    "offset": "0x81a084",
+    "text": "o tirano ardente"
+  },
+  {
+    "offset": "0x81a098",
+    "text": "the traitor scientist"
+  },
+  {
+    "offset": "0x81a0b0",
+    "text": "o cientista traidor"
+  },
+  {
+    "offset": "0x81a0c4",
+    "text": "the last digger"
+  },
+  {
+    "offset": "0x81a0d4",
+    "text": "o Ãºltimo cavador"
+  },
+  {
+    "offset": "0x81a0e8",
+    "text": "Collect"
+  },
+  {
+    "offset": "0x81a0f0",
+    "text": "Coletar"
+  },
+  {
+    "offset": "0x81a0f8",
+    "text": "CRAFT"
+  },
+  {
+    "offset": "0x81a100",
+    "text": "CRIAR"
+  },
+  {
+    "offset": "0x81a108",
+    "text": "Sure?"
+  },
+  {
+    "offset": "0x81a110",
+    "text": "Tem certeza?"
+  },
+  {
+    "offset": "0x81a12c",
+    "text": "NÃ£o"
+  },
+  {
+    "offset": "0x81a138",
+    "text": "COMPRAR"
+  },
+  {
+    "offset": "0x81a140",
+    "text": "How many?"
+  },
+  {
+    "offset": "0x81a14c",
+    "text": "Quantos?"
+  },
+  {
+    "offset": "0x81a158",
+    "text": "SELL"
+  },
+  {
+    "offset": "0x81a160",
+    "text": "VENDER"
+  },
+  {
+    "offset": "0x81a168",
+    "text": "DEPOSIT"
+  },
+  {
+    "offset": "0x81a170",
+    "text": "GUARDAR"
+  },
+  {
+    "offset": "0x81a178",
+    "text": "WITHDRAW"
+  },
+  {
+    "offset": "0x81a184",
+    "text": "RETIRAR"
+  },
+  {
+    "offset": "0x81a18c",
+    "text": "Talk"
+  },
+  {
+    "offset": "0x81a194",
+    "text": "Falar"
+  },
+  {
+    "offset": "0x81a65a",
+    "text": "À?"
+  },
+  {
+    "offset": "0x81a666",
+    "text": "ÿÿg"
+  },
+  {
+    "offset": "0x81c2e0",
+    "text": "Bottle"
+  },
+  {
+    "offset": "0x81c302",
+    "text": "Recovers a small"
+  },
+  {
+    "offset": "0x81c324",
+    "text": "amount of HP and SP."
+  },
+  {
+    "offset": "0x81c38a",
+    "text": "Pistol"
+  },
+  {
+    "offset": "0x81c3ac",
+    "text": "Pistol used by civilians"
+  },
+  {
+    "offset": "0x81c3ce",
+    "text": "during WWIII. SP: 8 ATK:"
+  },
+  {
+    "offset": "0x81c434",
+    "text": "Rifle"
+  },
+  {
+    "offset": "0x81c456",
+    "text": "Rifle used by the"
+  },
+  {
+    "offset": "0x81c478",
+    "text": "resistance. SP: 8 ATK:"
+  },
+  {
+    "offset": "0x81c4de",
+    "text": "Machete"
+  },
+  {
+    "offset": "0x81c500",
+    "text": "Used for cutting. SP:"
+  },
+  {
+    "offset": "0x81c522",
+    "text": "17 ATK: 30"
+  },
+  {
+    "offset": "0x81c588",
+    "text": "Pickaxe"
+  },
+  {
+    "offset": "0x81c5aa",
+    "text": "Used to break minerals."
+  },
+  {
+    "offset": "0x81c5cc",
+    "text": "SP: 25 ATK: 13"
+  },
+  {
+    "offset": "0x81c632",
+    "text": "Purple Flower"
+  },
+  {
+    "offset": "0x81c654",
+    "text": "Blooms in the desert"
+  },
+  {
+    "offset": "0x81c676",
+    "text": "soil like a miracle."
+  },
+  {
+    "offset": "0x81c6fe",
+    "text": "Thick sap with potential"
+  },
+  {
+    "offset": "0x81c720",
+    "text": "biological uses."
+  },
+  {
+    "offset": "0x81c7a8",
+    "text": "A strong plant once"
+  },
+  {
+    "offset": "0x81c7ca",
+    "text": "used to make braided"
+  },
+  {
+    "offset": "0x81c7ec",
+    "text": "materials."
+  },
+  {
+    "offset": "0x81c830",
+    "text": "Stone"
+  },
+  {
+    "offset": "0x81c852",
+    "text": "Just a simple stone."
+  },
+  {
+    "offset": "0x81c8da",
+    "text": "Iron Ore"
+  },
+  {
+    "offset": "0x81c8fc",
+    "text": "A very useful ore for"
+  },
+  {
+    "offset": "0x81c91e",
+    "text": "weapon production."
+  },
+  {
+    "offset": "0x81c984",
+    "text": "Battery"
+  },
+  {
+    "offset": "0x81c9a6",
+    "text": "A small power source."
+  },
+  {
+    "offset": "0x81ca2e",
+    "text": "Metal Scraps"
+  },
+  {
+    "offset": "0x81ca50",
+    "text": "Metallic wreckage from"
+  },
+  {
+    "offset": "0x81ca72",
+    "text": "machines."
+  },
+  {
+    "offset": "0x81cad8",
+    "text": "Feather"
+  },
+  {
+    "offset": "0x81cafa",
+    "text": "A small white feather."
+  },
+  {
+    "offset": "0x81cb82",
+    "text": "Dogecko Scale"
+  },
+  {
+    "offset": "0x81cba4",
+    "text": "A strong and flexible"
+  },
+  {
+    "offset": "0x81cbc6",
+    "text": "scale that resembles a"
+  },
+  {
+    "offset": "0x81cbe8",
+    "text": "polymer."
+  },
+  {
+    "offset": "0x81cc2c",
+    "text": "Cool Drink"
+  },
+  {
+    "offset": "0x81cc4e",
+    "text": "Reduces heat effects"
+  },
+  {
+    "offset": "0x81cc70",
+    "text": "for 6 hours."
+  },
+  {
+    "offset": "0x81ccd6",
+    "text": "Coffee"
+  },
+  {
+    "offset": "0x81ccf8",
+    "text": "Reduces cold effects"
+  },
+  {
+    "offset": "0x81cd1a",
+    "text": "for 6 hours."
+  },
+  {
+    "offset": "0x81cd80",
+    "text": "Oblivion"
+  },
+  {
+    "offset": "0x81cda2",
+    "text": "A strong ranged"
+  },
+  {
+    "offset": "0x81cdc4",
+    "text": "weapon. SP: 8 ATK: 30"
+  },
+  {
+    "offset": "0x81ce2a",
+    "text": "Tools"
+  },
+  {
+    "offset": "0x81ce4c",
+    "text": "Needs to be returned."
+  },
+  {
+    "offset": "0x81ced4",
+    "text": "Notebook"
+  },
+  {
+    "offset": "0x81cef6",
+    "text": "Needs to be returned."
+  },
+  {
+    "offset": "0x81cf7e",
+    "text": "Weapon Permit"
+  },
+  {
+    "offset": "0x81cfa0",
+    "text": "Required to craft a"
+  },
+  {
+    "offset": "0x81cfc2",
+    "text": "weapon."
+  },
+  {
+    "offset": "0x81d028",
+    "text": "Raw Meat"
+  },
+  {
+    "offset": "0x81d04a",
+    "text": "Meat collected from"
+  },
+  {
+    "offset": "0x81d06c",
+    "text": "the creatures of this"
+  },
+  {
+    "offset": "0x81d08e",
+    "text": "land."
+  },
+  {
+    "offset": "0x81d0d2",
+    "text": "Cooked Meat"
+  }
+]

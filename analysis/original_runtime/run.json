@@ -1,0 +1,42 @@
+{
+  "rom": "/Users/drafff/Documents/ChatGPT/\u6c49\u5316/GREEN_MEMORIES/original/Green-Memories-v1.5.0.gba",
+  "sha256": "a5bf6ba5d6f78912e35986ba21cf034c65677cc66c3f97022606069dbaafb202",
+  "steps": [
+    {
+      "frames": 1200,
+      "name": "boot"
+    },
+    {
+      "frames": 6,
+      "keys": [
+        3
+      ]
+    },
+    {
+      "frames": 120,
+      "name": "menu"
+    },
+    {
+      "frames": 6,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 300,
+      "name": "new_game"
+    },
+    {
+      "frames": 6,
+      "keys": [
+        8
+      ]
+    },
+    {
+      "frames": 300,
+      "name": "dialog"
+    }
+  ],
+  "audio_frames": 1062766,
+  "nonzero_audio_batches": 1475
+}

@@ -1,0 +1,2598 @@
+0x80c6e4 Alívio
+0x80c6ec   Finalmente terminei esse trampo da anatel
+0x80c718 Me sinto livre para explorar toda a região
+0x80c744 antes de voltar para o acampamento.
+0x80c768 Baterias Infinitas
+0x80c77c   Eu odeio essa missão. Sou cientista não
+0x80c7a8 um p***chu!
+0x80c7b4   De qualquer modo, preciso de 20 baterias.
+0x80c7e0 Ato Falho
+0x80c7ec   Richard parece estar escondendo algo. .
+0x80c818 Espero que não seja mais baterias. . .
+0x80c840 Vamos encontrá-lo na próxima estação.
+0x80c86c De Ruim à Pior
+0x80c87c   Continuamos com problemas de energia
+0x80c8a4 elétrica. Dessa vez precisamos de 6
+0x80c8cc baterias.
+0x80c8d8 Reconhecendo o Terreno
+0x80c8f0   A segunda estação meteorológica está
+0x80c91c localizada no setor a leste do acampamento
+0x80c948 central. Vá encontrar Richard lá.
+0x80c96c Ficando sem Energia
+0x80c980   As estações meteorológicas estão sem
+0x80c9ac energia, Richard disse que apenas 2
+0x80c9d0 baterias seriam suficientes. (Podemos
+0x80c9f8 obter destruindo drones).
+0x80ca14 Encontre Richard
+0x80ca28   Richard é o único sobrevivente da equipe
+0x80ca58 de pesquisa anterior, parece que ele ainda 
+0x80ca84 se lembra da localização das estações 
+0x80cab0 meteorológicas.
+0x80cac4 Relief
+0x80cacc   I finally finished this damn power supply
+0x80caf8 job. I feel free to explore the other areas
+0x80cb24 and then I need to return to camp.
+0x80cb48 Infinite Batteries
+0x80cb5c   I already hate this mission. I'm a scientist
+0x80cb8c not a p***chu!
+0x80cb9c Anyway, I need 20 batteries . . .
+0x80cbc0 A Slip
+0x80cbc8   Richard seems to be hiding something . . .
+0x80cbf8 Hope he's not wanting more batteries . . .
+0x80cc24 Go find the next station.
+0x80cc40 A Worse Situation
+0x80cc54   We continue to have power problems.
+0x80cc7c This time we will need 6 batteries.
+0x80cca0 Terrain Recognition
+0x80ccb4   The second meteorological station is
+0x80ccdc located in the east sector of the central
+0x80cd08 camp. Go find Richard there.
+0x80cd28 Lack of Energy
+0x80cd38   The meteorological stations are without
+0x80cd64 power supply, Richard told you that 2
+0x80cd8c batteries would be enough. (Can be found
+0x80cdb8 by destroying drones)
+0x80cdd0 Find Richard
+0x80cde0   Richard is the lone survivor of the last
+0x80ce0c research team, and he seems to remember
+0x80ce34 the location of the lost meteorological
+0x80ce5c stations.
+0x80ce68 Central Camp
+0x80ce78 Acampamento Central
+0x80ce8c East Sector
+0x80ce98 Setor Leste
+0x80cea4 North Bifurcation
+0x80ceb8 Bifurcação Norte
+0x80cecc Northeast Sector
+0x80cee0 Setor Nordeste
+0x80cef0 Sparse Meadow
+0x80cf00 Campina Escassa
+0x80cf10 Bird Hollow
+0x80cf1c Vale das Aves
+0x80cf2c North Beach
+0x80cf38 Praia Norte
+0x80cf44 Skull Valley
+0x80cf54 Vale dos Ossos
+0x80cf64 South Cave
+0x80cf70 Caverna Sul
+0x80cf7c Do you want to save?
+0x80cf94 Você quer salvar?
+0x80cfa8 Money:
+0x80cfb0 Dinheiro:
+0x80cfbc Not Available
+0x80cfcc Não Disponível
+0x80cfe0 Read
+0x80cfe8 Ler
+0x80cfec equip
+0x80cff4 equipar
+0x80cffc register
+0x80d008 registrar
+0x80d014 confirm
+0x80d01c confirmar
+0x80d028 exit
+0x80d030 sair
+0x80d038 Exit
+0x80d040 Sair
+0x80d048 Craft
+0x80d050 Criar
+0x80d058 Use
+0x80d05c Usar
+0x80d064 yes
+0x80d068 sim
+0x80d06c Yes       No 
+0x80d07c Sim       Não
+0x80d08c this location?
+0x80d09c este local?
+0x80d0a8 Fast travel to
+0x80d0b8 Quer viajar para
+0x80d0cc dusk
+0x80d0d4 tarde
+0x80d0dc dawn
+0x80d0e4 cedo
+0x80d0ec voltar
+0x80d0f4 Rest    
+0x80d100 Dormir  
+0x80d10c press start to try again
+0x80d128 aperte start para voltar
+0x80d144 press start
+0x80d150 aperte start
+0x80d160 language
+0x80d16c idioma
+0x80d174 continue
+0x80d180 continuar
+0x80d18c new game
+0x80d198 novo jogo
+0x80d1a4 <b>Magel:</> It seems there's an
+0x80d1c8 island <g>further north</>, but I
+0x80d1ec didn't dare to fly the drone
+0x80d20c over the river.
+0x80d21c Unfortunately, no one on
+0x80d238 the team is able <b>to swim</> to
+0x80d25c the other side...
+0x80d270 <y>You received a Modified</>
+0x80d290 <y>Drone. You can now fast</>
+0x80d2b0 <y>travel between the main</>
+0x80d2d0 <y>areas.</>
+0x80d2e0 <y>You also received the</>
+0x80d2fc <y>Desert Map. You can now</>
+0x80d31c <y>view all areas in this</>
+0x80d33c <y>region.</>
+0x80d34c <b>Cytra:</> Thank you so much!
+0x80d36c This will help me a lot.
+0x80d388 <b>???:</> Hello there, a
+0x80d3a4 pleasure to meet you. I'm
+0x80d3c0 Magel, the cartographer.
+0x80d3dc <b>Cytra:</> Pleasure's mine. I'm
+0x80d400 Cytra, and I've been doing
+0x80d41c a bit of everything around
+0x80d438 <b>Magel:</> I've heard as much.
+0x80d45c Hey, have you noticed
+0x80d474 anything strange about
+0x80d48c this place? I mean, this
+0x80d4a8 specific area, it feels like
+0x80d4c8 we're not suffering as
+0x80d4e0 much from the sun.
+0x80d4f4 <b>Cytra:</> Yes, it's a curious
+0x80d518 effect. Staying close to
+0x80d534 this river gives us a slight
+0x80d554 thermal relief. Still, there
+0x80d574 are plenty of other things
+0x80d590 around here trying to kill
+0x80d5ac us. How did you manage to
+0x80d5c8 get here so easily?
+0x80d5dc <b>Magel:</> Excellent
+0x80d5f4 observation! I finally
+0x80d60c managed to map this entire
+0x80d628 desert region we're in, all
+0x80d644 thanks to this modified
+0x80d65c drone that brought me here
+0x80d678 flying. But I don't think I'll
+0x80d698 need it anymore, so you
+0x80d6b0 can have it.
+0x80d6c0 <b>Magel:</> Parece que existe
+0x80d6e0 uma ilha <g>mais ao norte</>, mas
+0x80d704 não me arrisquei a passar
+0x80d720 com o drone por cima do
+0x80d738 rio, infelizmente não tem
+0x80d754 ninguem na equipe capaz de
+0x80d770 <b>nadar</> até o outro lado...
+0x80d794 <y>Você reecbeu um Drone</>
+0x80d7b4 <y>Modificado, agora pode</>
+0x80d7d4 <y>fazer viagens rápidas</>
+0x80d7f4 <y>entre as principais áreas.</>
+0x80d818 <y>Você também recebeu o</>
+0x80d838 <y>Mapa do Deserto, agora</>
+0x80d858 <y>pode visualizar todas as</>
+0x80d878 <y>áreas dessa região.</>
+0x80d894 <b>Cytra:</> Muito obrigada!
+0x80d8b4 Isso vai me ajudar muito.
+0x80d8d0 <b>???:</> Olá, muito prazer
+0x80d8f0 minha cara, sou Magel, o
+0x80d90c cartógrafo.
+0x80d91c <b>Cytra:</> Pazer, sou Cytra,
+0x80d93c e ando fazendo de tudo
+0x80d954 nesse lugar.
+0x80d964 <b>Magel:</> Pois é, fiquei
+0x80d984 sabendo. Ei, você notou
+0x80d9a0 algo estranho nesse lugar?
+0x80d9bc Digo, nessa área em
+0x80d9d4 específico, parece que não
+0x80d9f4 estamos sofrendo tanto
+0x80da0c com o Sol.
+0x80da18 <b>Cytra:</> Sim, é um efeito
+0x80da38 curioso. Ficar próximo
+0x80da50 desse rio nos traz um leve
+0x80da6c alívio térmico, mesmo assim,
+0x80da8c nessa área tem outras
+0x80daa4 coisas querendo nos matar,
+0x80dac0 como conseguiu chegar aqui
+0x80dadc com facilidade?
+0x80daec <b>Magel:</> Ótima observação!
+0x80db10 Eu finalmente consegui
+0x80db28 mapear toda essa área
+0x80db40 desértica em que estamos, e
+0x80db60 tudo isso foi graças a esse
+0x80db80 drone modificado, que me
+0x80db9c trouxe voando, mas acho
+0x80dbb4 que não vou mais precisar,
+0x80dbd0 pode ficar com ele.
+0x80dbe4 <b>Alice:</> Please return to the
+0x80dc08 site where you found the
+0x80dc24 carcasses and look for
+0x80dc3c evidence of some different
+0x80dc58 creature. In any case, be
+0x80dc74 prepared!
+0x80dc80 <b>Alice:</> Ah, so they're safe
+0x80dca4 thanks to you. What
+0x80dcb8 excellent news!
+0x80dcc8 <b>Cytra:</> Yes, but this still
+0x80dcec doesn't answer our
+0x80dd00 question, does it?
+0x80dd14 What could have left those
+0x80dd30 carcasses there? It's not
+0x80dd4c common to see these
+0x80dd60 creatures attacking each
+0x80dd7c other.
+0x80dd84 <b>Alice:</> This isn't good. I
+0x80dda4 have a suspicion it could be
+0x80ddc4 a variant species. Perhaps
+0x80dde0 the extreme UV rays in this
+0x80ddfc environment caused a
+0x80de14 mutation in one of these
+0x80de30 creatures. Could you go
+0x80de48 back to the carcass site
+0x80de64 and look for evidence of
+0x80de80 this?
+0x80de88 <b>Cytra:</> I'm going to start
+0x80dea8 charging you, huh? I can't
+0x80dec4 get a minute of peace!
+0x80dedc <b>Alice:</> Haha, sorry, but
+0x80defc only you could handle any
+0x80df18 extreme danger. In any
+0x80df30 case, be prepared!
+0x80df44 <b>Bill:</> Whew, these rookies...
+0x80df68 Thanks, Cytra!
+0x80df78 <b>Rick:</> I think I'm already
+0x80df98 starting to feel better. I'll
+0x80dfb8 take James back to the
+0x80dfd0 <b>Cytra:</> Here's the remedy.
+0x80dff0 Take it!
+0x80dffc <b>Rick:</> Thank you so much,
+0x80e01c Cytra! You're amazing!
+0x80e034 ...Gulp...
+0x80e040 <b>Alice:</> First and foremost,
+0x80e064 we need to save James and
+0x80e080 Rick. Take the remedy to
+0x80e09c them!
+0x80e0a4 <b>Alice:</> What? So the
+0x80e0c0 technicians' situation is
+0x80e0dc urgent. Hand me that
+0x80e0f4 contaminated meat, and I'll
+0x80e110 analyze it immediately!
+0x80e128 <b>Cytra:</> Here, take it!
+0x80e144 <b>Alice:</> Let's see...
+0x80e160 Okay, I think this
+0x80e174 contamination is related to
+0x80e190 some other creature in the
+0x80e1ac region. In any case, here's
+0x80e1c8 the remedy. It's not much,
+0x80e1e4 but it'll keep James and
+0x80e200 Rick out of danger. Take it
+0x80e21c to them!
+0x80e228 urgent. Bring me 5 samples
+0x80e244 of the contaminated meat
+0x80e260 they ate, and I'll prepare a
+0x80e280 remedy immediately!
+0x80e294 <b>Alice:</> Por favor, volte ao
+0x80e2b8 local onde encontrou as
+0x80e2d0 carcaças e procure por
+0x80e2e8 alguma evidência de que
+0x80e304 existe alguma criatura
+0x80e31c diferente. De qualquer
+0x80e334 forma, também esteja
+0x80e34c preparada!
+0x80e358 <b>Alice:</> Ah, então eles estão
+0x80e37c a salvo graças a você, que
+0x80e39c excelente notícia!
+0x80e3b0 <b>Cytra:</> Sim, mas isso ainda
+0x80e3d4 não responde nossas
+0x80e3ec pergunta não é?
+0x80e400 O que será que deixou
+0x80e418 aquelas carcaças por alí?
+0x80e434 Não é comum ver essas
+0x80e44c criaturas se atacando.
+0x80e464 <b>Alice:</> Isso não é bom,
+0x80e484 tenho alguma suspeita de
+0x80e4a0 ser uma espécie variante,
+0x80e4bc talvez os raios UV
+0x80e4d0 extremos desse ambiente
+0x80e4e8 possam ter causado alguma
+0x80e504 mutação numa dessas
+0x80e51c criaturas... Poderia voltar
+0x80e538 ao local das carcaças e
+0x80e554 procurar por alguma
+0x80e568 evidência disso?
+0x80e57c <b>Cytra:</> Eu vou começar a
+0x80e59c cobrar heim, não consigo
+0x80e5b8 ficar um minuto em
+0x80e5cc tranquilidade
+0x80e5dc <b>Alice:</> Haha, perdão, mas é
+0x80e600 que só você daria conta de
+0x80e620 enfrentar algum perigo
+0x80e638 extremo. De qualquer
+0x80e650 forma, esteja preparada!
+0x80e66c <b>Bill:</> Uffa, esses novatos...
+0x80e690 <b>Rick:</> Acho que já estou
+0x80e6b0 começando a me sentir
+0x80e6c8 melhor, vou levar James
+0x80e6e0 para o acampamento
+0x80e6f4 <b>Cytra:</> Aqui está o
+0x80e710 remédio, tome!
+0x80e720 <b>Rick:</> Muito obrigado
+0x80e73c Cytra, você é incrível!
+0x80e758 ...Glup...,
+0x80e764 <b>Alice:</> Antes de qualquer
+0x80e784 coisa precisamos salvar
+0x80e79c James e Rick, leve o remédio
+0x80e7bc para eles!
+0x80e7c8 <b>Alice:</> O quê? Então a
+0x80e7e8 situação dos técnicos é
+0x80e804 urgente, me dê essas
+0x80e81c carnes contaminadas aqui
+0x80e838 que farei uma análise
+0x80e850 urgente!
+0x80e85c <b>Cytra:</> aqui, toma!
+0x80e878 <b>Alice:</> Vamos ver...
+0x80e894 Ok, acho que essa
+0x80e8a8 contaminação está
+0x80e8c0 relacionada com alguma
+0x80e8d8 outra criatura da região..
+0x80e8f4 De qualquer forma, antes
+0x80e910 de qualquer coisa, aqui
+0x80e928 está o remédio, não é
+0x80e944 grande coisa mas vai deixar
+0x80e960 James e Rick fora de
+0x80e978 perigo, leve para eles!
+0x80e990 urgente, me traga 5
+0x80e9a4 exemplares da carne
+0x80e9b8 contaminada que eles
+0x80e9d0 comeram e farei um remédio
+0x80e9ec imediatamente!
+0x80e9fc <b>James:</> ... ...
+0x80ea1c <b>Rick:</> I don't know how
+0x80ea3c serious our situation is,
+0x80ea58 but the biologist might know
+0x80ea78 something. Collect the meat
+0x80ea94 from those carcasses and
+0x80eab0 take it to her; maybe she
+0x80eacc can create a remedy or
+0x80eae4 antidote.
+0x80eaf0 <b>Cytra:</> Okay, wait here and
+0x80eb14 take care of your friend!
+0x80eb30 I'm still surprised by the
+0x80eb4c absence of doctors on this
+0x80eb68 expedition. It's absurd.
+0x80eb84 <b>Rick:</> Não sei a gravidade
+0x80eba8 da nossa situação, mas a
+0x80ebc4 bióloga deve saber algo,
+0x80ebe0 colete as carnes dessas
+0x80ebf8 carcaças e leve pra ela,
+0x80ec14 talvez ela saiba criar um
+0x80ec30 remédio ou antídoto.
+0x80ec48 <b>Cytra:</> ok, me espere aqui
+0x80ec68 e tome conta do seu amigo!
+0x80ec84 Ainda me surpreendo com a
+0x80eca0 ausência de médicos nessa
+0x80ecbc expedição, isso é um
+0x80ecd4 absurdo.
+0x80ece0 <b>Rick:</> I... I don't feel very
+0x80ed04 well... We found some raw
+0x80ed20 meat around here and tried
+0x80ed3c to cook it, but the result
+0x80ed58 wasn't very satisfying,
+0x80ed70 heh.
+0x80ed78 <b>Cytra:</> Maybe you got
+0x80ed94 something contaminated.
+0x80edac Where did you find it?
+0x80edc4 <b>Rick:</> There are some
+0x80ede0 animal carcasses scattered
+0x80edfc in this area. We thought it
+0x80ee18 wouldn't be a problem...
+0x80ee34 I don't know how serious
+0x80ee50 our situation is, but the
+0x80ee6c <b>Bill:</> Did you find James
+0x80ee8c and Rick? I remember them
+0x80eea8 saying they were going to
+0x80eec4 look for meat before
+0x80eedc heading back to camp.
+0x80eef4 <b>Bill:</> Oh man, I can't find
+0x80ef18 the technicians <b>James</> and
+0x80ef38 <b>Rick</>. I remember them
+0x80ef54 telling me they were going
+0x80ef70 to look for meat before
+0x80ef88 returning to camp, but it's
+0x80efa4 been a while since I last
+0x80efc0 heard from them.
+0x80efd4 <b>Cytra:</> This place is
+0x80eff0 dangerous; they might be in
+0x80f00c trouble!
+0x80f018 <b>Bill:</> Yes, it's worrisome!
+0x80f03c But I also can't neglect the
+0x80f05c terrain analysis. Julie told
+0x80f07c me she noticed something
+0x80f098 strange underground in
+0x80f0b0 this area.
+0x80f0bc <b>Cytra:</> This place is full of
+0x80f0e0 surprises...
+0x80f0f0 Alright, I'll go look for
+0x80f10c them. I hope they're okay.
+0x80f128 <b>Bill:</> Thank you, Cytra!
+0x80f148 <b>Rick:</> Eu.. não estou me
+0x80f168 sentindo muito bem...
+0x80f180 achamos algumas carnes
+0x80f198 cruas por aqui e tentamos
+0x80f1b4 cozê-las, mas o resultado
+0x80f1d0 não ficou muito
+0x80f1e4 satisfatório heh
+0x80f1f8 <b>Cytra:</> Talvez tenham pego
+0x80f218 algo contaminado, onde foi
+0x80f234 que vocês pegaram isso?
+0x80f250 <b>Rick:</> Tem algumas carcaças
+0x80f274 de animais espalhadas por
+0x80f290 essa área, achamos que não
+0x80f2b0 teriamos problemas...
+0x80f2c8 Não sei a gravidade da
+0x80f2e0 nossa situação, mas a
+0x80f2f8 <b>Bill:</> Encontrou James e
+0x80f318 Rick? Lembro deles terem me
+0x80f334 dito que buscariam por
+0x80f34c carne antes de voltarem ao
+0x80f368 acampamento.
+0x80f378 <b>Bill:</> Puxa vida, não
+0x80f394 consigo encontrar os
+0x80f3ac técnicos <b>James e Rick</>,
+0x80f3cc lembro deles terem me dito
+0x80f3e8 que buscariam por carne
+0x80f400 antes de voltarem ao
+0x80f418 acampamento, mas já faz
+0x80f434 algum tempo que não tenho
+0x80f450 sinal deles.
+0x80f460 <b>Cytra:</> Esse lugar é
+0x80f47c perigoso, eles podem estar
+0x80f498 correndo perigo!
+0x80f4ac <b>Bill:</> Sim, isso é
+0x80f4c8 preocupante! Mas também
+0x80f4e4 não posso deixar de fazer
+0x80f500 as análises de terreno,
+0x80f51c Julie me disse que notou
+0x80f538 algo esquisito no subsolo
+0x80f554 desse lugar.
+0x80f564 <b>Cytra:</> Esse lugar é cheio
+0x80f588 de surpresas...
+0x80f598 Certo, vou procurar por
+0x80f5b0 eles, espero que estejam
+0x80f5cc bem.
+0x80f5d4 <b>Bill:</> Obrigado Cytra!
+0x80f5f0 <b>Nelson:</> Hey, if you're
+0x80f610 using a <y>pistol</> near an
+0x80f630 enemy and hold the
+0x80f644 <b>R BUTTON</>, your aim will stay
+0x80f668 locked on them until you
+0x80f684 move away or release the
+0x80f6a0 button.
+0x80f6a8 Things are hostile around
+0x80f6c4 here, any information could
+0x80f6e0 be crucial for our
+0x80f6f4 survival.
+0x80f700 <b>Nelson:</> Ei, se estiver
+0x80f720 usando uma <y>pistola</> perto
+0x80f740 de um inmigo e segurar o
+0x80f75c <b>botão R</>, sua mira ficará
+0x80f780 travada nele até que você
+0x80f79c se afaste ou solte o botão.
+0x80f7bc Por aqui as coisas são
+0x80f7d4 hostis, qualquer
+0x80f7e8 informação pode ser
+0x80f800 crucial para nossa
+0x80f814 sobrevivência.
+0x80f824 <b>Alice:</> Well, I'll continue my
+0x80f848 research. Thanks to you,
+0x80f864 things seem a bit calmer
+0x80f880 now!
+0x80f888 Hey, have you checked the
+0x80f8a4 crafting machines yet?
+0x80f8bc Sometimes new things show
+0x80f8d8 up to craft.
+0x80f8e8 <b>Alice:</> Bom, vou continuar
+0x80f908 minha pesquisa, graças a
+0x80f924 você as coisas parecem
+0x80f93c mais tranquilas!
+0x80f950 Escuta, você já foi checar
+0x80f970 as máquinas de craft? As
+0x80f98c vezes aparecem coisas
+0x80f9a4 novas para se criar.
+0x80f9bc <b>Khalangoron has been</>
+0x80f9d8 <b>summoned!</>
+0x80f9e8 <b>Fantasma de Richard</>
+0x80fa04 <b>foi invocado!</>
+0x80fa18 <b>Richard's Ghost has been</>
+0x80fa38 <b>Khalangoron foi invocado!</>
+0x80fa58 <b>Magzebos has been</>
+0x80fa70 <b>Magzebos foi invocado!</>
+0x80fa90 <b>Jack:</> Hmm, so
+0x80faa8 It's a great choice, here I
+0x80fac4 go!
+0x80fac8 <b>Jack:</> Hmm, então
+0x80fae0 É uma ótima escolha, aqui
+0x80fafc vou eu!
+0x80fb04 <b>Jack:</> Hey, I see that
+0x80fb20 you're carrying a few
+0x80fb38 musical instruments, can I
+0x80fb54 play any of these?
+0x80fb68 <b>Jack:</> Ei, vejo que você
+0x80fb88 carrega alguns
+0x80fb98 instrumentos musicais,
+0x80fbb0 posso tocar algum deles?
+0x80fbcc <b>Jack:</> If you find any
+0x80fbe8 instruments out there,
+0x80fc00 bring them to me! I promise
+0x80fc1c you won't regret listening
+0x80fc38 to my music!
+0x80fc48 <b>???:</> Hey, I finally worked
+0x80fc6c up the courage to leave
+0x80fc84 that camp. I was getting
+0x80fca0 exhausted trying to
+0x80fcb4 compose a new hit. I did
+0x80fcd0 make some cool songs
+0x80fce8 but you know...
+0x80fcf8 with the lack of
+0x80fd0c resources, I ended up
+0x80fd24 without any instruments,
+0x80fd40 <b>Cytra:</> Sorry, but...
+0x80fd5c who are you again?
+0x80fd70 <b>???:</> Oh, my bad, miss. I'm
+0x80fd94 <b>Jack</>, the musician!
+0x80fdb0 Or at least that's what I'd
+0x80fdcc like to be, haha. There's
+0x80fde8 not exactly a big audience
+0x80fe04 around here, right?
+0x80fe18 <b>Cytra:</> Nice to meet you,
+0x80fe38 Jack! I'm Cytra, meteor--
+0x80fe54 <b>Jack:</> No worries, I've
+0x80fe74 already seen you wandering
+0x80fe90 around looking for
+0x80fea4 batteries. Must be part of
+0x80fec0 the energy supply service.
+0x80fedc We could really use it...
+0x80fef8 <b>Cytra:</> ...
+0x80ff0c <b>Jack:</> By the way, if you
+0x80ff2c find any instruments out
+0x80ff48 there, bring them to me! I
+0x80ff64 promise you won't regret
+0x80ff80 listening to my music!
+0x80ff98 <b>Jack:</> A propósito, se
+0x80ffb8 encontrar algum
+0x80ffc8 instrumento por aí, me
+0x80ffe0 traga! Garanto que não vai
+0x80fffc se arrepender de escutar
+0x810018 minhas músicas!
+0x81002c <b>???:</> Opa, finalmente criei
+0x810050 coragem e saí daquele
+0x810068 acampamento, estava
+0x81007c ficando exausto tentando
+0x810098 compor um novo hit, até fiz
+0x8100b8 umas músicas maneiras
+0x8100d0 mas sabe...
+0x8100dc com essa escassez de
+0x8100f4 recursos acaba que estou
+0x810110 sem instrumentos haha
+0x810128 <b>Cytra:</> Perdão, mas...
+0x810148 quem é você mesmo?
+0x810160 <b>???:</> Eita, perdão moça,
+0x810180 sou <b>Jack</>, o músico!
+0x81019c Ou pelo menos é o que eu
+0x8101b8 gostaria haha. Não existe
+0x8101d4 uma plateia muito grande
+0x8101f0 por aqui, não é?
+0x810204 <b>Cytra:</> Prazer Jack! sou
+0x810224 Cytra, meteoro-
+0x810234 <b>Jack:</> Não se preocupe, já
+0x810258 te vi zanzando por aí
+0x810270 atrás de baterias, deve ser
+0x810290 do serviço de fornecimento
+0x8102ac de energia, estamos
+0x8102c0 realmente precisando...
+0x8102d8 <b>Alice:</> You'll find some
+0x8102f8 lizards scattered around
+0x810314 the area, bring me <y>5</>
+0x810330 <y>Dogecko scales</>.
+0x810348 <b>Alice:</> Você irá encontrar
+0x81036c alguns lagartos espalhados
+0x810388 pela região, me traga <y>5</>
+0x8103a8 <y>escamas de Dogeckos</>.
+0x8103c4 <b>Alice:</> Cytra! You came at
+0x8103e4 the right time! My theory
+0x810400 was correct.
+0x810410 <b>Cytra:</> So, they aren't
+0x810430 normal creatures?
+0x810444 <b>Alice:</> After analyzing the
+0x810468 DNA of these organisms, we
+0x810484 identified a substantial
+0x8104a0 difference in the described
+0x8104bc substra-
+0x8104c8 <b>Alice:</> Why that face? This
+0x8104ec is relevant information to
+0x810508 describe the role of peptide
+0x810528 synthe-
+0x810530 <b>Cytra:</> You know I'm a
+0x81054c meteorologist, not a
+0x810564 biologist, right? I didn't
+0x810580 understand anything you
+0x810598 just said.
+0x8105a4 <b>Alice:</> Oh, sorry, I got
+0x8105c4 carried away! I'll try to
+0x8105e0 explain it more simply. In
+0x8105fc short, these creatures
+0x810614 aren't animals but an
+0x81062c artificial organism with
+0x810648 "mimicry" as their main
+0x810660 function. It's a mechanism
+0x81067c some beings use to copy
+0x810694 features, appearance, etc.,
+0x8106b0 to gain some advantage. In
+0x8106cc this case, these <r>Dogeckos</>
+0x8106ec mimic various lizards, which
+0x81070c is why I didn't recognize
+0x810728 them. They also seem to be
+0x810744 the reason why this place
+0x810760 remains inhospitable.
+0x810778 <b>Cytra:</> They shouldn't be
+0x810798 here, right? They're not
+0x8107b4 native to this place.
+0x8107cc <b>Alice:</> Exactly! They're not
+0x8107f0 natural and are acting like
+0x81080c pests. This doesn't sit well
+0x81082c with me... but we'll need to
+0x81084c investigate where they came
+0x810868 from to draw any
+0x81087c conclusions.
+0x81088c <b>Cytra:</> No problem.
+0x8108a8 <b>Alice:</> One more thing, in
+0x8108c8 the <g>northern</> sector, the
+0x8108e8 <b>geophysicist</> reported that
+0x81090c some tools are being stolen
+0x810928 by <r>aggressive Zebos</>. They
+0x810948 need help to get them back.
+0x810964 Could you stop by there
+0x81097c and help her out?
+0x810990 <b>Cytra:</> The military still
+0x8109b0 hasn't returned?
+0x8109c4 <b>Alice:</> No... and since we're
+0x8109e8 short on manpower, we have
+0x810a04 to handle the problem
+0x810a1c ourselves. Anyway, don't
+0x810a38 forget. Talk to the
+0x810a4c <b>geophysicist</> in the
+0x810a68 northern sector, and she'll
+0x810a84 give you more information!
+0x810aa0 <b>Alice:</> I'm still analyzing
+0x810ac4 the samples, it's going to
+0x810ae0 take some time. Can you
+0x810af8 come back later?
+0x810b0c By the way, Richard passed
+0x810b28 by here looking for you. He
+0x810b44 said to let you know that
+0x810b60 he'll be at the
+0x810b70 meteorological stations.
+0x810b8c He's a strange man, isn't
+0x810ba8 he? But I can't really blame
+0x810bc8 him. What happened to the
+0x810be4 previous team must have
+0x810bfc affected him.
+0x810c0c <b>Alice:</> Thank you! I believe
+0x810c30 with these samples I'll be
+0x810c4c able to identify the true
+0x810c68 nature of these creatures.
+0x810c84 Based on my prior
+0x810c98 research, I suspect these
+0x810cb4 animals aren't regular living
+0x810cd4 beings.
+0x810cdc <b>Cytra:</> Yes, like you said,
+0x810d00 they behave very
+0x810d14 strangely. It doesn't seem
+0x810d30 natural.
+0x810d3c <b>Alice:</> Well, we'll know soon
+0x810d60 enough! Anyway, it's safe
+0x810d7c to say that at least they
+0x810d98 are organic creatures,
+0x810db0 they have muscles, organs,
+0x810dcc bones like any other animal.
+0x810dec And based on my previous
+0x810e08 research, it's safe to eat
+0x810e24 their meat.
+0x810e30 <b>Cytra:</> You want to eat
+0x810e50 that? You're crazy!
+0x810e64 <b>Alice:</> Don't worry, I've
+0x810e84 already tested it, and it's
+0x810ea0 perfectly safe-just make
+0x810ebc sure to cook it first. From
+0x810ed8 now on, you'll be able to use
+0x810ef8 the crafting machines to
+0x810f14 make <y>COOKED MEAT</>. At least
+0x810f38 we won't starve here!
+0x810f50 <y>COOKED MEAT</> is now
+0x810f6c available at the crafting
+0x810f88 machines!
+0x810f94 <b>???:</> Sorry about earlier,
+0x810fb4 I was focused on my
+0x810fc8 analysis. I'm Alice, the
+0x810fe4 biologist of this expedition.
+0x811004 <b>Cytra:</> I'm Cytra, one of
+0x811024 the meteorologists. Nice to
+0x811040 meet you.
+0x81104c <b>Alice:</> I'm researching the
+0x811070 fauna of this place. I've
+0x81108c managed to gather some
+0x8110a4 preliminary data, but it's
+0x8110c0 not enough. Normally, I
+0x8110d8 collect samples with the
+0x8110f4 help of the military, but
+0x811110 they're not here right now.
+0x81112c And in my last solo
+0x811140 attempt, a specimen stole
+0x81115c my weapon, so I'm unable to
+0x811178 continue my research. Could
+0x811194 you help me out?
+0x8111a8 <b>Cytra:</> What do you mean,
+0x8111c8 it stole your weapon?
+0x8111e0 <b>Alice:</> I... I'm not used to
+0x811204 collecting samples by
+0x81121c myself. These specimens are
+0x811238 very hostile, and I get
+0x811250 really scared when they're
+0x81126c like that. So, while I was
+0x811288 getting ready to catch a
+0x8112a4 lizard, a bird came and
+0x8112bc took my weapon.
+0x8112cc <b>Cytra:</> You're a biologist
+0x8112ec and you're afraid of
+0x811304 animals?
+0x811310 <b>Alice:</> I only became a
+0x811330 biologist because I wanted
+0x81134c to study cute animals. The
+0x811368 other types of specimens I
+0x811384 dealt with in the Alliance
+0x8113a0 were all tame, or in the
+0x8113bc worst cases, I had someone
+0x8113d8 more experienced helping
+0x8113f4 me. I don't have much field
+0x811410 experience either, so that
+0x81142c doesn't help... And I've heard
+0x81144c you're quite experienced, so
+0x81146c please help me!
+0x81147c <b>Cytra:</> ... Well, alright. The
+0x8114a0 hostility of these animals
+0x8114bc does seem unusual.
+0x8114d0 <b>Alice:</> Yes, I've never seen
+0x8114f4 animals like these being so
+0x811510 aggressive. Besides, they
+0x81152c don't seem to act like a
+0x811548 regular animal, but more
+0x811564 like a robot, you know?
+0x81157c That's why I need to analyze
+0x81159c their biological samples.
+0x8115b8 You'll find some lizards
+0x8115d4 scattered around the area,
+0x8115f0 could you bring me <y>5</>
+0x81160c <y>Dogecko scales</>?
+0x811624 <b>Cytra:</> I'll see what I can
+0x811648 <b>Alice:</> Thank you, thank
+0x811668 you! You're an angel!
+0x811680 <b>???:</> ... Besides these
+0x8116a0 specimens being unknown,
+0x8116bc I've never seen any animal
+0x8116d8 behave this way before...
+0x8116f4 Oh, sorry, could you come
+0x811710 back later? I'm a bit busy
+0x81172c right now.
+0x811738 <b>Alice:</> Cytra! Chegou em
+0x811758 boa hora! Minha teoria
+0x811770 estava correta.
+0x811780 <b>Cytra:</> Então não são
+0x8117a0 criaturas normais?
+0x8117b4 <b>Alice:</> Após a análise do
+0x8117d8 DNA desses organismos,
+0x8117f0 identificamos uma diferença
+0x811810 substancial no substrato
+0x81182c descri-
+0x811834 <b>Alice:</> Que cara é essa?
+0x811854 Essas são informações
+0x811870 relevantes para descrever
+0x81188c o papel da síntese peptí-
+0x8118a8 <b>Cytra:</> Você sabe que eu
+0x8118c8 sou meteorologista, e não
+0x8118e4 bióloga, certo? Não entendi
+0x811904 nada do que você falou.
+0x811920 <b>Alice:</> Ah, desculpe, é que
+0x811944 fiquei empolgada! Tentarei
+0x811960 explicar de uma forma mais
+0x81197c fácil. Resumidamente, essas
+0x81199c criaturas não são animais,
+0x8119bc mas um organismo artificial
+0x8119d8 que tem como principal
+0x8119f0 função o "mimetismo". É um
+0x811a10 mecanismo que alguns seres
+0x811a2c possuem que copia funções,
+0x811a4c aparência, e etc para
+0x811a64 ganhar alguma vantagem.
+0x811a7c Nesse caso, esses <r>Dogeckos</>
+0x811aa0 mimetizam vários lagartos,
+0x811abc por isso não os reconheci.
+0x811ad8 Eles também parecem ser o
+0x811af4 motivo pelo qual esse lugar
+0x811b10 continua inóspito.
+0x811b24 <b>Cytra:</> Eles não deveriam
+0x811b44 estar aqui, certo? Não são
+0x811b64 naturais desse local.
+0x811b7c <b>Alice:</> Exato! Eles não são
+0x811ba0 naturais e estão agindo
+0x811bbc como pragas. Isso me
+0x811bd4 cheira mal... mas vamos
+0x811bec precisar investigar de onde
+0x811c08 eles vieram pra tirar
+0x811c20 qualquer conclusão.
+0x811c38 <b>Cytra:</> Sem problemas.
+0x811c54 <b>Alice:</> Mais uma coisa, no
+0x811c74 <g>setor norte</> há uma
+0x811c90 <b>geofísica</> que relatou que
+0x811cb4 algumas ferramentas estão
+0x811cd0 sendo roubadas por <r>Zebos</>
+0x811cf0 <r>agressivos</>. Eles estão
+0x811d10 precisando de ajuda para
+0x811d2c recuperá-las. Poderia
+0x811d44 passar lá para ajudá-la?
+0x811d60 <b>Cytra:</> Os militares ainda
+0x811d80 não retornaram?
+0x811d94 <b>Alice:</> Não... e como temos
+0x811db8 pouca mão de obra, só nos
+0x811dd4 resta nós mesmos resolver
+0x811df0 o problema. Bom, não
+0x811e08 esqueça. Fale com a
+0x811e20 <b>geofísica</> do setor norte
+0x811e40 que ela te dará mais
+0x811e58 informações!
+0x811e68 <b>Alice:</> Ainda estou
+0x811e84 analisando as amostras,
+0x811e9c vai levar um tempo.
+0x811eb0 Consegue voltar depois?
+0x811ec8 Aliás, Richard passou por
+0x811ee4 aqui procurando por você.
+0x811f00 Disse pra te avisar que ele
+0x811f1c estaria nas estações
+0x811f34 Ele é um homem estranho
+0x811f50 né? Mas acho que não
+0x811f68 posso culpá-lo. O que
+0x811f80 aconteceu com a equipe
+0x811f98 anterior deve tê-lo afetado.
+0x811fb8 <b>Alice:</> Obrigada! Acredito
+0x811fd8 que com essas amostras,
+0x811ff0 poderei identificar a
+0x812008 verdadeira natureza
+0x81201c dessas criaturas. Baseado
+0x812038 na minha pesquisa prévia,
+0x812054 suspeito que esses animais
+0x812070 não são seres vivos
+0x812088 comuns.
+0x812090 <b>Cytra:</> Sim, como você
+0x8120b0 disse, eles agem de forma
+0x8120cc bem estranha. Não parece
+0x8120e8 algo natural.
+0x8120f8 <b>Alice:</> Bom, saberemos em
+0x812118 breve! De qualquer forma,
+0x812134 é seguro afirmar que pelo
+0x812150 menos eles são criaturas
+0x81216c orgânicas, possuem
+0x812180 músculos, órgãos, ossos
+0x81219c como qualquer outro
+0x8121b0 animal. E baseado na minha
+0x8121cc pesquisa prévia, é seguro
+0x8121e8 ingerir sua carne.
+0x8121fc <b>Cytra:</> Você quer comer
+0x81221c isso? Você é maluca?
+0x812234 <b>Alice:</> Não se preocupe, já
+0x812258 fiz testes e é
+0x812268 perfeitamente seguro, é só
+0x812288 cozinhar primeiro. A partir
+0x8122a4 de agora, você poderá usar
+0x8122c4 as máquinas de craft para
+0x8122e0 fazer <y>CARNE COZIDA</>. Pelo
+0x812300 menos fome não iremos
+0x812318 passar aqui!
+0x812328 <y>CARNE COZIDA está</>
+0x812344 <y>disponível nas máquinas de</>
+0x812368 <y>craft!</>
+0x812378 <b>???:</> Desculpe-me por
+0x812394 antes, estava concentrada
+0x8123b0 nas minhas análises. Sou
+0x8123cc Alice, e sou a bióloga desta
+0x8123ec expedição.
+0x8123fc <b>Cytra:</> Eu sou Cytra, sou
+0x81241c uma das meteorologistas.
+0x812438 Prazer.
+0x812440 <b>Alice:</> Estou pesquisando a
+0x812464 fauna deste lugar, consegui
+0x812480 coletar algumas
+0x812490 informações preliminares,
+0x8124ac mas elas não são
+0x8124c0 suficientes. Normalmente eu
+0x8124dc coleto com ajuda dos
+0x8124f4 militares, mas eles não
+0x812510 estão aqui agora e na
+0x812528 minha última tentativa
+0x812540 sozinha, um espécime
+0x812558 roubou minha arma, então
+0x812574 estou impossibilitada de
+0x812590 prosseguir com minha
+0x8125a8 pesquisa. Será que você
+0x8125c4 não poderia me ajudar?
+0x8125dc <b>Cytra:</> Como assim roubou
+0x8125fc sua arma?
+0x812608 <b>Alice:</> Eu... não estou
+0x812628 acostumada a pegar
+0x81263c amostras pessoalmente.
+0x812654 Esses espécimes são muito
+0x812670 hostis, e eu morro de medo
+0x81268c quando são assim. Então
+0x8126a8 enquanto eu estava me
+0x8126c0 preparando para pegar um
+0x8126dc lagarto, um pássaro veio e
+0x8126f8 pegou minha arma.
+0x81270c <b>Cytra:</> Você é bióloga e tem
+0x812734 medo de animais?
+0x812748 <b>Alice:</> Eu só me tornei
+0x812768 bióloga porque queria
+0x812780 estudar animais fofinhos.
+0x81279c Os outros tipos de
+0x8127b0 espécimes que eu tratei na
+0x8127cc <b>Aliança</> eram todos mansos,
+0x8127f0 ou no pior dos casos, eu
+0x81280c tinha ajuda de alguém mais
+0x812828 experiente. Também não
+0x812844 tenho muita experiência de
+0x812860 campo, então isso não
+0x812878 ajuda muito também... E eu
+0x812894 já ouvi falar que você é
+0x8128b0 bem experiente, então me
+0x8128cc ajuda, por favor!
+0x8128e0 <b>Cytra:</> ... Bom, tudo bem. A
+0x812904 hostilidade desses animais
+0x812920 parece incomum mesmo.
+0x812938 <b>Alice:</> Sim, nunca vi animais
+0x81295c desse tipo serem tão
+0x812974 hostis. Além disso, eles não
+0x812994 parecem agir como um animal
+0x8129b0 comum, mas como um robô,
+0x8129cc entende? Por isso,
+0x8129e0 precisarei analisar suas
+0x8129fc amostras biológicas. Você
+0x812a18 irá encontrar alguns
+0x812a30 lagartos espalhados pela
+0x812a4c região, poderia me trazer
+0x812a68 <y>5 escamas de Dogeckos</>?
+0x812a88 <b>Cytra:</> Verei o que posso
+0x812aa8 fazer.
+0x812ab0 <b>Alice:</> Obrigada obrigada!
+0x812ad0 Você é um anjo!
+0x812ae4 <b>???:</> ... Além desses
+0x812b00 espécimes serem
+0x812b14 desconhecidos, nunca vi
+0x812b2c nenhum animal agir assim...
+0x812b48 Oh, desculpe, poderia
+0x812b60 voltar depois? Estou
+0x812b78 ocupada no momento.
+0x812b8c <r>Bateria fraca!</>
+0x812ba4 <r>Low battery!</>
+0x812bb8 <b>Julie:</> Thank you Cytra!
+0x812bd8 You're amazing!!!
+0x812bec <b>Julie:</> Please defeat
+0x812c08 it, I know you're
+0x812c1c capable!
+0x812c28 <b>Alice:</> Heard you managed
+0x812c48 to recover the stolen
+0x812c60 tools. Thank you so much!
+0x812c7c Oh, right, I forgot to
+0x812c94 mention, but we identified
+0x812cb0 the <r>large bird</> that's
+0x812ccc hovering over the area.
+0x812ce4 It seems different from
+0x812cfc the other birds...
+0x812d10 We don't know all the
+0x812d28 details, but be very
+0x812d40 careful from now on.
+0x812d58 Always be prepared!
+0x812d6c <b>Julie:</> Seems like a
+0x812d88 <r>large bird</> stole one of
+0x812da8 our <y>notebooks</>...
+0x812dc0 It's difficult without them
+0x812ddc to process the data we
+0x812df4 collected.
+0x812e00 Tell <b>Alice</>, maybe
+0x812e18 she has some new
+0x812e2c information.
+0x812e3c <b>Julie:</> Phew, thank you!
+0x812e5c Only problem is while you
+0x812e78 were fighting the Zebos, a
+0x812e94 <b>Julie:</> Those damn
+0x812eac <r>Zebos</> stole some
+0x812ec4 <y>tools</>, we counted them
+0x812ee4 and I think 5 are missing...
+0x812f04 <b>Alice:</> You need to talk
+0x812f24 to the <b>geophysics</>
+0x812f3c in the sector <g>to the north</>
+0x812f60 here. She'll give you more
+0x812f7c information!
+0x812f8c <b>Julie:</> Obrigado Cytra!
+0x812fac você é incrível!!!
+0x812fc4 <b>Julie:</> Por favor
+0x812fdc derrote-o, sei que você
+0x812ff8 é capaz!
+0x813004 <b>Alice:</> Fiquei sabendo
+0x813020 que conseguiu recuperar
+0x813038 as ferramentas roubadas.
+0x813054 Muito obrigada!
+0x813064 Ah, claro, esqueci de
+0x81307c mencionar, mas identificamos
+0x81309c a <r>grande ave</> que está
+0x8130bc sobrevoando a região.
+0x8130d4 Ela parece diferente das
+0x8130f0 outras aves...
+0x813100 Não sabemos todos os
+0x813118 detalhes, mas tome muito
+0x813134 cuidado daqui em diante.
+0x813150 Esteja sempre preparado!
+0x81316c <b>Julie:</> Parece que
+0x813184 uma <r>grande ave</>
+0x81319c roubou um dos nossos
+0x8131b4 Sem eles fica difícil
+0x8131cc processar os dados que
+0x8131e4 coletamos.
+0x8131f0 Avise a <b>Alice</>, talvez
+0x81320c ela tenha alguma informação
+0x81322c nova
+0x813234 <b>Julie:</> Ufa, obrigado!
+0x813250 Único problema é que
+0x813268 enquanto você lutava com os
+0x813288 Zebos, uma <r>grande ave</>
+0x8132a4 <b>Julie:</> Esses malditos
+0x8132c0 <r>Zebos</> roubaram algumas
+0x8132e0 <y>ferramentas</>, contamos elas e
+0x813304 acho que estão faltando 5...
+0x813324 <b>Alice:</> Você precisa
+0x813340 falar com a <b>geofísica</>
+0x813360 no setor <g>ao norte</> daqui.
+0x813380 Ela vai te dar mais
+0x813394 <b>Richard:</> ... ...
+0x8133ac m.. maldita seja...
+0x8133c0 tenho certeza que o império
+0x8133e0 vai destruir você e seus
+0x8133fc sonhos ridículos ...
+0x813414 <b>Cytra:</> Não tenho medo de lutar
+0x81343c contra uma organização
+0x813458 decadente e perversa.
+0x813470 O que eu temo, na verdade
+0x81348c é não poder lutar ...
+0x8134a4 agora me responda, onde
+0x8134bc estão os militares?
+0x8134d4 <b>Richard:</> ha.. hahha..
+0x8134f0 isso é maior que eu e que
+0x81350c você, acha mesmo que essas
+0x813528 expedições são para descobrir
+0x81354c se esse lugar é adequado para
+0x81356c viver?
+0x813574 Poupe-me Cytra de sua
+0x81358c ingenuidade, apesar da sua
+0x8135a8 idade incomum, você ainda
+0x8135c4 não amadureceu.
+0x8135d8 Fique com as suas memórias,
+0x8135f8 o mundo nunca mais será
+0x813614 verde outra vez ...
+0x813628 <b>Cytra:</> Onde eles estão?
+0x813648 <b>Richard:</> vá para o sul
+0x813668 e você começará a entender
+0x813688 <b>How long do you want to sleep?</>
+0x8136b0 <b>Deseja dormir até quando?</>
+0x8136d4 <b>Richard:</> N-no...!
+0x8136ec This cannot be!
+0x8136fc Damn you!
+0x813708 <b>Cytra:</> Scum. You're really
+0x81372c lucky that, with these
+0x813744 injuries, you won't live
+0x813760 to pay for your crimes.
+0x813778 <b>Richard:</> Your stupid dream.
+0x81379c The empire will not let
+0x8137b4 you guys do as you want.
+0x8137d0 Sooner or later, they will
+0x8137ec finish you.
+0x8137f8 <b>Cytra:</> The only thing I
+0x813818 fear is not being able
+0x813830 to fight for a better
+0x813848 future. But the empire...
+0x813864 I do not fear those vile,
+0x813880 selfish pigs. I'll fight
+0x81389c them to the end.
+0x8138b0 Now, spit it out!
+0x8138c4 Where are the military?
+0x8138dc <b>Richard:</> Ha-hahah...
+0x8138f8 Oh poor Cytra, you think
+0x813914 this has to do with me?
+0x81392c You think there's nothing
+0x813948 behind those expeditions?
+0x813964 You're a real prodigy, I'll
+0x813980 give you that. But you're
+0x81399c naive. You still have much
+0x8139b8 to grow and
+0x8139c4 understand the ill
+0x8139d8 intentions of this world.
+0x8139f4 Head <g>south</>. You'll see
+0x813a14 what I am talking about.
+0x813a30 This green earth you
+0x813a48 so wish to recreate...
+0x813a60 Is nothing but an
+0x813a74 unachievable dream...
+0x813a8c <b>Cytra:</> O...
+0x813aa0 O que é isso?
+0x813ab0 Me sinto estranha, parece
+0x813acc que o tempo não está..
+0x813ae8 <y>passando nesse lugar.</>
+0x813b04 E o que são todas essas
+0x813b20 caveiras?
+0x813b2c de quem podem ser?
+0x813b40 <b>Cytra:</> What... what is
+0x813b60 The air is stagnant in
+0x813b78 this place, and there's
+0x813b90 skulls all over the place.
+0x813bac Who could them be?
+0x813bc0 And this ominous feeling...
+0x813bdc It's almost like <y>the time</>
+0x813bfc <y>isn't running</>.
+0x813c14 Something is wrong here.
+0x813c30 <b>Ander:</> You can also make
+0x813c50 some <y>cool drinks</> at the
+0x813c70 <b>crafting machines</> if you
+0x813c90 have the necessary materials.
+0x813cb0 You can also buy them at
+0x813ccc <b>vending machines</>, but
+0x813ce8 I hate that industrial taste.
+0x813d08 <y>You received 2 Cool Drinks!</>
+0x813d2c <y>This reduces the effect of</>
+0x813d50 <y>heat for 6 hours!</>
+0x813d68 <b>Ander:</> I guarantee this will
+0x813d8c help with the heat!
+0x813da0 You know, you can also make
+0x813dbc <b>???:</> Hello. I'm Ander, one of
+0x813de0 the expedition botanists!
+0x813dfc I'm researching medicinal
+0x813e18 drink that <y>reduces the</>
+0x813e38 <y>effects of heat for 6 hours</>
+0x813e5c try it:
+0x813e64 <b>Alex:</> Hmm... A mysterious
+0x813e84 cold energy seems to be
+0x813e9c flowing from this tree
+0x813eb4 leaves. Perhaps this is
+0x813ecc the reason for its shadows
+0x813ee8 to be so refreshing?
+0x813f00 It's certainly not normal...
+0x813f20 <b>???:</> Hey, hello. I'm Alex!
+0x813f44 I'm the expedition botanist!
+0x813f64 <b>Cytra:</> I'm Cytra, I am the
+0x813f88 meteorologist.
+0x813f98 <b>Alex:</> Cytra, do you see
+0x813fb8 these beautiful
+0x813fc8 trees? They have a striking
+0x813fe4 resemblance to the trees
+0x814000 found in the African
+0x814018 Savannah, listed in the
+0x814030 catalogue No.714.
+0x814044 They are resistant and
+0x81405c their tops gifts us
+0x814070 with a nice <y>refreshing</>
+0x814090 <y>shadow!</>
+0x8140a0 It's amazing! I hope
+0x8140b8 to understand how they
+0x8140d0 can survive in such a
+0x8140e8 unfavorable place.
+0x8140fc <b>Alex:</> You should go see your
+0x814120 other <b>meteorologist friend</>.
+0x814144 He's on the <g>hill, right</>
+0x814164 <g>behind us</>!
+0x814178 He already found out the
+0x814194 meteorologic station on
+0x8141ac this sector and can help
+0x8141c8 you find the next ones.
+0x8141e0 Ah, I almost forgot.
+0x8141f8 The technicians are fixing
+0x814214 the camp's alarm clocks.
+0x814230 Soon, it will be possible
+0x81424c to wake up <y>at dawn</> or
+0x814268 <y>at dusk</>.
+0x814278 But I think it's a waste
+0x814294 of time to sleep in such a
+0x8142b0 fantastic place with so many
+0x8142d0 new things to discover.
+0x8142e8 <b>Bill:</> Precisamos de:
+0x814304 <y>5 refrigerantes</>.
+0x81431c Sei que é muito, mas em
+0x814338 troca posso te ensinar a
+0x814354 <y>fazer uma picareta!</>
+0x814370 Você aceita?
+0x814380 <y>Você aprendeu a fazer uma </>
+0x8143a4 <y>Picareta!</>
+0x8143b4 <y>Agora você pode construir uma</>
+0x8143dc <y>picareta em qualquer máquina</>
+0x814400 <y>de craft, desde que tenha os</>
+0x814424 <y>materiais necessários.</>
+0x814444 <y>Você também obteve 1 Licença</>
+0x81446c <y>esse material é necessário para</>
+0x814494 <y>criação de qualquer tipo de</>
+0x8144b8 <y>arma.</>
+0x8144c4 <b>Bill:</> Se me trouxer
+0x8144e0 <y>5 refrigerantes</> posso
+0x8144fc te ensinar a fazer uma
+0x814514 <y>picareta</>, o que acha?
+0x814530 <b>Bill:</> Já estou cansado desta
+0x814554 expedição, mas tudo bem vou
+0x814574 tirar umas férias em breve.
+0x814594 <b>???:</> Desculpe por não me
+0x8145b4 apresentar, estávamos
+0x8145cc sobrecarregados com trabalho.
+0x8145ec Eu sou Bill, e eu acredito que
+0x81460c já quebramos a maioria das
+0x814628 rochas em nosso caminho.
+0x814644 Ainda tem aquela rocha grande
+0x814664 bloqueando a <g>passagem sul</>.
+0x814688 Mas trabalhar nesse calor é
+0x8146a8 terrível!
+0x8146b4 Se me trouxer <y>5 refrigerantes</>
+0x8146d8 posso te ensinar a fazer uma
+0x8146f8 <b>Técnico:</> Ainda temos
+0x814714 muito trabalho a fazer aqui.
+0x814734 Por favor, não me incomode.
+0x814754 Não tem algo para fazer
+0x814770 também?
+0x81477c <b>Julie:</> .......
+0x814794 Oh! Você me assustou!
+0x8147ac Eu não vi que você estava
+0x8147c8 ainda aqui!
+0x8147d4 Desculpe-me, eu fiquei tão
+0x8147f0 animada com isso!
+0x814804 São petabytes de dados
+0x81481c que eu preciso analisar!
+0x814838 <b>Julie:</> Se me der esses
+0x814858 <y>7 cafés</> eu posso te ensinar
+0x81487c a fazer um <y>rifle</>!
+0x814894 <b>Julie: </>Queria tanto um
+0x8148b4 cafézinho, mas estou longe
+0x8148d0 das máquinas...
+0x8148e4 Se você me trouxer uns
+0x8148fc <y>7 cafés</> eu posso te
+0x814918 ensinar a fazer um rifle!
+0x814934 <y>Você aprendeu a fazer</>
+0x814954 <y>um Rifle!</>
+0x814964 <y>Agora você pode construir um</>
+0x814988 <y>rifle em qualquer máquina</>
+0x8149ac <b>???:</> Ei! Você é a
+0x8149c8 Cytra, certo?
+0x8149d8 <b>Cytra:</> Opa, acertou!
+0x8149f4 Suponho que seja <b>Julie</>?!
+0x814a14 <b>Julie:</> Isso! Ei, você
+0x814a34 pode me ajudar?
+0x814a44 Meu trabalho exige muita
+0x814a60 concentração, então preciso
+0x814a80 ficar dia e noite plantada
+0x814a9c nesse notebook, observando
+0x814ab8 gráficos...
+0x814ac8 Queria tanto um cafézinho
+0x814ae4 mas estou longe das 
+0x814afc <b>Richard:</> eu te darei
+0x814b18 uma morte rápida!
+0x814b2c Venha!
+0x814b34 <b>Richard:</> Olá Cytra, fico feliz
+0x814b5c que você esteja aqui. Você
+0x814b7c será a primeira a ver isso.
+0x814b9c <b>Cytra:</> Qual o significado
+0x814bbc dessa mensagem, Richard?
+0x814bd8 <b>Richard:</> Sua vida está
+0x814bf8 chegando ao fim, então vou
+0x814c14 te contar.
+0x814c20 Eu desprezo esse novo mundo
+0x814c3c que vocês estão tentando
+0x814c58 criar!
+0x814c60 Não vejo sentido em
+0x814c78 salvar um mundo que já se
+0x814c94 mostrou um fracasso.
+0x814cac Tenho trabalhado em segredo
+0x814cc8 para o império,
+0x814cdc para que meus planos
+0x814cf4 se realizem e eu seja
+0x814d0c verdadeiramente livre!
+0x814d24 <b>Cytra:</> Seu filho da-
+0x814d40 Por isso você não foi
+0x814d58 pego pelos drones.
+0x814d6c Você é o motivo pelo qual
+0x814d88 a última equipe não retornou!
+0x814da8 O que você fez? Você os
+0x814dc4 matou?
+0x814dcc <b>Richard:</> Oh não, eu não
+0x814dec os matei. Eles simplesmente
+0x814e08 não foram capazes de
+0x814e20 sobreviver a este ambiente sem
+0x814e40 seus equipamentos, que
+0x814e58 misteriosamente
+0x814e68 perderam energia elétrica...
+0x814e88 Hahahaha!
+0x814e94 <b>Cytra:</> Covarde!
+0x814eac Como você pôde fazer isso?
+0x814ecc <b>Richard:</> Você vê Cytra,
+0x814eec este lugar é rico em um
+0x814f08 <y>minério misterioso</>.
+0x814f24 Este minério absorve energia
+0x814f44 elétrica e dá ao seu portador
+0x814f64 seu poder!
+0x814f70 Sim! Isso é o que eu preciso
+0x814f90 para alcançar meus objetivos!
+0x814fb0 Eu não posso agradecer o
+0x814fcc suficiente por me ajudar,
+0x814fe8 Seria um problema se
+0x815000 o império me visse
+0x815014 destruindo suas valiosas
+0x815030 máquinas.
+0x81503c Obrigado Cytra.
+0x81504c Como recompensa, eu te darei
+0x81506c Obrigado pelo seu
+0x815080 trabalho duro, Cytra.
+0x815098 Devemos voltar para o
+0x8150b0 <g>acampamento</>.
+0x8150c4 <b>Cytra:</> Aqui estão as
+0x8150e0 últimas baterias.
+0x8150f4 <b>Richard:</> Muito bem, Cytra.
+0x815118 Finalmente terminamos isso.
+0x815134 Ótimo, não acredito que
+0x815150 tudo correu tão bem.
+0x815168 <b>Richard:</> Tenha paciência. Só
+0x815190 falta uma estação!
+0x8151a8 Traga-me <y>20 baterias</>!
+0x8151c4 <y>Você recebeu Vitamina-BX!</>
+0x8151e8 <y>Sua stamina irá
+0x8151fc <y>recuperar 50% mais rápido!</>
+0x815220 <b>Cytra:</> Obrigada. Ainda bem
+0x815244 que esta é a última estação.
+0x815268 Até mais tarde.
+0x81527c <b>Cytra:</> Nossa, os drones
+0x81529c nesta região são péssimos.
+0x8152bc Pensei que não chegaria
+0x8152d8 viva aqui. Como você
+0x8152f0 conseguiu chegar aqui tão
+0x81530c rápido?
+0x815318 <b>Richard:</> Ah, parece que a
+0x815338 sorte está do meu lado, haha!
+0x815358 <b>Cytra:</> .... Sim... você
+0x815378 parece ser realmente
+0x815390 um cara de sorte.
+0x8153a4 Aposto que não serei tão
+0x8153c0 sortuda quanto você na
+0x8153d8 busca pelas próximas
+0x8153f0 baterias, não é mesmo?
+0x81540c <b>Richard:</> Hahahah! Sim,
+0x81542c esta estação parece estar
+0x815448 em más condições, então
+0x815464 desta vez precisaremos de
+0x815480 <y>20 baterias</>.
+0x815494 Mas tenho uma recompensa
+0x8154b0 para você por ter chegado
+0x8154cc tão longe!
+0x8154d8 <b>Richard:</> Este lugar é
+0x8154f8 tão confuso, e o clima
+0x815510 não ajuda nada...
+0x815524 Vamos embora antes de
+0x81553c ficarmos mais confusos.
+0x815554 <b>Cytra:</> Aqui está.
+0x815570 <b>Richard:</> Bom trabalho.
+0x815590 Hora de ligar esta
+0x8155a4 estação.
+0x8155b0 Pronto!
+0x8155b8 Só mais uma estação.
+0x8155d0 Esta está cheia de -
+0x8155e8 Eu digo, os técnicos 
+0x815600 disseram que há uma estação
+0x815620 por aqui, devemos procurar!
+0x81563c <b>Cytra:</> ...O que foi isso?
+0x81565c Você está bem?
+0x815670 <b>Richard:</> S-sim, minha mente
+0x815694 está apenas confusa. Talvez
+0x8156b4 tenha sido um fragmento da
+0x8156d0 minha memória que acabou de
+0x8156f0 voltar, haha.
+0x815700 <b>Cytra:</> ...Certo então.
+0x815720 <b>Richard:</> Precisamos de
+0x815740 <y>6 baterias</> desta vez.
+0x81575c <y>Você recebeu Vitamina B!</>
+0x81577c <y>A estamina aumentou de</>
+0x81579c <y>100 para 150.</>
+0x8157b0 <b>Richard:</> Esta estação aqui
+0x8157d4 parece que está
+0x8157e8 precisando de mais energia.
+0x815804 Acho que vão ser necessárias
+0x815824 <y>6 baterias</>
+0x815838 desta vez. Vá pegá-las para
+0x815858 mim.
+0x815860 <b>Cytra:</> Ei, você não vai
+0x815880 me ajudar?
+0x81588c <b>Richard:</> Me perdoe por isso,
+0x8158b0 mas ainda não me recuperei
+0x8158cc completamente, Cytra.
+0x8158e4 Estou fazendo o que posso.
+0x815900 Aqui, pegue isso.
+0x815914 Aposto que vai ajudar.
+0x81592c <b>Richard:</> Certo, conseguimos!
+0x815950 Agora você poderá ver a
+0x81596c <y>previsão do tempo</> no painel
+0x815990 da estação sempre que quiser.
+0x8159b0 A próxima estação está
+0x8159cc <g>no setor onde você </>
+0x8159e8 <g>encontrou os drones</>,
+0x815a04 vamos para lá!
+0x815a14 <b>Cytra:</> Eu peguei as baterias!
+0x815a38 <b>Richard:</> Ótimo, vamos colocar
+0x815a60 esta estação pra funcionar!
+0x815a80 Certo, conseguimos!
+0x815a94 <b>Richard:</> Tem alguns
+0x815ab0 drones no <g>setor leste</>.
+0x815ad0 Destrua e <y>colete 2</>
+0x815aec <y>baterias</> deles. Mas
+0x815b08 cuidado, talvez você precise
+0x815b28 atirar neles algumas vezes
+0x815b44 antes de explodirem.
+0x815b5c <b>Julie</>, a Geofísica,
+0x815b78 sabe criar uma <y>arma melhor</>.
+0x815b9c Se você falar com ela, talvez
+0x815bbc ela possa te ensinar.
+0x815bd4 <b>Cytra:</> Ei Richard! Como
+0x815bf4 vai? Conseguiu se 
+0x815c08 lembrar de algo sobre 
+0x815c20 a última expedição?
+0x815c38 <b>Richard:</> Apenas alguns
+0x815c58 fragmentos vagos...
+0x815c6c Este lugar é muito difícil
+0x815c8c para nós.
+0x815c98 Mas pelo menos ainda
+0x815cb0 posso ajudá-los.
+0x815cc4 Aconselho vocês a <y>não ficarem</>
+0x815cec <y>muito expostos a esse</>
+0x815d08 <y>sol forte.</>
+0x815d1c Não me lembro muito
+0x815d34 da última equipe, mas
+0x815d4c pelo menos lembro que
+0x815d64 tivemos problemas com
+0x815d7c o clima maluco.
+0x815d8c <b>Cytra:</> A noite também não
+0x815db0 é amigável. <y>É tão frio</>
+0x815dd4 <y>que dificulta os movimentos.</>.
+0x815df8 <b>Richard:</> Sim, mas tenho
+0x815e18 certeza de que não será um 
+0x815e38 problema, certo? Me disseram
+0x815e58 que você é um prodígio.
+0x815e74 Vai lidar bem com isso.
+0x815e8c Está vendo essa <g>estação</>?
+0x815eb0 Além dessa, ainda temos
+0x815ecc mais 2 espalhadas pelos 
+0x815ee8 setores em volta.
+0x815efc Elas foram instaladas
+0x815f14 pela equipe anterior e
+0x815f2c tirando o fato de que
+0x815f44 estão <y>sem energia</>,
+0x815f60 parecem estar ok.
+0x815f74 Ouvi de alguns militares 
+0x815f90 que <r>drones</> de exploração
+0x815fb4 do império estão vigiando
+0x815fd0 os setores dessa região.
+0x815fec Se você destruir alguns,
+0x816008 podemos usar suas <y>baterias</>.
+0x81602c <b>Cytra:</> O império 
+0x816048 parece estar em todo lugar,
+0x816064 viu, mas não colabora com
+0x816080 nada a não ser consigo mesmo.
+0x8160a0 Precisamos reconstruir o mundo
+0x8160c0 não esgotá-lo novamente...
+0x8160e0 Enfim, não faz parte da
+0x8160fc minha profissão, mas acho que
+0x81611c vou me divertir, haha!
+0x816134 Quantas baterias precisa?
+0x816150 <b>Richard:</> Acho que ... 
+0x816170 <y>2 serão suficientes</>. Com sua
+0x816194 <y>arma</>, você deve conseguir
+0x8161b8 destrui-los. Mas cuidado
+0x8161d4 talvez você tenha que
+0x8161ec atirar algumas vezes
+0x816204 antes que os drones explodam.
+0x816224 <b>Cytra:</> Embora seja um
+0x816240 lugar desolado, ainda
+0x816258 parece menos poluído do que
+0x816278 onde eu moro...
+0x816288 Mas esse calor... é muito
+0x8162a4 intenso. Se eu não estiver
+0x8162c0 <y>sob uma sombra ou me mantiver</>
+0x8162e4 <y>hidratada</>, esse sol vai
+0x816304 <y>fritar meu cérebro.</>
+0x816320 Sorte minha que parece
+0x816338 haver uma boa quantidade de
+0x816354 água subterrânea, posso
+0x816370 usar meu <y>higrômetro</> para
+0x816390 descobrir onde posso cavar
+0x8163ac e <b>segurar o botão A</>
+0x8163c8 <b>para encher meu cantil.</>
+0x8163e8 No ano 300 após a catástrofe,
+0x816408 minha equipe formada por
+0x816424 cientistas, técnicos e 
+0x816440 militares foi designada para
+0x816460 verificar a habitabilidade
+0x81647c de uma extensa área que era
+0x81649c até então desconhecida.
+0x8164b8 Havia um certo temor sobre
+0x8164d4 este lugar, já que algum tempo
+0x8164f4 antes, uma equipe foi enviada
+0x816514 com o objetivo de instalar
+0x816530 equipamentos de pesquisa, mas
+0x816550 nunca retornou. Richard, o
+0x81656c meteorologista, foi a única
+0x81658c exceção.
+0x816598 Começamos nossa busca pela
+0x8165b4 equipe, seus equipamentos e
+0x8165d0 dados.
+0x8165d8 Encontramos um local aceitável
+0x8165f8 para montar acampamento,
+0x816614 perto de um solo ligeiramente
+0x816634 úmido, onde árvores foram
+0x816650 capazes de crescer, nos
+0x816668 aliviando do calor intenso com
+0x816688 suas sombras.
+0x816698 Chegamos ao entardecer, e a
+0x8166b4 primeira noite teve um frio
+0x8166d0 cortante que tornou o sono
+0x8166ec impossível. Pensei que iria
+0x81670c congelar até a morte. Porém,
+0x81672c não durou muito tempo, já que
+0x81674c ao amanhecer, o sol brilhava
+0x81676c pelas janelas.
+0x81677c Os militares partiram em busca
+0x81679c da outra equipe, enquanto os
+0x8167bc técnicos eram responsáveis
+0x8167dc pelas operações e pelos
+0x8167f8 acampamentos. Nós, cientistas,
+0x816818 ficamos com a tarefa de
+0x816830 encontrar instalações, coletar
+0x816854 e armazenar seus dados.
+0x81686c Em certo momento do terceiro
+0x81688c milênio um mal se abateu
+0x8168a8 sobre o planeta. Tamanha foi
+0x8168c8 a destruição, que como
+0x8168e4 consequência continentes
+0x816900 foram reconfigurados.
+0x816918 O ar se tornou
+0x816928 tóxico. O clima se tornou
+0x816944 extremo. E a maioria do que
+0x816960 era conhecido se perdeu.
+0x81697c A humanidade sobreviveu, mas
+0x81699c com cicatrizes que talvez
+0x8169b8 nunca possam ser curadas.
+0x8169d4 Séculos depois, surgiram
+0x8169f0 esforços para recuperar a
+0x816a0c habitabilidade do nosso
+0x816a24 planeta. Estávamos 
+0x816a3c terraformando 
+0x816a4c a própria Terra.
+0x816a60 Para isso, o mundo inteiro
+0x816a7c teve que cooperar. Mas,
+0x816a94 mesmo assim, sementes
+0x816aac imperiais do passado
+0x816ac4 encontraram uma maneira de se
+0x816ae4 aproveitar desse novo mundo
+0x816b00 usando exploração
+0x816b14 automatizada de zonas
+0x816b2c não habitadas.
+0x816b3c <b>Bill:</> We need:
+0x816b54 <y>5 cool drinks</>.
+0x816b6c I know it's a lot, but in
+0x816b88 return I can teach you
+0x816ba0 <y>how to make a pickaxe!</>
+0x816bc0 Do you accept?
+0x816bd0 <y>You learned how to make</>
+0x816bf0 <y>a Pickaxe!</>
+0x816c04 <y>Now you can craft a pickaxe</>
+0x816c28 <y>at any crafting machine</>
+0x816c48 <y>as long as you have the</>
+0x816c68 <y>necessary materials.</>
+0x816c84 <y>You also obtained 1 Weapon</>
+0x816ca8 <y>Permit which is needed for</>
+0x816ccc <y>crafting any type of weapon.</>
+0x816cf0 <b>Bill:</> If you bring me
+0x816d0c <y>5 cool drinks</> I can teach
+0x816d2c you how to make a <y>pickaxe</>!
+0x816d50 how about it?
+0x816d60 <b>Bill:</> I'm already tired of
+0x816d84 this expedition, but that's ok
+0x816da4 I'll take a vacation soon.
+0x816dc0 <b>???:</> Sorry I didn't introduce
+0x816de4 we were swamped with work.
+0x816e00 I'm Bill, and I believe we've
+0x816e20 already broken most of the
+0x816e3c rocks in our way.
+0x816e50 There's still that big rock
+0x816e6c blocking the <g>southern path</>.
+0x816e90 But working in this heat is
+0x816eac terrible!
+0x816eb8 If you bring me <y>5 cool</>
+0x816ed8 <y>drinks</> I can teach you how
+0x816efc <b>Technician:</> We still have
+0x816f1c too much work to do here.
+0x816f38 Please, don't bother me.
+0x816f54 Don't you have something
+0x816f70 to do too?
+0x816f7c Oh! You scared me!
+0x816f90 I didn't see you were
+0x816fa8 still there!
+0x816fb8 I'm sorry, I got so
+0x816fcc excited on this!
+0x816fe0 It's petabytes of data
+0x816ff8 that I need to analyze!
+0x817010 <b>Julie:</> If you give me
+0x81702c <y>7 coffees</>, I can teach you
+0x817050 how to make a <y>rifle</>!
+0x81706c <b>Julie:</> I really want a
+0x81708c coffee, but I'm far
+0x8170a0 from the machines...
+0x8170b8 <y>7 coffees</>, I can
+0x8170d0 teach you how to make a rifle!
+0x8170f0 What do you think?
+0x817104 <y>a Rifle!</>
+0x817114 <y>Now you can craft a rifle</>
+0x817134 <b>???:</> Hey! You're
+0x81714c Cytra, right?
+0x81715c <b>Cytra:</> Yep, that's right!
+0x81717c I suppose you're <b>Julie</>?!
+0x81719c <b>Julie:</> Yes! Hey, can you
+0x8171bc help me?
+0x8171c8 My job requires a lot of
+0x8171e4 concentration, so I need to
+0x817200 be glued to this laptop
+0x817218 day and night, watching
+0x817230 graphs...
+0x81723c I really want a coffee
+0x817254 but I'm far from the
+0x81726c machines...
+0x817278 <b>Ander:</> você também pode fazer
+0x8172a0 alguns <y>refrigerantes</> nas
+0x8172c0 <b>máquinas de craft</> se você
+0x8172e4 tiver os materiais necessários
+0x817304 Você também pode comprar nas
+0x817324 <b>máquinas de venda</>, mas
+0x817344 detesto aquele sabor industrial
+0x817364 <y>Você recebeu 2 Refrigerantes!</>
+0x81738c <y>Isso reduz o efeito do</>
+0x8173ac <y>calor durante 6 horas!</>
+0x8173cc <b>Ander:</> Garanto que vai nos
+0x8173f0 ajudar com esse calor!
+0x817408 Sabe, você também pode fazer
+0x817428 detesto aquele sabor industrial.
+0x81744c <b>???:</> Olá. Sou Ander, um dos
+0x817470 botânicos da expedição!
+0x81748c Estou estudando sobre uma
+0x8174a8 bebida medicinal <y>que reduz o</>
+0x8174cc <y>efeito do calor durante 6</>
+0x8174ec <y>horas.</>
+0x8174fc Experimente:
+0x81750c <b>Alex:</> Hum... As folhas dessa
+0x817530 árvore parecem emanar
+0x817548 um tipo de energia
+0x81755c fria e misteriosa
+0x817570 que se contrapõe ao calor do
+0x817590 lugar, não parece ser uma
+0x8175ac sombra comum...
+0x8175bc <b>???:</> Olá, sou o botânico
+0x8175e0 da expedição, me chamo <b>Alex</>.
+0x817608 <b>Cytra:</> E eu sou Cytra, da
+0x817628 dupla de meteorologistas.
+0x817644 <b>Alex:</> Veja essas belas
+0x817664 árvores se parecem muito com
+0x817684 as espécies da 
+0x817698 savana africana do catálogo
+0x8176b8 No. 714, elas são
+0x8176cc resistentes e sua copa nos dá
+0x8176ec uma <y>sombra refrescante.</> São
+0x817710 fantásticas, espero descobrir
+0x817730 como esse tipo único consegue
+0x817750 sobreviver em um lugar tão
+0x81776c adverso. Você deveria ir ver o
+0x81778c seu companheiro
+0x81779c meteorologista, ele está nessa
+0x8177bc colina <g>logo ali atrás</> ele ja
+0x8177e0 encontrou a estação
+0x8177f8 meteorológica desse setor e
+0x817818 pode te ajudar a encontrar as
+0x817838 outras.
+0x817840 Ah, quase ia me esquecendo.
+0x81785c Os técnicos estão arrumando
+0x81787c os despertadores do
+0x817890 Logo será possível
+0x8178a8 despertar <y>ao amanhecer</> ou
+0x8178c8 <y>ao entardecer</>.
+0x8178e0 Mas acho um desperdício
+0x8178fc de tempo dormir em um lugar
+0x817918 tão fantástico com tantas
+0x817934 coisas novas para descobrir.
+0x817954 <b>Richard:</> I'll give you
+0x817974 a quick death!
+0x817984 Come!
+0x81798c <b>Richard:</> Hello Cytra, I'm
+0x8179ac glad you're here. You'll
+0x8179c8 be the first one to see
+0x8179e0 this.
+0x8179e8 <b>Cytra:</> What's the meaning
+0x817a08 of this, Richard?
+0x817a1c <b>Richard:</> Your life is
+0x817a38 coming to an end, so I'll
+0x817a54 let you know.
+0x817a64 I despise this new world
+0x817a80 you guys are trying
+0x817a94 to create!
+0x817aa0 I see no meaning in
+0x817ab4 saving a world that has
+0x817acc already proven to be a
+0x817ae4 failure.
+0x817af0 I have been secretly
+0x817b08 working for the empire,
+0x817b20 in order to make my plans
+0x817b3c succeed and be truly free!
+0x817b58 <b>Cytra:</> You son of a-
+0x817b74 That's why you didn't
+0x817b8c get caught by the drones.
+0x817ba8 You are the reason the
+0x817bc0 last team didn't return!
+0x817bdc What did you do? Have you
+0x817bf8 murdered then?
+0x817c08 <b>Richard:</> Oh no, I didn't
+0x817c28 murder them. They just
+0x817c40 were not able to survive
+0x817c5c in this enviroment without
+0x817c78 their equipment, which
+0x817c90 happened to mysteriously
+0x817cac lose electric energy...
+0x817cc4 Hahahah!
+0x817cd0 <b>Cytra:</> You coward!
+0x817cec How could you do this?
+0x817d04 <b>Richard:</> You see Cytra,
+0x817d24 this place is rich with
+0x817d3c a <y>mysterious ore</>.
+0x817d54 This ore absorbs electric
+0x817d70 energy, and give the holder
+0x817d8c its power!
+0x817d98 Yes! This is what I need
+0x817db4 to achieve my goals!
+0x817dcc I cannot thank you enough
+0x817de8 for helping me, hahahaha!
+0x817e04 It would be a problem if
+0x817e20 the empire saw me
+0x817e34 destroying their valuable
+0x817e50 machines.
+0x817e5c Thank you Cytra.
+0x817e70 As a reward, I'll give you
+0x817e8c Thank you for your hard
+0x817ea4 work, Cytra.
+0x817eb4 We should return to the
+0x817ecc <g>camps</>.
+0x817edc <b>Cytra:</> Here, I got the
+0x817efc last batteries.
+0x817f0c <b>Richard:</> Well done Cytra.
+0x817f2c Finally we can finish this.
+0x817f48 Great, I can't believe
+0x817f60 everything went so smoothly
+0x817f7c <b>Richard:</> Be patient. Only
+0x817f9c one station remains!
+0x817fb4 Bring me <y>20 batteries</>!
+0x817fd4 <y>You received BX-Vitamin!</>
+0x817ff4 <y>Your stamina will</>
+0x81800c <y>recover 50% faster!</>
+0x818028 <b>Cytra:</> Thanks. Good thing
+0x818048 this is the last station.
+0x818064 See you later.
+0x818074 <b>Cytra:</> Wow, the drones on
+0x818094 this region are awful.
+0x8180ac Thought I wouldn't get
+0x8180c4 here alive. How were you
+0x8180e0 able to get here so fast?
+0x8180fc <b>Richard:</> Oh, it seems lady
+0x818120 luck is on my side, hahah!
+0x81813c <b>Cytra:</> .... Yeah... you
+0x81815c really seem to be
+0x818170 a very lucky guy.
+0x818184 I bet I'm not going to be
+0x8181a0 as lucky as you hunting
+0x8181b8 down the next batteries,
+0x8181d4 right?
+0x8181dc <b>Richard:</> Hahahah! Yeah,
+0x8181fc this station seems to be
+0x818218 in a bad state, so this
+0x818230 time we'll be needing
+0x818248 <y>20 batteries</>.
+0x81825c But I have a reward for
+0x818274 you getting this far!
+0x81828c <b>Richard:</> This place is
+0x8182ac so confusing, and the
+0x8182c4 weather doesn't help
+0x8182dc either...
+0x8182e8 Let's go before we get
+0x818300 our heads more messed up.
+0x81831c <b>Cytra:</> Here it is.
+0x818338 <b>Richard:</> Good work.
+0x818354 Time to turn on this
+0x81836c station.
+0x818378 Done!
+0x818380 Just one more station left.
+0x81839c This one is full of -
+0x8183b4 I-I mean, the technicians
+0x8183d0 said there's a station
+0x8183e8 around here, we should
+0x818400 seek it...!
+0x81840c <b>Cytra:</> ...What was that?
+0x81842c Are you alright?
+0x818440 <b>Richard:</> Y-yes, my mind
+0x818460 is just fuzzy. Perhaps
+0x818478 it was a fragment of my
+0x818490 memory that just returned,
+0x8184ac <b>Cytra:</> ... Alright then.
+0x8184cc <b>Richard:</> We are in need
+0x8184ec of <y>6 batteries</> this
+0x818508 time.
+0x818510 <y>You received B-Vitamin!</>
+0x818530 <y>Stamina increased from</>
+0x818550 <y>100 to 150.</>
+0x818564 <b>Richard:</> This station here
+0x818588 seems to seems to be
+0x8185a0 lacking more energy.
+0x8185b8 I think <y>6 batteries</>
+0x8185d4 are going to be needed
+0x8185ec this time. Go get them for
+0x818608 <b>Cytra:</> Hey, aren't you
+0x818628 going to help me?
+0x81863c <b>Richard:</> Forgive me for this,
+0x818660 but I haven't fully
+0x818674 recovered yet, Cytra.
+0x81868c I am doing what I can.
+0x8186a4 Here, take this.
+0x8186b8 I bet it'll help.
+0x8186cc <b>Richard:</> Alright, we did it!
+0x8186f0 Now you can see the
+0x818704 <y>weather forecast</> on the station
+0x81872c panel whenever you want.
+0x818748 The next station is
+0x81875c <g>in the sector where you</>
+0x81877c <g>found the drones</>,
+0x818794 let's head there!
+0x8187a8 <b>Cytra:</> I got the batteries!
+0x8187cc <b>Richard:</> Great, let's get
+0x8187ec this station working again!
+0x818808 Alright, we did it!
+0x81881c <b>Richard:</> There are some
+0x81883c drones on the <g>east sector</>.
+0x818860 Destroy and <y>collect 2</>
+0x81887c <y>batteries</> from them. But
+0x81889c beware, you might have
+0x8188b4 to shoot them a few times
+0x8188d0 before they explode.
+0x8188e8 <b>Julie</>, the Geophysicist,
+0x818908 knows how to make
+0x81891c <y>better weapons</>.
+0x818934 If you talk to her, she might
+0x818954 be able to teach you.
+0x81896c <b>Cytra:</> Hey Richard! How
+0x81898c you doing? Feel like
+0x8189a4 remembering something
+0x8189bc from the last expedition
+0x8189d8 yet?
+0x8189e0 <b>Richard:</> Nothing but
+0x8189fc slight fragments...
+0x818a10 This place is too hard
+0x818a28 on us.
+0x818a30 But at least I can still
+0x818a4c help you guys out.
+0x818a60 I advise you to <y>not be</>
+0x818a80 <y>exposed too much on</>
+0x818a9c <y>this strong sun.</>
+0x818ab4 I don't remember much
+0x818acc from the last team, but
+0x818ae4 at least, I remember we
+0x818afc had a hard time with this
+0x818b18 crazy weather.
+0x818b28 <b>Cytra:</> The night is not
+0x818b48 kind as well. <y>It's so cold</>
+0x818b6c <y>that impairs your movements</>.
+0x818b90 <b>Richard:</> Yeah, but I'm sure
+0x818bb4 this will be no problem,
+0x818bd0 right? I was told you are
+0x818bec quite the prodigious.
+0x818c04 You'll handle this well.
+0x818c20 Do you see this <g>station</>?
+0x818c40 Besides this one, we still got
+0x818c60 2 more spread over the
+0x818c78 sectors around.
+0x818c88 They were originally
+0x818ca0 installed by the previous
+0x818cbc team, and aside the fact
+0x818cd8 they are <y>lacking energy</>,
+0x818cf8 they seems to be working
+0x818d14 fine.
+0x818d1c I heard from some military guys
+0x818d3c that empire's exploration
+0x818d58 <r>drones</> are watching over
+0x818d78 the sectors in this region.
+0x818d94 If you destroy some of them,
+0x818db4 we can use their <y>batteries</>.
+0x818dd8 <b>Cytra:</> The empire seems
+0x818df8 to be everywhere, you know,
+0x818e14 but it doesn't cooperate
+0x818e30 with anything but itself.
+0x818e4c We need to rebuild the world,
+0x818e6c not deplete it again...
+0x818e84 Anyway, it's not part of
+0x818ea0 my profession, but I think
+0x818ebc I'm going to have some fun!
+0x818ed8 How many batteries should
+0x818ef4 I bring?
+0x818f00 <b>Richard:</> I guess ... 
+0x818f1c <y>2 will be enough</>. With your
+0x818f40 <y>gun</>, you should be able
+0x818f60 to take them down. But
+0x818f78 <b>Cytra:</> Althought it's a
+0x818f98 desolate place, it's still
+0x818fb4 seems less poluted than
+0x818fcc where I live...
+0x818fdc But this heat... it's too
+0x818ff8 harsh. If I'm not <y>under a</>
+0x819018 <y>shadow or keep hydrating</>
+0x819038 myself, this sun will <y>fry</>
+0x819058 <y>my brain.</>
+0x819068 Lucky for me, it seems
+0x819080 there's a good amount of
+0x81909c water underground, I can
+0x8190b8 use my <y>hygrometer</> to
+0x8190d4 find out where I can dig
+0x8190f0 and <b>hold the A button</>
+0x81910c <b>to fill my canteen.</>
+0x819128 In the year 300 after
+0x819140 the catastrophe, my team
+0x81915c which formation consisted
+0x819178 of scientists, technicians
+0x819194 and military, was
+0x8191a8 designated to verify
+0x8191c0 the habitability of an
+0x8191d8 extensive land that was,
+0x8191f4 until then, unknown.
+0x81920c There was a certain fear
+0x819228 about this place, as
+0x819240 some time before, with the
+0x81925c intention to install
+0x819274 research equipments, a team
+0x819290 was sent and never
+0x8192a4 returned, Richard, the
+0x8192bc meteorologist, being the
+0x8192d8 only exception to this.
+0x8192f0 We started our search for
+0x81930c the team, their equipments
+0x819328 and data.
+0x819334 We found an acceptable
+0x81934c place to set our camp,
+0x819364 near a slightly moist soil,
+0x819380 where two trees were able
+0x81939c to grow, relieving us from
+0x8193b8 the harsh heat with its
+0x8193d0 shadow.
+0x8193d8 We arrived at dusk, and
+0x8193f0 the first night had a
+0x819408 bitter cold that made
+0x819420 sleep almost impossible.
+0x81943c Thought I was going to
+0x819454 freeze to death.
+0x819468 It didn't last long though,
+0x819484 as in the dawn sunshine
+0x81949c was burning through the
+0x8194b4 windows.
+0x8194c0 The military left in search
+0x8194dc of the other team, while
+0x8194f8 the technicians were
+0x819510 responsible for operation
+0x81952c and maintenance of the
+0x819544 camps.
+0x81954c Us scientists were left
+0x819564 with the task of finding
+0x819580 installations and collect
+0x81959c and store their data.
+0x8195b4 At a certain moment
+0x8195c8 of the third millennium
+0x8195e0 an evil befell over
+0x8195f4 the planet
+0x819600 Such was the destruction
+0x81961c that as consequence, the
+0x819638 continents were
+0x819648 reconfigured.
+0x819658 The air became toxic.
+0x819670 The weather became extreme.
+0x81968c And most of what
+0x8196a0 was known was lost.
+0x8196b4 Humanity survived
+0x8196c8 but with scars that
+0x8196dc perhaps could never
+0x8196f0 be healed.
+0x8196fc In the subsequent centuries
+0x819718 efforts to recover the
+0x819730 habitability of our own
+0x819748 planet have emerged.
+0x819760 We were terraforming
+0x819778 Earth itself.
+0x819788 To do such, the entire
+0x8197a0 world had to cooperate.
+0x8197b8 However, even in this
+0x8197d0 situation, imperial seeds
+0x8197ec from the old world
+0x819800 found a new way to exploit
+0x81981c this new world in
+0x819830 automated exploration
+0x819848 of uninhabited zones.
+0x819860 position >= 0 && position < size()
+0x819884 Invalid position: 
+0x819898  x
+0x81989c english
+0x8198a4 português
+0x8198b0 sqrt
+0x8198b8 bn_math.h
+0x8198c4 value >= 0
+0x8198d0 Invalid value: 
+0x8198e4 cell_index
+0x8198f0 bn_regular_bg_map_item.h
+0x81990c map_x >= 0 && map_x < width
+0x819928 Invalid map x: 
+0x819938 map_y >= 0 && map_y < _dimensions.height()
+0x819964 Invalid map y: 
+0x819974 Compressed maps not supported
+0x819994 set_tile_index
+0x8199a4 bn_regular_bg_map_cell_info.h
+0x8199c4 tile_index >= 0 && tile_index < 1024
+0x8199ec Invalid tile index: 
+0x819a04 bn_unique_ptr.h
+0x819a14 Managed pointer is null
+0x819a2c regular_bg_tiles_item
+0x819a44 bn_regular_bg_tiles_item.h
+0x819a60 valid_tiles_count(tiles_ref.size(), bpp)
+0x819a8c Invalid tiles count: 
+0x819aa4 regular_bg_item
+0x819ab4 bn_regular_bg_item.h
+0x819acc Tiles and palette BPP are different
+0x819af0 push_back
+0x819afc Vector is full
+0x819b20 substr
+0x819b28 position >= 0
+0x819b38 count >= 0
+0x819b44 Invalid count: 
+0x819b54 vector
+0x819b5c other.size() <= MaxSize
+0x819b74 bool: 
+0x819b7c new scene: 
+0x819b88 , cscene: 
+0x819b94   x
+0x819ba0 current_scene: 
+0x819bb0 , L: 
+0x819bb8 =>current_scene: 
+0x819bcc Angle must be in the range [0..360]: 
+0x819bf4 degrees_lut_sin
+0x819c04 degrees_angle >= 0 && degrees_angle <= 360
+0x819c30 ??current_scene: 
+0x819c44 ) livre? 
+0x819c50 RES ADDR: 
+0x819c5c ANDE POR: 
+0x819c70 span
+0x819c78 (! first && ! last) || (first && last)
+0x819ca0 Both pointers must be null or not null: 
+0x819ccc first <= last
+0x819cdc Last is before first: 
+0x819d0c erase
+0x819d14 Vector is empty
+0x819d24 position >= begin() && position < end()
+0x819d4c Invalid position
+0x819d60 R I C H A R D
+0x819d88 pop_back
+0x819d94 operator*
+0x819dc8 T A T U
+0x819dd0 v%d.%d.%d
+0x819ddc K H A L A N G O R O N
+0x819df4 M A G Z E B O S
+0x819e18 <b>Conteúdo indisponível</>
+0x819e38 <b>nessa versão, continue nos</>
+0x819e5c <b>acompanhando no nosso</>
+0x819e78 <b>canal oficial:</>
+0x819e90 <g>tengukaze.itch.io/</>
+0x819eac <g>green-memories-gba</>
+0x819ec8 <b>Content not available in</>
+0x819ee8 <b>this version. Please keep</>
+0x819f08 <b>following us on our official</>
+0x819f2c <b>channel:</>
+0x819f3c O ladrão do posto avançado
+0x819f5c The thief of the outpost
+0x819f78 O rei da colina
+0x819f88 The king of the hill
+0x819fa0 <b>Próximos dias:</>
+0x819fb8 - Tempo limpo
+0x819fc8 - Poucas nuvens
+0x819fd8 - Parcialmente nublado
+0x819ff0 - Nublado
+0x819ffc <b>Next days:</>
+0x81a010 - Clear weather
+0x81a020 - Few clouds
+0x81a030 - Partly cloudy
+0x81a040 - Cloudy
+0x81a04c the flying chaos
+0x81a060 o caos voador
+0x81a070 the blazing tyrant
+0x81a084 o tirano ardente
+0x81a098 the traitor scientist
+0x81a0b0 o cientista traidor
+0x81a0c4 the last digger
+0x81a0d4 o último cavador
+0x81a0e8 Collect
+0x81a0f0 Coletar
+0x81a0f8 CRAFT
+0x81a100 CRIAR
+0x81a108 Sure?
+0x81a110 Tem certeza?
+0x81a120 Yes
+0x81a124 Sim
+0x81a128 No
+0x81a12c Não
+0x81a134 BUY
+0x81a138 COMPRAR
+0x81a140 How many?
+0x81a14c Quantos?
+0x81a158 SELL
+0x81a160 VENDER
+0x81a168 DEPOSIT
+0x81a170 GUARDAR
+0x81a178 WITHDRAW
+0x81a184 RETIRAR
+0x81a18c Talk
+0x81a194 Falar
+0x81a1f0 QU
+0x81a1f8 i`
+0x81a220 QU
+0x81a22c 9m
+0x81a328 MT
+0x81a39c yR
+0x81a3f0 }S
+0x81a43c IS
+0x81b021 U)
+0x81b041 T)
+0x81b061 S)
+0x81b081 R)
+0x81b0a1 U(
+0x81b0c1 T(
+0x81b0e1 S(
+0x81b101 R(
+0x81b11f U'
+0x81b13b T'
+0x81b157 S'
+0x81b173 R'
+0x81b18f U&
+0x81b1ab T&
+0x81b1c7 S&
+0x81b1e3 R&
+0x81c2e0 Bottle
+0x81c302 Recovers a small
+0x81c324 amount of HP and SP.
+0x81c38a Pistol
+0x81c3ac Pistol used by civilians
+0x81c3ce during WWIII. SP: 8 ATK:
+0x81c434 Rifle
+0x81c456 Rifle used by the
+0x81c478 resistance. SP: 8 ATK:
+0x81c4de Machete
+0x81c500 Used for cutting. SP:
+0x81c522 17 ATK: 30
+0x81c588 Pickaxe
+0x81c5aa Used to break minerals.
+0x81c5cc SP: 25 ATK: 13
+0x81c632 Purple Flower
+0x81c654 Blooms in the desert
+0x81c676 soil like a miracle.
+0x81c6dc Sap
+0x81c6fe Thick sap with potential
+0x81c720 biological uses.
+0x81c786 Ivy
+0x81c7a8 A strong plant once
+0x81c7ca used to make braided
+0x81c7ec materials.
+0x81c830 Stone
+0x81c852 Just a simple stone.
+0x81c8da Iron Ore
+0x81c8fc A very useful ore for
+0x81c91e weapon production.
+0x81c984 Battery
+0x81c9a6 A small power source.
+0x81ca2e Metal Scraps
+0x81ca50 Metallic wreckage from
+0x81ca72 machines.
+0x81cad8 Feather
+0x81cafa A small white feather.
+0x81cb82 Dogecko Scale
+0x81cba4 A strong and flexible
+0x81cbc6 scale that resembles a
+0x81cbe8 polymer.
+0x81cc2c Cool Drink
+0x81cc4e Reduces heat effects
+0x81cc70 for 6 hours.
+0x81ccd6 Coffee
+0x81ccf8 Reduces cold effects
+0x81cd1a for 6 hours.
+0x81cd80 Oblivion
+0x81cda2 A strong ranged
+0x81cdc4 weapon. SP: 8 ATK: 30
+0x81ce2a Tools
+0x81ce4c Needs to be returned.
+0x81ced4 Notebook
+0x81cef6 Needs to be returned.
+0x81cf7e Weapon Permit
+0x81cfa0 Required to craft a
+0x81cfc2 weapon.
+0x81d028 Raw Meat
+0x81d04a Meat collected from
+0x81d06c the creatures of this
+0x81d08e land.
+0x81d0d2 Cooked Meat
+0x81d0f4 Recovers HP and SP.
+0x81d17c Purple Scale
+0x81d19e A stronger Dogecko
+0x81d1c0 scale.
+0x81d226 Green Feather
+0x81d248 A green Zebo feather.
+0x81d2d0 Rainbow Feather
+0x81d2f2 Dropped by a violent
+0x81d314 yet beautiful creature.
+0x81d37a Rattle
+0x81d39c When played, summons a
+0x81d3be powerful creature.
+0x81d424 Saber
+0x81d446 A strong melee weapon.
+0x81d468 SP: 16 | ATK: 65
+0x81d4ce Contaminated Meat
+0x81d4f0 Needs to be examined.
+0x81d578 Spotted Pelt
+0x81d59a Pelt from a Pekary,
+0x81d5bc covered in fur.
+0x81d622 Golden Scale
+0x81d644 An extremely rigid
+0x81d666 scale.
+0x81d6cc Tambour
+0x81d6ee When played, summons a
+0x81d710 powerful creature.
+0x81d776 Brute Pickaxe
+0x81d798 A sturdier pickaxe. SP:
+0x81d7ba 17 ATK: 30
+0x81d820 Remedy
+0x81d842 Needs to be delivered.
+0x81d8ca Dynamite
+0x81d8ec Used for demolitions.
+0x81d974 Electric Guitar
+0x81d996 When played, summons a
+0x81d9b8 cursed ghost.
+0x81da1e Bat Fang
+0x81da40 Sharp fang from a bat.
+0x81dac8 Bat Wing
+0x81daea Thin and sturdy bat
+0x81db0c wing.
+0x81db72 Mole Claw
+0x81db94 Sturdy claw from a
+0x81dbb6 burrowing beast.
+0x81dc1c Mouse Tail
+0x81dc3e Light tail from a small
+0x81dc60 rodent.
+0x81dcc6 Tatu Scale
+0x81dce8 Rigid scale from an
+0x81dd0a armadillo shell.
+0x81dd70 s_dummy
+0x81de1a s_dummy
+0x81dec4 s_dummy
+0x81df6e s_dummy
+0x81e018 s_dummy
+0x81e0c2 s_dummy
+0x81e16c s_dummy
+0x81e216 s_dummy
+0x81e2c0 s_dummy
+0x81e36a s_dummy
+0x81e414 s_dummy
+0x81e4be s_dummy
+0x81e568 s_dummy
+0x81e612 s_dummy
+0x81e6bc s_dummy
+0x81e766 s_dummy
+0x81e810 s_dummy
+0x81e8ba s_dummy
+0x81e964 s_dummy
+0x81ea0e s_dummy
+0x81eab8 s_dummy
+0x81eb62 s_dummy
+0x81ec0c s_dummy
+0x81ecb6 s_dummy
+0x81ed60 s_dummy
+0x81ee0a s_dummy
+0x81eeb4 s_dummy
+0x81ef5e s_dummy
+0x81f008 s_dummy
+0x81f0b2 s_dummy
+0x81f15c s_dummy
+0x81f206 s_dummy
+0x81f2b0 s_dummy
+0x81f35a s_dummy
+0x81f404 s_dummy
+0x81f4ae s_dummy
+0x81f558 s_dummy
+0x81f602 s_dummy
+0x81f6ac s_dummy
+0x81f756 s_dummy
+0x81f800 s_dummy
+0x81f8aa s_dummy
+0x81f954 s_dummy
+0x81f9fe s_dummy
+0x81faa8 s_dummy
+0x81fb52 s_dummy
+0x81fbfc s_dummy
+0x81fca6 s_dummy
+0x81fd50 s_dummy
+0x81fdfa s_dummy
+0x81fea4 s_dummy
+0x81ff4e s_dummy
+0x81fff8 s_dummy
+0x8200a2 s_dummy
+0x82014c s_dummy
+0x8201f6 s_dummy
+0x8202a0 s_dummy
+0x82034a s_dummy
+0x8203f4 s_dummy
+0x82049e s_dummy
+0x820548 s_dummy
+0x8205f2 s_dummy
+0x82069c s_dummy
+0x820746 s_dummy
+0x8207f0 s_dummy
+0x82089a s_dummy
+0x820944 s_dummy
+0x8209ee s_dummy
+0x820a98 s_dummy
+0x820b42 s_dummy
+0x820bec s_dummy
+0x820c96 s_dummy
+0x820d40 s_dummy
+0x820dea s_dummy
+0x820e94 s_dummy
+0x820f3e s_dummy
+0x820fe8 s_dummy
+0x821092 s_dummy
+0x82113c s_dummy
+0x8211e6 s_dummy
+0x821290 s_dummy
+0x82133a s_dummy
+0x8213e4 s_dummy
+0x82148e s_dummy
+0x821538 s_dummy
+0x8215e2 s_dummy
+0x82168c s_dummy
+0x821736 s_dummy
+0x8217e0 Pote
+0x821802 Pequeno pote para
+0x821824 colocar água. SP: 25
+0x82188a Pistola
+0x8218ac Pistola usada por civis
+0x8218ce na 3a Guerra Mundial.
+0x8218f0 SP: 8 ATK: 13
+0x821934 Rifle
+0x821956 Rifle da Resistência.
+0x821978 SP: 8 ATK: 25
+0x8219de Machete
+0x821a00 Usado para cortar. SP:
+0x821a22 17 ATK: 30
+0x821a88 Picareta
+0x821aaa Usado para quebrar
+0x821acc rochas. SP: 25 ATK: 13
+0x821b32 Flor Púrpura
+0x821b54 Desabrocha no solo
+0x821b76 desértico como que por
+0x821b98 milagre. 
+0x821bdc Seiva
+0x821bfe Pode ser que tenha
+0x821c20 algum uso biológico. 
+0x821c86 Hera
+0x821ca8 Planta resistente,
+0x821cca usada para trançar. 
+0x821d30 Pedra
+0x821d52 Apenas uma pedra
+0x821d74 comum.  
+0x821dda Minério de Ferro
+0x821dfc Bastante usado para
+0x821e1e produzir equipamentos. 
+0x821e84 Bateria
+0x821ea6 Pequena fonte de
+0x821ec8 energia.  
+0x821f2e Metal Retorcido
+0x821f50 Destroços de máquinas.
+0x821fd8 Pena
+0x821ffa Pequena pena branca.  
+0x822082 Escama Dogecko
+0x8220a4 Escama forte e flexível
+0x8220c6 parece um polímero. 
+0x82212c Refrigerante
+0x82214e Reduz os efeitos do
+0x822170 calor por 6 horas.
+0x8221d6 Café
+0x8221f8 Reduz os efeitos do
+0x82221a frio por 6 horas
+0x822280 Oblivion
+0x8222a2 Arma poderosa SP: 8
+0x8222c4 ATK: 30
+0x82232a Ferramentas
+0x82234c Precisa ser devolvido
+0x8223d4 Notebook
+0x8223f6 Precisa ser devolvido
+0x82247e Licença
+0x8224a0 Você precisa de uma
+0x8224c2 para poder criar uma
+0x8224e4 arma.
+0x822528 Carne Crua
+0x82254a Carne coletada das
+0x82256c criaturas desse lugar. 
+0x8225d2 Carne Cozida
+0x8225f4 Recupera parte do HP
+0x822616 e SP.
+0x82267c Escama Púrpura
+0x82269e Escama de dogecko
+0x8226c0 mais resistente. 
+0x822726 Pena Verde
+0x822748 Pena de Zebo verde.  
+0x8227d0 Pena Arco-íris
+0x8227f2 Caída de uma violenta e
+0x822814 bela criatura. 
+0x82287a Chocalho
+0x82289c Quando tocado, invoca
+0x8228be uma criatura poderosa. 
+0x822924 Sabre
+0x822946 Poderosa arma de
+0x822968 curta distância. SP: 16
+0x82298a ATK: 65
+0x8229ce Carne Contaminada
+0x8229f0 Precisa ser examinado
+0x822a78 Pele Malhada
+0x822a9a Pele de um Pekary
+0x822abc coberta de pelos. 
+0x822b22 Escama Dourada
+0x822b44 Escama extremamente
+0x822b66 rígida. 
+0x822bcc Tambor
+0x822bee Quando tocado, invoca
+0x822c10 uma criatura poderosa. 
+0x822c76 Picareta Bruta
+0x822c98 Picareta mais robusta.
+0x822cba SP: 17 ATK: 30
+0x822d20 Remédio
+0x822d42 Precisa ser entregue
+0x822dca Dinamite
+0x822dec Usado para demolições
+0x822e74 Guitarra
+0x822e96 Quando tocado, invoca
+0x822eb8 um fantasma alamdiçoado
+0x822f1e Presa de Morcego
+0x822f40 Presa afiada de
+0x822f62 morcego.
+0x822fc8 Asa de Morcego
+0x822fea Asa fina e resistente
+0x82300c de morcego.
+0x823072 Garra de Toupeira
+0x823094 Garra robusta de
+0x8230b6 criatura subterrânea.
+0x82311c Rabo de Rato
+0x82313e Cauda leve de pequeno
+0x823160 roedor.
+0x8231c6 Escama de Tatu
+0x8231e8 Escama rígida do casco
+0x82320a de tatu.
+0x823270 s_dummy
+0x82331a s_dummy
+0x8233c4 s_dummy
+0x82346e s_dummy
+0x823518 s_dummy
+0x8235c2 s_dummy
+0x82366c s_dummy
+0x823716 s_dummy
+0x8237c0 s_dummy
+0x82386a s_dummy
+0x823914 s_dummy
+0x8239be s_dummy
+0x823a68 s_dummy
+0x823b12 s_dummy
+0x823bbc s_dummy
+0x823c66 s_dummy
+0x823d10 s_dummy
+0x823dba s_dummy
+0x823e64 s_dummy
+0x823f0e s_dummy
+0x823fb8 s_dummy
+0x824062 s_dummy
+0x82410c s_dummy
+0x8241b6 s_dummy
+0x824260 s_dummy
+0x82430a s_dummy
+0x8243b4 s_dummy
+0x82445e s_dummy
+0x824508 s_dummy
+0x8245b2 s_dummy
+0x82465c s_dummy
+0x824706 s_dummy
+0x8247b0 s_dummy
+0x82485a s_dummy
+0x824904 s_dummy
+0x8249ae s_dummy
+0x824a58 s_dummy
+0x824b02 s_dummy
+0x824bac s_dummy
+0x824c56 s_dummy
+0x824d00 s_dummy
+0x824daa s_dummy
+0x824e54 s_dummy
+0x824efe s_dummy
+0x824fa8 s_dummy
+0x825052 s_dummy
+0x8250fc s_dummy
+0x8251a6 s_dummy
+0x825250 s_dummy
+0x8252fa s_dummy
+0x8253a4 s_dummy
+0x82544e s_dummy
+0x8254f8 s_dummy
+0x8255a2 s_dummy
+0x82564c s_dummy
+0x8256f6 s_dummy
+0x8257a0 s_dummy
+0x82584a s_dummy
+0x8258f4 s_dummy
+0x82599e s_dummy
+0x825a48 s_dummy
+0x825af2 s_dummy
+0x825b9c s_dummy
+0x825c46 s_dummy
+0x825cf0 s_dummy
+0x825d9a s_dummy
+0x825e44 s_dummy
+0x825eee s_dummy
+0x825f98 s_dummy
+0x826042 s_dummy
+0x8260ec s_dummy
+0x826196 s_dummy
+0x826240 s_dummy
+0x8262ea s_dummy
+0x826394 s_dummy
+0x82643e s_dummy
+0x8264e8 s_dummy
+0x826592 s_dummy
+0x82663c s_dummy
+0x8266e6 s_dummy
+0x826790 s_dummy
+0x82683a s_dummy
+0x8268e4 s_dummy
+0x82698e s_dummy
+0x826a38 s_dummy
+0x826ae2 s_dummy
+0x826b8c s_dummy
+0x826c36 s_dummy
+0x828058 T1

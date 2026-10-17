@@ -1,0 +1,13 @@
+{
+  "label": "CAMP → 营地",
+  "offsets": [
+    "0x151898",
+    "0x39a3b8"
+  ],
+  "format": "two horizontal 8bpp 8×8 tiles per copy",
+  "font": "Fusion Pixel zh_Hans 8px, SIL OFL1.1",
+  "changed_tiles": 4,
+  "palette_unchanged": true,
+  "layout_unchanged": true,
+  "source_asset_sha256": "99ab3281b7f43864108f81c890e1331b164b54dc839e010d1259afc17b6e825f"
+}

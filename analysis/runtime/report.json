@@ -1,0 +1,15 @@
+{
+  "sha256": "55c49207ef51e9ce7c5fea1e0299ca4ce440c41d670419acc2bb2d731c86c0e4",
+  "checks": "Blank SRAM boot, Chinese language selection, title menu, new game, 65 opening confirmations, eight weather tutorial pages, controls, actual camp scene, status, inventory weapons category, A/B navigation, all six Start menu pages and menu return.",
+  "limits": "Not a full playthrough or hardware validation.",
+  "manual_review": {
+    "opening": "Opening second row readable; OAM 12px pitch verified",
+    "rich_text": "Opening44/46/50 second rows readable, 12px pitch; color markers and character name intact",
+    "mission": "Multiple lines fit without collisions",
+    "menu": "All six Start pages manually inspected; Chinese header/category/confirm/return labels intact",
+    "inventory": "Water bottle / pistol / machete list names and weapons group render correctly; existing original classification retained",
+    "item_description": "40 item description fields verified statically; current runtime inventory_category_return is empty consumables and is not treated as description coverage",
+    "camp": "Actual scene restored after B, Chinese camp sign and normal sprite rendering",
+    "continuous_frames": "16 transitions / 2400 frames recorded. Menu slides/scene entry/return contact sheets manually inspected. Original and patched Start entry both have monochrome fade only at frames6,7."
+  }
+}

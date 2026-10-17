@@ -1,0 +1,658 @@
+[
+  {
+    "desc": 8548392,
+    "tiles": 700148,
+    "tile_end": 704020,
+    "map": 704020,
+    "palette": 706068,
+    "count": 121
+  },
+  {
+    "desc": 8548432,
+    "tiles": 969332,
+    "tile_end": 973204,
+    "map": 973204,
+    "palette": 975252,
+    "count": 121
+  },
+  {
+    "desc": 8548472,
+    "tiles": 839092,
+    "tile_end": 846740,
+    "map": 846740,
+    "palette": 848788,
+    "count": 239
+  },
+  {
+    "desc": 8548512,
+    "tiles": 2525944,
+    "tile_end": 2533784,
+    "map": 2533784,
+    "palette": 2535832,
+    "count": 245
+  },
+  {
+    "desc": 8548552,
+    "tiles": 2279800,
+    "tile_end": 2287544,
+    "map": 2287544,
+    "palette": 2289592,
+    "count": 242
+  },
+  {
+    "desc": 8548592,
+    "tiles": 722676,
+    "tile_end": 730580,
+    "map": 730580,
+    "palette": 732628,
+    "count": 247
+  },
+  {
+    "desc": 8548632,
+    "tiles": 2648600,
+    "tile_end": 2656536,
+    "map": 2656536,
+    "palette": 2658584,
+    "count": 248
+  },
+  {
+    "desc": 8548672,
+    "tiles": 3079096,
+    "tile_end": 3087224,
+    "map": 3087224,
+    "palette": 3089272,
+    "count": 254
+  },
+  {
+    "desc": 8548712,
+    "tiles": 3727384,
+    "tile_end": 3734744,
+    "map": 3734744,
+    "palette": 3736792,
+    "count": 230
+  },
+  {
+    "desc": 8548752,
+    "tiles": 1551832,
+    "tile_end": 1559448,
+    "map": 1559448,
+    "palette": 1561496,
+    "count": 238
+  },
+  {
+    "desc": 8548952,
+    "tiles": 2584408,
+    "tile_end": 2595736,
+    "map": 2595736,
+    "palette": 2597784,
+    "count": 354
+  },
+  {
+    "desc": 8548992,
+    "tiles": 1811736,
+    "tile_end": 1823160,
+    "map": 1823160,
+    "palette": 1825208,
+    "count": 357
+  },
+  {
+    "desc": 8549112,
+    "tiles": 2535864,
+    "tile_end": 2539128,
+    "map": 2539128,
+    "palette": 2541176,
+    "count": 102
+  },
+  {
+    "desc": 8549152,
+    "tiles": 2951800,
+    "tile_end": 2955160,
+    "map": 2955160,
+    "palette": 2957208,
+    "count": 105
+  },
+  {
+    "desc": 8549192,
+    "tiles": 2068952,
+    "tile_end": 2076920,
+    "map": 2076920,
+    "palette": 2078968,
+    "count": 249
+  },
+  {
+    "desc": 8549232,
+    "tiles": 740756,
+    "tile_end": 748788,
+    "map": 748788,
+    "palette": 750836,
+    "count": 251
+  },
+  {
+    "desc": 8549272,
+    "tiles": 612884,
+    "tile_end": 617716,
+    "map": 617716,
+    "palette": 619764,
+    "count": 151
+  },
+  {
+    "desc": 8549312,
+    "tiles": 1934744,
+    "tile_end": 1939512,
+    "map": 1939512,
+    "palette": 1941560,
+    "count": 149
+  },
+  {
+    "desc": 8549352,
+    "tiles": 619796,
+    "tile_end": 624628,
+    "map": 624628,
+    "palette": 626676,
+    "count": 151
+  },
+  {
+    "desc": 8549392,
+    "tiles": 2559864,
+    "tile_end": 2564472,
+    "map": 2564472,
+    "palette": 2566520,
+    "count": 144
+  },
+  {
+    "desc": 8549432,
+    "tiles": 1915800,
+    "tile_end": 1920760,
+    "map": 1920760,
+    "palette": 1922808,
+    "count": 155
+  },
+  {
+    "desc": 8549472,
+    "tiles": 2229912,
+    "tile_end": 2235352,
+    "map": 2235352,
+    "palette": 2237400,
+    "count": 170
+  },
+  {
+    "desc": 8549512,
+    "tiles": 1592984,
+    "tile_end": 1597944,
+    "map": 1597944,
+    "palette": 1599992,
+    "count": 155
+  },
+  {
+    "desc": 8549552,
+    "tiles": 2775192,
+    "tile_end": 2780632,
+    "map": 2780632,
+    "palette": 2782680,
+    "count": 170
+  },
+  {
+    "desc": 8549592,
+    "tiles": 633524,
+    "tile_end": 638516,
+    "map": 638516,
+    "palette": 640564,
+    "count": 156
+  },
+  {
+    "desc": 8549632,
+    "tiles": 941588,
+    "tile_end": 947060,
+    "map": 947060,
+    "palette": 949108,
+    "count": 171
+  },
+  {
+    "desc": 8549672,
+    "tiles": 1928696,
+    "tile_end": 1932120,
+    "map": 1932120,
+    "palette": 1934168,
+    "count": 107
+  },
+  {
+    "desc": 8549712,
+    "tiles": 2239512,
+    "tile_end": 2243064,
+    "map": 2243064,
+    "palette": 2245112,
+    "count": 111
+  },
+  {
+    "desc": 8549752,
+    "tiles": 863988,
+    "tile_end": 867060,
+    "map": 867060,
+    "palette": 869108,
+    "count": 96
+  },
+  {
+    "desc": 8549792,
+    "tiles": 2121272,
+    "tile_end": 2124472,
+    "map": 2124472,
+    "palette": 2126520,
+    "count": 100
+  },
+  {
+    "desc": 8549832,
+    "tiles": 1825240,
+    "tile_end": 1831896,
+    "map": 1831896,
+    "palette": 1833944,
+    "count": 208
+  },
+  {
+    "desc": 8549872,
+    "tiles": 2176024,
+    "tile_end": 2182296,
+    "map": 2182296,
+    "palette": 2184344,
+    "count": 196
+  },
+  {
+    "desc": 8549912,
+    "tiles": 3691928,
+    "tile_end": 3696536,
+    "map": 3696536,
+    "palette": 3698584,
+    "count": 144
+  },
+  {
+    "desc": 8549952,
+    "tiles": 626708,
+    "tile_end": 631444,
+    "map": 631444,
+    "palette": 633492,
+    "count": 148
+  },
+  {
+    "desc": 8549992,
+    "tiles": 2783000,
+    "tile_end": 2787608,
+    "map": 2787608,
+    "palette": 2789656,
+    "count": 144
+  },
+  {
+    "desc": 8550032,
+    "tiles": 1344632,
+    "tile_end": 1349208,
+    "map": 1349208,
+    "palette": 1351256,
+    "count": 143
+  },
+  {
+    "desc": 8550072,
+    "tiles": 2362072,
+    "tile_end": 2364824,
+    "map": 2364824,
+    "palette": 2366872,
+    "count": 86
+  },
+  {
+    "desc": 8550112,
+    "tiles": 736020,
+    "tile_end": 738516,
+    "map": 738516,
+    "palette": 740564,
+    "count": 78
+  },
+  {
+    "desc": 8550152,
+    "tiles": 3720792,
+    "tile_end": 3725304,
+    "map": 3725304,
+    "palette": 3727352,
+    "count": 141
+  },
+  {
+    "desc": 8550192,
+    "tiles": 1365400,
+    "tile_end": 1369976,
+    "map": 1369976,
+    "palette": 1372024,
+    "count": 143
+  },
+  {
+    "desc": 8550232,
+    "tiles": 1351288,
+    "tile_end": 1356344,
+    "map": 1356344,
+    "palette": 1358392,
+    "count": 158
+  },
+  {
+    "desc": 8550272,
+    "tiles": 1175540,
+    "tile_end": 1180660,
+    "map": 1180660,
+    "palette": 1182708,
+    "count": 160
+  },
+  {
+    "desc": 8550312,
+    "tiles": 1484856,
+    "tile_end": 1489240,
+    "map": 1489240,
+    "palette": 1491288,
+    "count": 137
+  },
+  {
+    "desc": 8550352,
+    "tiles": 1954360,
+    "tile_end": 1958968,
+    "map": 1958968,
+    "palette": 1961016,
+    "count": 144
+  },
+  {
+    "desc": 8550392,
+    "tiles": 1358424,
+    "tile_end": 1363320,
+    "map": 1363320,
+    "palette": 1365368,
+    "count": 153
+  },
+  {
+    "desc": 8550432,
+    "tiles": 1908056,
+    "tile_end": 1913176,
+    "map": 1913176,
+    "palette": 1915224,
+    "count": 160
+  },
+  {
+    "desc": 8550472,
+    "tiles": 857940,
+    "tile_end": 861908,
+    "map": 861908,
+    "palette": 863956,
+    "count": 124
+  },
+  {
+    "desc": 8550512,
+    "tiles": 1901560,
+    "tile_end": 1905432,
+    "map": 1905432,
+    "palette": 1907480,
+    "count": 121
+  },
+  {
+    "desc": 8550552,
+    "tiles": 2376056,
+    "tile_end": 2380824,
+    "map": 2380824,
+    "palette": 2382872,
+    "count": 149
+  },
+  {
+    "desc": 8550592,
+    "tiles": 815156,
+    "tile_end": 819796,
+    "map": 819796,
+    "palette": 821844,
+    "count": 145
+  },
+  {
+    "desc": 8550632,
+    "tiles": 1997912,
+    "tile_end": 2002616,
+    "map": 2002616,
+    "palette": 2004664,
+    "count": 147
+  },
+  {
+    "desc": 8550672,
+    "tiles": 2397784,
+    "tile_end": 2402520,
+    "map": 2402520,
+    "palette": 2404568,
+    "count": 148
+  },
+  {
+    "desc": 8550712,
+    "tiles": 1161204,
+    "tile_end": 1165876,
+    "map": 1165876,
+    "palette": 1167924,
+    "count": 146
+  },
+  {
+    "desc": 8550752,
+    "tiles": 2095768,
+    "tile_end": 2100504,
+    "map": 2100504,
+    "palette": 2102552,
+    "count": 148
+  },
+  {
+    "desc": 8550792,
+    "tiles": 1458488,
+    "tile_end": 1463704,
+    "map": 1463704,
+    "palette": 1465752,
+    "count": 163
+  },
+  {
+    "desc": 8550832,
+    "tiles": 1968184,
+    "tile_end": 1973464,
+    "map": 1973464,
+    "palette": 1975512,
+    "count": 165
+  },
+  {
+    "desc": 8550872,
+    "tiles": 644244,
+    "tile_end": 649492,
+    "map": 649492,
+    "palette": 651540,
+    "count": 164
+  },
+  {
+    "desc": 8550912,
+    "tiles": 960084,
+    "tile_end": 965396,
+    "map": 965396,
+    "palette": 967444,
+    "count": 166
+  },
+  {
+    "desc": 8550952,
+    "tiles": 2848440,
+    "tile_end": 2851704,
+    "map": 2851704,
+    "palette": 2853752,
+    "count": 102
+  },
+  {
+    "desc": 8550992,
+    "tiles": 3686808,
+    "tile_end": 3689848,
+    "map": 3689848,
+    "palette": 3691896,
+    "count": 95
+  },
+  {
+    "desc": 8551032,
+    "tiles": 2193720,
+    "tile_end": 2200568,
+    "map": 2200568,
+    "palette": 2202616,
+    "count": 214
+  },
+  {
+    "desc": 8551072,
+    "tiles": 2366904,
+    "tile_end": 2373976,
+    "map": 2373976,
+    "palette": 2376024,
+    "count": 221
+  },
+  {
+    "desc": 8551112,
+    "tiles": 2759416,
+    "tile_end": 2773112,
+    "map": 2773112,
+    "palette": 2775160,
+    "count": 428
+  },
+  {
+    "desc": 8551152,
+    "tiles": 1314936,
+    "tile_end": 1328536,
+    "map": 1328536,
+    "palette": 1330584,
+    "count": 425
+  },
+  {
+    "desc": 8551192,
+    "tiles": 1941592,
+    "tile_end": 1949624,
+    "map": 1949624,
+    "palette": 1951672,
+    "count": 251
+  },
+  {
+    "desc": 8551232,
+    "tiles": 2341176,
+    "tile_end": 2349208,
+    "map": 2349208,
+    "palette": 2351256,
+    "count": 251
+  },
+  {
+    "desc": 8551272,
+    "tiles": 2541208,
+    "tile_end": 2547704,
+    "map": 2547704,
+    "palette": 2549752,
+    "count": 203
+  },
+  {
+    "desc": 8551312,
+    "tiles": 2840024,
+    "tile_end": 2846360,
+    "map": 2846360,
+    "palette": 2848408,
+    "count": 198
+  },
+  {
+    "desc": 8551352,
+    "tiles": 707700,
+    "tile_end": 717492,
+    "map": 717492,
+    "palette": 719540,
+    "count": 306
+  },
+  {
+    "desc": 8551392,
+    "tiles": 949300,
+    "tile_end": 958004,
+    "map": 958004,
+    "palette": 960052,
+    "count": 272
+  },
+  {
+    "desc": 8551432,
+    "tiles": 2831096,
+    "tile_end": 2837944,
+    "map": 2837944,
+    "palette": 2839992,
+    "count": 214
+  },
+  {
+    "desc": 8551472,
+    "tiles": 1330616,
+    "tile_end": 1338488,
+    "map": 1338488,
+    "palette": 1340536,
+    "count": 246
+  },
+  {
+    "desc": 8551512,
+    "tiles": 829172,
+    "tile_end": 837012,
+    "map": 837012,
+    "palette": 839060,
+    "count": 245
+  },
+  {
+    "desc": 8551552,
+    "tiles": 1305112,
+    "tile_end": 1312856,
+    "map": 1312856,
+    "palette": 1314904,
+    "count": 242
+  },
+  {
+    "desc": 8551592,
+    "tiles": 1978808,
+    "tile_end": 1986104,
+    "map": 1986104,
+    "palette": 1988152,
+    "count": 228
+  },
+  {
+    "desc": 8551632,
+    "tiles": 2404760,
+    "tile_end": 2412440,
+    "map": 2412440,
+    "palette": 2414488,
+    "count": 240
+  },
+  {
+    "desc": 8551672,
+    "tiles": 907124,
+    "tile_end": 916180,
+    "map": 916180,
+    "palette": 918228,
+    "count": 283
+  },
+  {
+    "desc": 8551712,
+    "tiles": 3668952,
+    "tile_end": 3678104,
+    "map": 3678104,
+    "palette": 3680152,
+    "count": 286
+  },
+  {
+    "desc": 8551752,
+    "tiles": 2576632,
+    "tile_end": 2582328,
+    "map": 2582328,
+    "palette": 2584376,
+    "count": 178
+  },
+  {
+    "desc": 8551792,
+    "tiles": 1834520,
+    "tile_end": 1840024,
+    "map": 1840024,
+    "palette": 1842072,
+    "count": 172
+  },
+  {
+    "desc": 8551832,
+    "tiles": 2549784,
+    "tile_end": 2557784,
+    "map": 2557784,
+    "palette": 2559832,
+    "count": 250
+  },
+  {
+    "desc": 8551872,
+    "tiles": 2566552,
+    "tile_end": 2574552,
+    "map": 2574552,
+    "palette": 2576600,
+    "count": 250
+  }
+]
